@@ -1056,3 +1056,386 @@ select {
         font-size: clamp(22px, 6.2vw, 31px)
     }
 }
+
+
+/* ===== Responsive Reading Final: phones, tablets, iPad and landscape ===== */
+:root {
+    --reading-scale: 1;
+    --chant-header-h: 88px;
+    --chant-control-h: 128px;
+}
+
+html,
+body {
+    min-height: 100%;
+}
+
+@supports (height:100dvh) {
+
+    body.chant-mode,
+    body.chant-mode .app-shell,
+    body.chant-mode #viewChant.active,
+    body.chant-mode .chant-layout {
+        height: 100dvh !important;
+        min-height: 100dvh !important;
+    }
+}
+
+@supports not (height:100dvh) {
+
+    body.chant-mode,
+    body.chant-mode .app-shell,
+    body.chant-mode #viewChant.active,
+    body.chant-mode .chant-layout {
+        height: 100vh !important;
+        min-height: 100vh !important;
+    }
+}
+
+.mobile-reading-tools {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    flex: 0 0 auto
+}
+
+.mobile-font-btn {
+    min-width: 31px;
+    height: 29px;
+    padding: 0 7px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: #fff;
+    font-family: inherit;
+    font-weight: 900;
+    font-size: 11px;
+    color: var(--ink);
+    cursor: pointer;
+}
+
+.mobile-font-btn.active {
+    background: var(--yellow);
+    box-shadow: inset 0 -2px 0 rgba(160, 110, 0, .22)
+}
+
+@media(max-width:900px) {
+    body.chant-mode {
+        overflow: hidden !important;
+        padding: 0 !important
+    }
+
+    body.chant-mode .chant-layout {
+        display: grid !important;
+        grid-template-rows: var(--chant-header-h) minmax(0, 1fr) auto !important;
+        overflow: hidden !important;
+        gap: 0 !important;
+    }
+
+    body.chant-mode .mobile-chant-bar {
+        height: var(--chant-header-h);
+        min-height: var(--chant-header-h);
+        overflow: hidden;
+        padding: 7px 10px 8px !important;
+    }
+
+    body.chant-mode .chant-stage {
+        height: auto !important;
+        min-height: 0 !important;
+        max-height: none !important;
+        overflow-y: auto !important;
+        overflow-x: hidden !important;
+        overscroll-behavior: contain !important;
+        -webkit-overflow-scrolling: touch;
+        padding: 8px clamp(10px, 2.8vw, 22px) max(18vh, 110px) !important;
+        scroll-padding-top: 48px;
+    }
+
+    body.chant-mode .chant-text {
+        font-size: calc(clamp(21px, min(5.65vw, 4.35vh), 38px) * var(--reading-scale)) !important;
+        line-height: 1.56 !important;
+        font-weight: 700 !important;
+        padding: 0 !important;
+        max-width: 980px;
+        margin: 0 auto;
+    }
+
+    body.chant-mode .chant-line {
+        margin: clamp(9px, 1.5vh, 16px) 0 !important;
+        padding: 0 clamp(2px, 1vw, 9px) !important;
+        overflow-wrap: break-word !important;
+        word-break: normal !important;
+        hyphens: none;
+    }
+
+    body.chant-mode .reading-guide {
+        position: sticky !important;
+        top: 4px !important;
+        z-index: 5 !important;
+        margin: 0 auto 8px !important;
+        padding: 5px 11px !important;
+        font-size: 11px !important;
+    }
+
+    body.chant-mode .chant-controls {
+        position: relative !important;
+        bottom: auto !important;
+        min-height: 0 !important;
+        padding: 7px 9px calc(7px + env(safe-area-inset-bottom)) !important;
+    }
+
+    .mobile-student-strip>span {
+        font-size: clamp(10px, 2.8vw, 12px) !important
+    }
+}
+
+/* Small phones */
+@media(max-width:420px) {
+    :root {
+        --chant-header-h: 84px
+    }
+
+    .mobile-chant-main strong {
+        font-size: 11px !important;
+        padding: 4px 7px !important
+    }
+
+    .mobile-chant-main span {
+        font-size: 11.5px !important;
+        max-width: 36vw !important
+    }
+
+    .mobile-chant-side>span {
+        font-size: 15px !important
+    }
+
+    .mobile-chant-side strong {
+        font-size: 12px !important;
+        padding: 4px 7px !important
+    }
+
+    .mobile-student-strip {
+        padding: 5px 6px 5px 8px !important;
+        gap: 5px !important
+    }
+
+    .mobile-reading-tools {
+        gap: 2px
+    }
+
+    .mobile-font-btn {
+        min-width: 27px;
+        height: 27px;
+        padding: 0 5px;
+        font-size: 10px
+    }
+
+    .mobile-jump-btn {
+        font-size: 9.5px !important;
+        padding: 5px 7px !important
+    }
+
+    body.chant-mode .chant-text {
+        font-size: calc(clamp(20px, min(5.55vw, 4.15vh), 30px) * var(--reading-scale)) !important;
+        line-height: 1.52 !important;
+    }
+
+    body.chant-mode .chant-line {
+        margin: 8px 0 !important
+    }
+
+    body.chant-mode .chant-controls {
+        grid-template-columns: 72px 1fr 1fr !important;
+        padding-left: 7px !important;
+        padding-right: 7px !important
+    }
+
+    body.chant-mode .chant-controls .btn {
+        font-size: 11px !important;
+        padding: 8px 6px !important
+    }
+
+    body.chant-mode .control-stat strong {
+        font-size: 13px !important
+    }
+
+    body.chant-mode .control-stat p {
+        font-size: 8.5px !important
+    }
+
+    body.chant-mode .control-next {
+        font-size: 13px !important;
+        padding: 11px 8px !important
+    }
+}
+
+/* Large phones and portrait tablets */
+@media(min-width:421px) and (max-width:900px) {
+    body.chant-mode .chant-text {
+        font-size: calc(clamp(23px, min(5vw, 4.2vh), 37px) * var(--reading-scale)) !important;
+        line-height: 1.6 !important;
+    }
+}
+
+/* iPad / large tablets / desktop */
+@media(min-width:901px) {
+    body.chant-mode {
+        padding: 12px;
+        overflow: hidden
+    }
+
+    body.chant-mode .topbar {
+        display: none
+    }
+
+    body.chant-mode .app-shell {
+        max-width: 1200px;
+        margin: 0 auto
+    }
+
+    body.chant-mode #viewChant.active {
+        overflow: hidden
+    }
+
+    body.chant-mode .chant-layout {
+        display: grid;
+        grid-template-rows: auto minmax(0, 1fr) auto;
+        gap: 10px
+    }
+
+    .mobile-chant-bar {
+        display: block;
+        min-height: 86px;
+        padding: 8px 12px;
+        background: linear-gradient(180deg, #fffdf0, #fff0a3);
+        border: 1px solid var(--line);
+        border-radius: 18px
+    }
+
+    body.chant-mode .chant-header {
+        display: none
+    }
+
+    body.chant-mode .chant-stage {
+        height: auto;
+        min-height: 0;
+        overflow-y: auto;
+        overflow-x: hidden;
+        padding: 12px 28px 16vh;
+        overscroll-behavior: contain
+    }
+
+    body.chant-mode .chant-text {
+        font-size: calc(clamp(29px, min(3.2vw, 4vh), 46px) * var(--reading-scale));
+        line-height: 1.65;
+        max-width: 1050px;
+        margin: 0 auto;
+        font-weight: 700;
+    }
+
+    body.chant-mode .chant-line {
+        margin: 13px 0;
+        overflow-wrap: break-word
+    }
+
+    body.chant-mode .chant-controls {
+        grid-template-columns: auto 1fr 1fr auto auto;
+        position: relative;
+        padding-bottom: calc(12px + env(safe-area-inset-bottom))
+    }
+}
+
+/* Landscape phones/tablets: prioritize reading area */
+@media(orientation:landscape) and (max-height:650px) {
+    :root {
+        --chant-header-h: 58px
+    }
+
+    body.chant-mode .mobile-chant-bar {
+        height: 58px;
+        min-height: 58px;
+        padding: 4px 8px !important
+    }
+
+    .mobile-chant-row-top {
+        margin-bottom: 3px !important
+    }
+
+    .mobile-chant-main strong,
+    .mobile-chant-main span,
+    .mobile-chant-side strong {
+        font-size: 10px !important
+    }
+
+    .mobile-chant-side>span {
+        font-size: 13px !important
+    }
+
+    .mobile-student-strip {
+        padding: 3px 6px !important
+    }
+
+    .mobile-student-strip>span {
+        font-size: 9px !important
+    }
+
+    .mobile-font-btn,
+    .mobile-jump-btn {
+        height: 23px !important;
+        min-width: 25px !important;
+        font-size: 9px !important;
+        padding: 0 5px !important
+    }
+
+    body.chant-mode .chant-stage {
+        padding-top: 4px !important;
+        padding-bottom: 100px !important
+    }
+
+    body.chant-mode .reading-guide {
+        font-size: 9px !important;
+        padding: 3px 8px !important;
+        margin-bottom: 4px !important
+    }
+
+    body.chant-mode .chant-text {
+        font-size: calc(clamp(18px, min(3.3vw, 5.4vh), 29px) * var(--reading-scale)) !important;
+        line-height: 1.42 !important;
+    }
+
+    body.chant-mode .chant-line {
+        margin: 5px 0 !important
+    }
+
+    body.chant-mode .chant-controls {
+        padding: 4px 7px calc(4px + env(safe-area-inset-bottom)) !important;
+        gap: 4px !important
+    }
+
+    body.chant-mode .control-stat {
+        padding: 3px !important
+    }
+
+    body.chant-mode .control-stat strong {
+        font-size: 11px !important
+    }
+
+    body.chant-mode .control-stat p {
+        display: none !important
+    }
+
+    body.chant-mode .chant-controls .btn {
+        padding: 6px !important;
+        font-size: 10px !important
+    }
+
+    body.chant-mode .control-next {
+        padding: 8px !important;
+        font-size: 11px !important
+    }
+}
+
+@media(prefers-reduced-motion:reduce) {
+    body.chant-mode .chant-stage {
+        scroll-behavior: auto !important
+    }
+}
