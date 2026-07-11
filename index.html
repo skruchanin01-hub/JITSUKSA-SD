@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="th">
-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ระบบสวดมนต์สรภัญญะ V3 Firebase</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700;800&display=swap"
-    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/style.css" />
 </head>
-
 <body>
   <header class="topbar">
     <div>
@@ -58,19 +55,13 @@
         <h2>เลือกข้อมูลนักเรียน</h2>
         <div class="form-grid">
           <label>ระดับชั้น
-            <select id="levelSelect">
-              <option value="">เลือกระดับชั้น</option>
-            </select>
+            <select id="levelSelect"><option value="">เลือกระดับชั้น</option></select>
           </label>
           <label>ห้อง
-            <select id="roomSelect">
-              <option value="">เลือกห้อง</option>
-            </select>
+            <select id="roomSelect"><option value="">เลือกห้อง</option></select>
           </label>
           <label class="full">ชื่อ-นามสกุล
-            <select id="studentSelect">
-              <option value="">เลือกชื่อ-นามสกุล</option>
-            </select>
+            <select id="studentSelect"><option value="">เลือกชื่อ-นามสกุล</option></select>
           </label>
           <label class="full">เลขประจำตัวนักเรียน 5 หลัก
             <input id="studentIdInput" inputmode="numeric" maxlength="5" placeholder="เช่น 12345" />
@@ -101,13 +92,19 @@
     <section id="viewChant" class="view">
       <div class="chant-layout">
         <div class="mobile-chant-bar" aria-label="ข้อมูลระหว่างสวดมนต์">
-          <div class="mobile-chant-main">
-            <strong id="mobileChantMeta">บทที่ -</strong>
-            <span id="mobileStudentName">นักเรียน</span>
+          <div class="mobile-chant-row mobile-chant-row-top">
+            <div class="mobile-chant-main">
+              <strong id="mobileChantMeta">บทที่ -</strong>
+              <span id="mobileChantTitle">บทสวด</span>
+            </div>
+            <div class="mobile-chant-side">
+              <span id="mobileEmojiCode">----</span>
+              <strong>🏆 <span id="mobileLiveScore">0</span></strong>
+            </div>
           </div>
-          <div class="mobile-chant-side">
-            <span id="mobileEmojiCode">----</span>
-            <strong>🏆 <span id="mobileLiveScore">0</span></strong>
+          <div class="mobile-student-strip">
+            <span id="mobileStudentName">นักเรียน</span>
+            <button id="btnJumpToTop" class="mobile-jump-btn" type="button">↑ ต้นบท</button>
           </div>
         </div>
 
@@ -130,12 +127,8 @@
 
         <div id="rgbFrame" class="chant-controls card">
           <button class="btn secondary control-mic" id="btnMic">ไมค์: เปิด</button>
-          <div class="control-stat"><strong id="timerText">00:00</strong>
-            <p id="micStateText">กำลังเตรียมไมค์</p>
-          </div>
-          <div class="control-stat"><strong id="comboText">คอมโบ x0</strong>
-            <p>ระบบวัดเสียงจากเครื่องนักเรียน</p>
-          </div>
+          <div class="control-stat"><strong id="timerText">00:00</strong><p id="micStateText">กำลังเตรียมไมค์</p></div>
+          <div class="control-stat"><strong id="comboText">คอมโบ x0</strong><p>ระบบวัดเสียงจากเครื่องนักเรียน</p></div>
           <button class="btn primary control-next" id="btnNextChapter">กดค้าง 2 วิ: บทถัดไป</button>
           <button class="btn ghost control-exit" id="btnBackHomeFromChant">ออก</button>
         </div>
@@ -238,5 +231,4 @@
 
   <script type="module" src="assets/app.js"></script>
 </body>
-
 </html>
