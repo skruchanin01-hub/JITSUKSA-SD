@@ -4,6 +4,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "1",
+    "studentId": "13555",
     "fullName": "นายศราวุฒิ บัวแก้ว",
     "active": true
   },
@@ -12,6 +13,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "2",
+    "studentId": "13956",
     "fullName": "เด็กชายกันต์กวี ศรีม่วง",
     "active": true
   },
@@ -20,6 +22,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "3",
+    "studentId": "13957",
     "fullName": "เด็กชายเกียตติศักดิ์ แซ่โกว",
     "active": true
   },
@@ -28,6 +31,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "4",
+    "studentId": "13958",
     "fullName": "เด็กชายชยางกูร มากพูล",
     "active": true
   },
@@ -36,6 +40,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "5",
+    "studentId": "13959",
     "fullName": "เด็กชายณัฏฐ์นนท์ เรืองอุไร",
     "active": true
   },
@@ -44,6 +49,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "6",
+    "studentId": "13961",
     "fullName": "เด็กชายธนภัทร ปานทอง",
     "active": true
   },
@@ -52,6 +58,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "7",
+    "studentId": "13962",
     "fullName": "เด็กชายธิติวุฒิ บุญประเสริฐ",
     "active": true
   },
@@ -60,6 +67,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "8",
+    "studentId": "13963",
     "fullName": "เด็กชายธีรเดช วงศ์จำปา",
     "active": true
   },
@@ -68,6 +76,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "9",
+    "studentId": "13964",
     "fullName": "เด็กชายธีรพัฒน์ กลิ่นสอน",
     "active": true
   },
@@ -76,6 +85,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "10",
+    "studentId": "13965",
     "fullName": "เด็กชายนาวิก ฑีฆาวงค์",
     "active": true
   },
@@ -84,6 +94,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "11",
+    "studentId": "13967",
     "fullName": "เด็กชายปฏิภาณ แย้มพราย",
     "active": true
   },
@@ -92,6 +103,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "12",
+    "studentId": "13968",
     "fullName": "เด็กชายปัณณวัฒน์ สุทาวัน",
     "active": true
   },
@@ -100,6 +112,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "13",
+    "studentId": "13969",
     "fullName": "เด็กชายพิชัย ชัยชนะ",
     "active": true
   },
@@ -108,6 +121,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "14",
+    "studentId": "13970",
     "fullName": "เด็กชายพิชิต ชัยชนะ",
     "active": true
   },
@@ -116,6 +130,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "15",
+    "studentId": "13971",
     "fullName": "เด็กชายพีรภาส แสนขันติ",
     "active": true
   },
@@ -124,6 +139,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "16",
+    "studentId": "13972",
     "fullName": "เด็กชายภาณุพงษ์ อธิปทินภัทร",
     "active": true
   },
@@ -132,6 +148,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "17",
+    "studentId": "13973",
     "fullName": "เด็กชายภูผา เสาวรส",
     "active": true
   },
@@ -140,6 +157,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "18",
+    "studentId": "13974",
     "fullName": "เด็กชายมาวิน วงษ์เพ็ชร",
     "active": true
   },
@@ -148,6 +166,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "19",
+    "studentId": "13976",
     "fullName": "เด็กชายราเมร์ศ กระหวาย",
     "active": true
   },
@@ -156,6 +175,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "20",
+    "studentId": "13977",
     "fullName": "เด็กชายศุภวิชญ์ ชูปทุม",
     "active": true
   },
@@ -164,6 +184,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "21",
+    "studentId": "13978",
     "fullName": "เด็กชายสมัชชา พวงแก้ว",
     "active": true
   },
@@ -172,6 +193,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "22",
+    "studentId": "13979",
     "fullName": "เด็กชายสหรัฐ นิ่มนวล",
     "active": true
   },
@@ -180,6 +202,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "23",
+    "studentId": "13980",
     "fullName": "เด็กชายอนันยช ไชยศรี",
     "active": true
   },
@@ -188,6 +211,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "24",
+    "studentId": "13981",
     "fullName": "เด็กชายอภิเดช สืบศรี",
     "active": true
   },
@@ -196,6 +220,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "25",
+    "studentId": "13982",
     "fullName": "เด็กหญิงณฐิตา เซี่ยงว่อง",
     "active": true
   },
@@ -204,6 +229,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "26",
+    "studentId": "13983",
     "fullName": "เด็กหญิงณัฐชาณัณ สมตั้ง",
     "active": true
   },
@@ -212,6 +238,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "27",
+    "studentId": "13984",
     "fullName": "เด็กหญิงธัญลักษณ์ อ่ำอินทร์",
     "active": true
   },
@@ -220,6 +247,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "28",
+    "studentId": "13985",
     "fullName": "เด็กหญิงปริยฉัตร มะหาวงษ์",
     "active": true
   },
@@ -228,6 +256,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "29",
+    "studentId": "13986",
     "fullName": "เด็กหญิงปิยะพร ประเสริฐพงษ์",
     "active": true
   },
@@ -236,6 +265,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "30",
+    "studentId": "13987",
     "fullName": "เด็กหญิงพรทิพย์ วงภักดี",
     "active": true
   },
@@ -244,6 +274,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "31",
+    "studentId": "13988",
     "fullName": "เด็กหญิงพิมพร คำระสิงห์",
     "active": true
   },
@@ -252,6 +283,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "32",
+    "studentId": "13989",
     "fullName": "เด็กหญิงฟาห์รีดา ราแดง",
     "active": true
   },
@@ -260,6 +292,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "33",
+    "studentId": "13990",
     "fullName": "เด็กหญิงมัฉฉา เมฆหมอก",
     "active": true
   },
@@ -268,6 +301,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "34",
+    "studentId": "13991",
     "fullName": "เด็กหญิงลักษิกา รุดดิษฐ",
     "active": true
   },
@@ -276,6 +310,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "35",
+    "studentId": "13992",
     "fullName": "เด็กหญิงวีรภัทรา ลันศรี",
     "active": true
   },
@@ -284,6 +319,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "36",
+    "studentId": "13993",
     "fullName": "เด็กหญิงสิรภัทร สากุล",
     "active": true
   },
@@ -292,6 +328,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "37",
+    "studentId": "13994",
     "fullName": "เด็กหญิงสิรินภัทร สากุล",
     "active": true
   },
@@ -300,6 +337,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "38",
+    "studentId": "13995",
     "fullName": "เด็กหญิงสุภัสสรา ศรีชนะ",
     "active": true
   },
@@ -308,6 +346,7 @@
     "level": "ม.2",
     "room": "1",
     "no": "39",
+    "studentId": "14789",
     "fullName": "เด็กหญิงมรกต ไถ้เงิน",
     "active": true
   },
@@ -316,6 +355,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "1",
+    "studentId": "13996",
     "fullName": "เด็กชายกฤษกร สุทธิศักดิ์",
     "active": true
   },
@@ -324,6 +364,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "2",
+    "studentId": "13997",
     "fullName": "เด็กชายกลวัชร บุญมา",
     "active": true
   },
@@ -332,6 +373,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "3",
+    "studentId": "13998",
     "fullName": "เด็กชายกวิน ยอแจะ",
     "active": true
   },
@@ -340,6 +382,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "4",
+    "studentId": "13999",
     "fullName": "เด็กชายก้องเกียรติ์ โพนปลัด",
     "active": true
   },
@@ -348,6 +391,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "5",
+    "studentId": "14000",
     "fullName": "เด็กชายจิรภัทร หวังชิดกลาง",
     "active": true
   },
@@ -356,6 +400,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "6",
+    "studentId": "14002",
     "fullName": "เด็กชายตฤณ โพธิ์ศรีสูง",
     "active": true
   },
@@ -364,6 +409,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "7",
+    "studentId": "14003",
     "fullName": "เด็กชายธีรภัทร์ อินทรขาว",
     "active": true
   },
@@ -372,6 +418,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "8",
+    "studentId": "14004",
     "fullName": "เด็กชายนครินทร์ เตรียมดี",
     "active": true
   },
@@ -380,6 +427,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "9",
+    "studentId": "14005",
     "fullName": "เด็กชายนนทพัทธ์ นิ่มชม",
     "active": true
   },
@@ -388,6 +436,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "10",
+    "studentId": "14006",
     "fullName": "เด็กชายนิพัทธ์ ช่วงชัย",
     "active": true
   },
@@ -396,6 +445,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "11",
+    "studentId": "14007",
     "fullName": "เด็กชายพิสิษฐ์ ทิพย์รักษ์",
     "active": true
   },
@@ -404,6 +454,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "12",
+    "studentId": "14008",
     "fullName": "เด็กชายสรวิชญ์ อร่ามฉาย",
     "active": true
   },
@@ -412,6 +463,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "13",
+    "studentId": "14009",
     "fullName": "เด็กชายสัมฤทธิ์ เอี่ยมสีสุก",
     "active": true
   },
@@ -420,6 +472,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "14",
+    "studentId": "14010",
     "fullName": "เด็กชายอดิศร ศรีสุวรรณ",
     "active": true
   },
@@ -428,6 +481,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "15",
+    "studentId": "14011",
     "fullName": "เด็กหญิงกมลวรรณ ผลสวัสดิ์",
     "active": true
   },
@@ -436,6 +490,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "16",
+    "studentId": "14012",
     "fullName": "เด็กหญิงกัญญามาศ พรมนอก",
     "active": true
   },
@@ -444,6 +499,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "17",
+    "studentId": "14013",
     "fullName": "เด็กหญิงจิณณ์ณิชา ชมดี",
     "active": true
   },
@@ -452,6 +508,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "18",
+    "studentId": "14014",
     "fullName": "เด็กหญิงชนากานต์ เสือเอ็ง",
     "active": true
   },
@@ -460,6 +517,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "19",
+    "studentId": "14015",
     "fullName": "เด็กหญิงชลปรียา อักษรสระน้อย",
     "active": true
   },
@@ -468,6 +526,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "20",
+    "studentId": "14016",
     "fullName": "เด็กหญิงฐาปนา ขันทอัต",
     "active": true
   },
@@ -476,6 +535,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "21",
+    "studentId": "14017",
     "fullName": "เด็กหญิงธัญชนก เครือแตง",
     "active": true
   },
@@ -484,6 +544,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "22",
+    "studentId": "14018",
     "fullName": "เด็กหญิงธันญารัตน์ ปาตี",
     "active": true
   },
@@ -492,6 +553,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "23",
+    "studentId": "14019",
     "fullName": "เด็กหญิงธาริณี คชวงษ์",
     "active": true
   },
@@ -500,6 +562,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "24",
+    "studentId": "14020",
     "fullName": "เด็กหญิงธิติการต์ สิงห์ลอ",
     "active": true
   },
@@ -508,6 +571,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "25",
+    "studentId": "14021",
     "fullName": "เด็กหญิงธิติสุดา แสนสุข",
     "active": true
   },
@@ -516,6 +580,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "26",
+    "studentId": "14022",
     "fullName": "เด็กหญิงนริศรา ตะกรุดวัด",
     "active": true
   },
@@ -524,6 +589,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "27",
+    "studentId": "14023",
     "fullName": "เด็กหญิงปัญทิชา พลซา",
     "active": true
   },
@@ -532,6 +598,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "28",
+    "studentId": "14024",
     "fullName": "เด็กหญิงปัณฑ์ชนิต นุชศรี",
     "active": true
   },
@@ -540,6 +607,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "29",
+    "studentId": "14025",
     "fullName": "เด็กหญิงปิติภัทร์ สายทอง",
     "active": true
   },
@@ -548,6 +616,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "30",
+    "studentId": "14026",
     "fullName": "เด็กหญิงปุณยาพร ปู่โท",
     "active": true
   },
@@ -556,6 +625,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "31",
+    "studentId": "14027",
     "fullName": "เด็กหญิงพลอยไพลิน ผ่องผิว",
     "active": true
   },
@@ -564,6 +634,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "32",
+    "studentId": "14028",
     "fullName": "เด็กหญิงพิมพกานต์ ปัญญาพูนผล",
     "active": true
   },
@@ -572,6 +643,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "33",
+    "studentId": "14029",
     "fullName": "เด็กหญิงพิมพ์พรรณ อนันตะสุข",
     "active": true
   },
@@ -580,6 +652,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "34",
+    "studentId": "14030",
     "fullName": "เด็กหญิงมุทิตา จงกลณีย์",
     "active": true
   },
@@ -588,6 +661,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "35",
+    "studentId": "14031",
     "fullName": "เด็กหญิงรมิตา ดุนา",
     "active": true
   },
@@ -596,6 +670,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "36",
+    "studentId": "14032",
     "fullName": "เด็กหญิงฤทัยรัชต์ พลเยี่ยม",
     "active": true
   },
@@ -604,6 +679,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "37",
+    "studentId": "14034",
     "fullName": "เด็กหญิงศิรดา ขันทอง",
     "active": true
   },
@@ -612,6 +688,7 @@
     "level": "ม.2",
     "room": "2",
     "no": "38",
+    "studentId": "14035",
     "fullName": "เด็กหญิงอมรยุพา วิจิตรพลเกณฑ์",
     "active": true
   },
@@ -620,6 +697,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "1",
+    "studentId": "14036",
     "fullName": "เด็กชายกฤชพล สัจจาระมลทิน",
     "active": true
   },
@@ -628,6 +706,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "2",
+    "studentId": "14037",
     "fullName": "เด็กชายดีน่า อน",
     "active": true
   },
@@ -636,6 +715,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "3",
+    "studentId": "14038",
     "fullName": "เด็กชายธนกฤต รอดอินทร์",
     "active": true
   },
@@ -644,6 +724,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "4",
+    "studentId": "14039",
     "fullName": "เด็กชายธนพร ปานโชติ",
     "active": true
   },
@@ -652,6 +733,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "5",
+    "studentId": "14040",
     "fullName": "เด็กชายธนพล นันทนุช",
     "active": true
   },
@@ -660,6 +742,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "6",
+    "studentId": "14041",
     "fullName": "เด็กชายธนาธิป แสงจันทร์",
     "active": true
   },
@@ -668,6 +751,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "7",
+    "studentId": "14042",
     "fullName": "เด็กชายปุญญพัฒน์ ไชยปัญญา",
     "active": true
   },
@@ -676,6 +760,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "8",
+    "studentId": "14043",
     "fullName": "เด็กชายวรวุฒิ แปลพรมราช",
     "active": true
   },
@@ -684,6 +769,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "9",
+    "studentId": "14044",
     "fullName": "เด็กชายศรันภัส ทองคำ",
     "active": true
   },
@@ -692,6 +778,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "10",
+    "studentId": "14045",
     "fullName": "เด็กชายอัครวินท์ สมศรีงาม",
     "active": true
   },
@@ -700,6 +787,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "11",
+    "studentId": "14417",
     "fullName": "เด็กชายธนกฤต ไผ่หล้า",
     "active": true
   },
@@ -708,6 +796,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "12",
+    "studentId": "14046",
     "fullName": "เด็กหญิงกฤษติกาญน์ กรกฎ",
     "active": true
   },
@@ -716,6 +805,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "13",
+    "studentId": "14047",
     "fullName": "เด็กหญิงกัญญาณัฐ เวียงแก้ว",
     "active": true
   },
@@ -724,6 +814,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "14",
+    "studentId": "14048",
     "fullName": "เด็กหญิงขวัญข้าว จุไร",
     "active": true
   },
@@ -732,6 +823,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "15",
+    "studentId": "14049",
     "fullName": "เด็กหญิงเขมจิรา แสนคม",
     "active": true
   },
@@ -740,6 +832,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "16",
+    "studentId": "14050",
     "fullName": "เด็กหญิงจิตญาดา ผลจันทร์",
     "active": true
   },
@@ -748,6 +841,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "17",
+    "studentId": "14051",
     "fullName": "เด็กหญิงฌนากานต์ แม้นอุดม",
     "active": true
   },
@@ -756,6 +850,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "18",
+    "studentId": "14052",
     "fullName": "เด็กหญิงณัฐธยาณ์ ศรีสูงเนิน",
     "active": true
   },
@@ -764,6 +859,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "19",
+    "studentId": "14053",
     "fullName": "เด็กหญิงณิชากร ขอญวนกลาง",
     "active": true
   },
@@ -772,6 +868,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "20",
+    "studentId": "14054",
     "fullName": "เด็กหญิงณิชาพร ขอญวนกลาง",
     "active": true
   },
@@ -780,6 +877,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "21",
+    "studentId": "14055",
     "fullName": "เด็กหญิงธัญญรัตน์ สีทา",
     "active": true
   },
@@ -788,6 +886,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "22",
+    "studentId": "14056",
     "fullName": "เด็กหญิงบุญญิสา ชิมบุญ",
     "active": true
   },
@@ -796,6 +895,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "23",
+    "studentId": "14057",
     "fullName": "เด็กหญิงปรายฟ้า อุ้ยสูงเนิน",
     "active": true
   },
@@ -804,6 +904,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "24",
+    "studentId": "14058",
     "fullName": "เด็กหญิงปริยากร อ่อนภูธร",
     "active": true
   },
@@ -812,6 +913,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "25",
+    "studentId": "14059",
     "fullName": "เด็กหญิงปรีย์นันท์ นิวาส",
     "active": true
   },
@@ -820,6 +922,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "26",
+    "studentId": "14060",
     "fullName": "เด็กหญิงเพชรรัตน์ บุญตะนัย",
     "active": true
   },
@@ -828,6 +931,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "27",
+    "studentId": "14061",
     "fullName": "เด็กหญิงภูริชญา ขันทอัด",
     "active": true
   },
@@ -836,6 +940,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "28",
+    "studentId": "14062",
     "fullName": "เด็กหญิงรวิสรา แย้มเกษร",
     "active": true
   },
@@ -844,6 +949,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "29",
+    "studentId": "14063",
     "fullName": "เด็กหญิงลลิตา สุขขำ",
     "active": true
   },
@@ -852,6 +958,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "30",
+    "studentId": "14064",
     "fullName": "เด็กหญิงวรรษมน ถือจันทร์",
     "active": true
   },
@@ -860,6 +967,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "31",
+    "studentId": "14065",
     "fullName": "เด็กหญิงวรวรรณ แสนรวยเงิน",
     "active": true
   },
@@ -868,6 +976,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "32",
+    "studentId": "14066",
     "fullName": "เด็กหญิงศุภิสรา บูแดง",
     "active": true
   },
@@ -876,6 +985,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "33",
+    "studentId": "14067",
     "fullName": "เด็กหญิงสุชานาฎ ท้าวศรีสกุล",
     "active": true
   },
@@ -884,6 +994,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "34",
+    "studentId": "14068",
     "fullName": "เด็กหญิงสุพิชญา วิชา",
     "active": true
   },
@@ -892,6 +1003,7 @@
     "level": "ม.2",
     "room": "3",
     "no": "35",
+    "studentId": "14778",
     "fullName": "เด็กหญิงณัฎฐ์ชญา ใจแสน",
     "active": true
   },
@@ -900,6 +1012,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "1",
+    "studentId": "14070",
     "fullName": "เด็กชายกวินภพ พวงทอง",
     "active": true
   },
@@ -908,6 +1021,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "2",
+    "studentId": "14071",
     "fullName": "เด็กชายก้องเกียรติ ภู่เกษร",
     "active": true
   },
@@ -916,6 +1030,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "3",
+    "studentId": "14072",
     "fullName": "เด็กชายกุลวัฒน์ หมั่นบำรุง",
     "active": true
   },
@@ -924,6 +1039,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "4",
+    "studentId": "14073",
     "fullName": "เด็กชายจัตุมงคล วงษ์อนุ",
     "active": true
   },
@@ -932,6 +1048,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "5",
+    "studentId": "14074",
     "fullName": "เด็กชายจันที เทน",
     "active": true
   },
@@ -940,6 +1057,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "6",
+    "studentId": "14075",
     "fullName": "เด็กชายจารุพัฒน์ ช่างหลก",
     "active": true
   },
@@ -948,6 +1066,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "7",
+    "studentId": "14077",
     "fullName": "เด็กชายชัยกร อำไพ",
     "active": true
   },
@@ -956,6 +1075,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "8",
+    "studentId": "14078",
     "fullName": "เด็กชายชิษณุพงศ์ ภูแก่นแก้ว",
     "active": true
   },
@@ -964,6 +1084,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "9",
+    "studentId": "14079",
     "fullName": "เด็กชายณัฐนิพนธิ์ บุญครอบ",
     "active": true
   },
@@ -972,6 +1093,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "10",
+    "studentId": "14082",
     "fullName": "เด็กชายธนกร มูลประดิษฐ์",
     "active": true
   },
@@ -980,6 +1102,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "11",
+    "studentId": "14083",
     "fullName": "เด็กชายธนกฤต ศรีภักดี",
     "active": true
   },
@@ -988,6 +1111,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "12",
+    "studentId": "14084",
     "fullName": "เด็กชายธนโชติ แก้วสีลา",
     "active": true
   },
@@ -996,6 +1120,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "13",
+    "studentId": "14085",
     "fullName": "เด็กชายนรภัทร พุดขุนทด",
     "active": true
   },
@@ -1004,6 +1129,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "14",
+    "studentId": "14086",
     "fullName": "เด็กชายนันทกร มานะทวี",
     "active": true
   },
@@ -1012,6 +1138,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "15",
+    "studentId": "14088",
     "fullName": "เด็กชายพีรกร นารถนงค์",
     "active": true
   },
@@ -1020,6 +1147,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "16",
+    "studentId": "14089",
     "fullName": "เด็กชายพีรภัทร จรรยา",
     "active": true
   },
@@ -1028,6 +1156,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "17",
+    "studentId": "14090",
     "fullName": "เด็กชายเพชรพงศ์พันธุ์ อินทร์อ่อน",
     "active": true
   },
@@ -1036,6 +1165,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "18",
+    "studentId": "14091",
     "fullName": "เด็กชายภาคิน เดชพิบูลย์",
     "active": true
   },
@@ -1044,6 +1174,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "19",
+    "studentId": "14092",
     "fullName": "เด็กชายภาณุพงศ์ บุญเกิด",
     "active": true
   },
@@ -1052,6 +1183,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "20",
+    "studentId": "14093",
     "fullName": "เด็กชายภานุพงศ์ เพชรล้วน",
     "active": true
   },
@@ -1060,6 +1192,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "21",
+    "studentId": "14094",
     "fullName": "เด็กชายรณกร ทองศรี",
     "active": true
   },
@@ -1068,6 +1201,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "22",
+    "studentId": "14095",
     "fullName": "เด็กชายรุ่งทวี ศรีงาม",
     "active": true
   },
@@ -1076,6 +1210,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "23",
+    "studentId": "14096",
     "fullName": "เด็กชายวริทธิ์พล มูลคำมี",
     "active": true
   },
@@ -1084,6 +1219,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "24",
+    "studentId": "14099",
     "fullName": "เด็กชายสิทธิพล จำปาแดง",
     "active": true
   },
@@ -1092,6 +1228,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "25",
+    "studentId": "14100",
     "fullName": "เด็กชายสุธินันท์ สารุ",
     "active": true
   },
@@ -1100,6 +1237,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "26",
+    "studentId": "14101",
     "fullName": "เด็กชายอดิเทพ บุญทะศร",
     "active": true
   },
@@ -1108,6 +1246,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "27",
+    "studentId": "14102",
     "fullName": "เด็กชายอานันดา ยิ้มใย",
     "active": true
   },
@@ -1116,6 +1255,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "28",
+    "studentId": "14795",
     "fullName": "เด็กชายปรินทร สมิงรัมย์",
     "active": true
   },
@@ -1124,6 +1264,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "29",
+    "studentId": "13277",
     "fullName": "นางสาวหัสยา ศรีแก้ว",
     "active": true
   },
@@ -1132,6 +1273,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "30",
+    "studentId": "14103",
     "fullName": "เด็กหญิงเกวลิน อิ่มใจ",
     "active": true
   },
@@ -1140,6 +1282,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "31",
+    "studentId": "14104",
     "fullName": "เด็กหญิงทัภษพร แสงเพชร",
     "active": true
   },
@@ -1148,6 +1291,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "32",
+    "studentId": "14105",
     "fullName": "เด็กหญิงปภาพร แจ่มอ่วม",
     "active": true
   },
@@ -1156,6 +1300,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "33",
+    "studentId": "14106",
     "fullName": "เด็กหญิงมณีทิพย์ ทองคำผุย",
     "active": true
   },
@@ -1164,6 +1309,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "34",
+    "studentId": "14107",
     "fullName": "เด็กหญิงโสภิตา มะหาวงษ์",
     "active": true
   },
@@ -1172,6 +1318,7 @@
     "level": "ม.2",
     "room": "4",
     "no": "35",
+    "studentId": "14786",
     "fullName": "เด็กหญิงกมลฉัตร วารีศรลาภ",
     "active": true
   },
@@ -1180,6 +1327,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "1",
+    "studentId": "14108",
     "fullName": "เด็กชายเกียรติศักดิ์ กล้ามสันเทียะ",
     "active": true
   },
@@ -1188,6 +1336,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "2",
+    "studentId": "14109",
     "fullName": "เด็กชายชิษณุพงศ์ ระบายศรี",
     "active": true
   },
@@ -1196,6 +1345,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "3",
+    "studentId": "14110",
     "fullName": "เด็กชายณภัทรพงศ์ เรือนฤทธิ์",
     "active": true
   },
@@ -1204,6 +1354,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "4",
+    "studentId": "14111",
     "fullName": "เด็กชายณัฐวุฒิ ชั้นศิริ",
     "active": true
   },
@@ -1212,6 +1363,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "5",
+    "studentId": "14112",
     "fullName": "เด็กชายเตชินท์ ทองอินทร์",
     "active": true
   },
@@ -1220,6 +1372,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "6",
+    "studentId": "14113",
     "fullName": "เด็กชายทศวรรษ แสนศิลา",
     "active": true
   },
@@ -1228,6 +1381,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "7",
+    "studentId": "14114",
     "fullName": "เด็กชายธนนท์ ขาวโสภา",
     "active": true
   },
@@ -1236,6 +1390,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "8",
+    "studentId": "14115",
     "fullName": "เด็กชายธนฤทธิ์ ล้วนดี",
     "active": true
   },
@@ -1244,6 +1399,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "9",
+    "studentId": "14116",
     "fullName": "เด็กชายวีรากร ภู่ระหงษ์",
     "active": true
   },
@@ -1252,6 +1408,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "10",
+    "studentId": "14117",
     "fullName": "เด็กชายศรีพงศ์ ยี่รัมย์",
     "active": true
   },
@@ -1260,6 +1417,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "11",
+    "studentId": "14118",
     "fullName": "เด็กชายสิทธิพร พิชัยยันต์",
     "active": true
   },
@@ -1268,6 +1426,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "12",
+    "studentId": "14119",
     "fullName": "เด็กชายอภิรมย์ ช่วยมาลีชม",
     "active": true
   },
@@ -1276,6 +1435,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "13",
+    "studentId": "14120",
     "fullName": "เด็กหญิงกชพรรณ มั่นทองอินทร์",
     "active": true
   },
@@ -1284,6 +1444,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "14",
+    "studentId": "14121",
     "fullName": "เด็กหญิงเกวลิน สุระชาติ",
     "active": true
   },
@@ -1292,6 +1453,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "15",
+    "studentId": "14122",
     "fullName": "เด็กหญิงขวัญจิรา ทุมทอง",
     "active": true
   },
@@ -1300,6 +1462,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "16",
+    "studentId": "14123",
     "fullName": "เด็กหญิงชนมน ขุนคงเสถียร",
     "active": true
   },
@@ -1308,6 +1471,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "17",
+    "studentId": "14124",
     "fullName": "เด็กหญิงชัญญพัฒน์ บุญศิริ",
     "active": true
   },
@@ -1316,6 +1480,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "18",
+    "studentId": "14125",
     "fullName": "เด็กหญิงชารุพรรณ์ สีหมอก",
     "active": true
   },
@@ -1324,6 +1489,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "19",
+    "studentId": "14126",
     "fullName": "เด็กหญิงชุติกาญจน์ บัวใหญ่",
     "active": true
   },
@@ -1332,6 +1498,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "20",
+    "studentId": "14127",
     "fullName": "เด็กหญิงชุติมณฑน์ บัวใหญ่",
     "active": true
   },
@@ -1340,6 +1507,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "21",
+    "studentId": "14128",
     "fullName": "เด็กหญิงณัฏฐกมล สุขนวล",
     "active": true
   },
@@ -1348,6 +1516,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "22",
+    "studentId": "14129",
     "fullName": "เด็กหญิงต้นตาล ต้น",
     "active": true
   },
@@ -1356,6 +1525,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "23",
+    "studentId": "14131",
     "fullName": "เด็กหญิงนันทิยา ดาดี",
     "active": true
   },
@@ -1364,6 +1534,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "24",
+    "studentId": "14132",
     "fullName": "เด็กหญิงปณิชา ยาเลิศ",
     "active": true
   },
@@ -1372,6 +1543,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "25",
+    "studentId": "14133",
     "fullName": "เด็กหญิงปนัดดา ชินนาหอม",
     "active": true
   },
@@ -1380,6 +1552,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "26",
+    "studentId": "14134",
     "fullName": "เด็กหญิงปัญญ์นภัส ดีไพร",
     "active": true
   },
@@ -1388,6 +1561,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "27",
+    "studentId": "14135",
     "fullName": "เด็กหญิงปาลิตา เหล่าสุนา",
     "active": true
   },
@@ -1396,6 +1570,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "28",
+    "studentId": "14136",
     "fullName": "เด็กหญิงพรพิมล พูลทอง",
     "active": true
   },
@@ -1404,6 +1579,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "29",
+    "studentId": "14137",
     "fullName": "เด็กหญิงพัชวรรณ ผลเต็ม",
     "active": true
   },
@@ -1412,6 +1588,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "30",
+    "studentId": "14138",
     "fullName": "เด็กหญิงพิชชาพร ช่องงูเหลือม",
     "active": true
   },
@@ -1420,6 +1597,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "31",
+    "studentId": "14139",
     "fullName": "เด็กหญิงยมลภัทร เดชสันเทียะ",
     "active": true
   },
@@ -1428,6 +1606,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "32",
+    "studentId": "14140",
     "fullName": "เด็กหญิงสรินญา อินทร์อยู่",
     "active": true
   },
@@ -1436,6 +1615,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "33",
+    "studentId": "14141",
     "fullName": "เด็กหญิงสุชานันท์ รักความชอบ",
     "active": true
   },
@@ -1444,6 +1624,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "34",
+    "studentId": "14142",
     "fullName": "เด็กหญิงสุนันทา วงศ์สมุทร์",
     "active": true
   },
@@ -1452,6 +1633,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "35",
+    "studentId": "14143",
     "fullName": "เด็กหญิงสุมนรัตน์ ขันนางรัมย์",
     "active": true
   },
@@ -1460,6 +1642,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "36",
+    "studentId": "14144",
     "fullName": "เด็กหญิงอรณิช ดาวล้อม",
     "active": true
   },
@@ -1468,6 +1651,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "37",
+    "studentId": "14145",
     "fullName": "เด็กหญิงอรณิชา ดาวล้อม",
     "active": true
   },
@@ -1476,6 +1660,7 @@
     "level": "ม.2",
     "room": "5",
     "no": "38",
+    "studentId": "14146",
     "fullName": "เด็กหญิงอัญชลี กลั่นแฮม",
     "active": true
   },
@@ -1484,6 +1669,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "1",
+    "studentId": "14147",
     "fullName": "เด็กชายคชนาม คล้ายบรรจง",
     "active": true
   },
@@ -1492,6 +1678,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "2",
+    "studentId": "14148",
     "fullName": "เด็กชายณรงค์ชัย ทองมอญ",
     "active": true
   },
@@ -1500,6 +1687,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "3",
+    "studentId": "14150",
     "fullName": "เด็กชายธนดล อยู่พวงทอง",
     "active": true
   },
@@ -1508,6 +1696,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "4",
+    "studentId": "14151",
     "fullName": "เด็กชายธนภัทร วงษ์จีนเพ็ชร์",
     "active": true
   },
@@ -1516,6 +1705,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "5",
+    "studentId": "14152",
     "fullName": "เด็กชายธนาภัทร จังอินทร์",
     "active": true
   },
@@ -1524,6 +1714,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "6",
+    "studentId": "14154",
     "fullName": "เด็กชายนันทิช ปราบวิไล",
     "active": true
   },
@@ -1532,6 +1723,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "7",
+    "studentId": "14156",
     "fullName": "เด็กชายพีรภัทร์ หมายสุภาพ",
     "active": true
   },
@@ -1540,6 +1732,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "8",
+    "studentId": "14157",
     "fullName": "เด็กชายยุทธศิลป์ เพ็ชรมงคล",
     "active": true
   },
@@ -1548,6 +1741,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "9",
+    "studentId": "14158",
     "fullName": "เด็กชายสุประดิษฐ์ แสวงวงศ์",
     "active": true
   },
@@ -1556,6 +1750,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "10",
+    "studentId": "14777",
     "fullName": "เด็กชายฐิติศักดิ์ อิ่มวรรณ์",
     "active": true
   },
@@ -1564,6 +1759,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "11",
+    "studentId": "14159",
     "fullName": "เด็กหญิงเกวลิน คูณหอม",
     "active": true
   },
@@ -1572,6 +1768,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "12",
+    "studentId": "14160",
     "fullName": "เด็กหญิงชญานิน สาวิสิทธิ์",
     "active": true
   },
@@ -1580,6 +1777,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "13",
+    "studentId": "14162",
     "fullName": "เด็กหญิงชนิสร กาบภิรมย์",
     "active": true
   },
@@ -1588,6 +1786,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "14",
+    "studentId": "14163",
     "fullName": "เด็กหญิงปวริศา โคนชัยภูมิ",
     "active": true
   },
@@ -1596,6 +1795,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "15",
+    "studentId": "14164",
     "fullName": "เด็กหญิงโชติกา ผาสุข",
     "active": true
   },
@@ -1604,6 +1804,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "16",
+    "studentId": "14165",
     "fullName": "เด็กหญิงญาณิศา ป้องขันธ์",
     "active": true
   },
@@ -1612,6 +1813,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "17",
+    "studentId": "14166",
     "fullName": "เด็กหญิงณัชญา สาระชาติ",
     "active": true
   },
@@ -1620,6 +1822,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "18",
+    "studentId": "14167",
     "fullName": "เด็กหญิงทิฆัมพร แป้นแก้ว",
     "active": true
   },
@@ -1628,6 +1831,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "19",
+    "studentId": "14168",
     "fullName": "เด็กหญิงธนภรณ์ อธิชนันเจริญ",
     "active": true
   },
@@ -1636,6 +1840,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "20",
+    "studentId": "14169",
     "fullName": "เด็กหญิงธัญญามาศ สิงห์พันธุ์",
     "active": true
   },
@@ -1644,6 +1849,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "21",
+    "studentId": "14170",
     "fullName": "เด็กหญิงธัญวรัตม์ วัดวาปี",
     "active": true
   },
@@ -1652,6 +1858,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "22",
+    "studentId": "14172",
     "fullName": "เด็กหญิงนริศรา บาริศรี",
     "active": true
   },
@@ -1660,6 +1867,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "23",
+    "studentId": "14173",
     "fullName": "เด็กหญิงประภัสสร วาณิชย์สิริกุล",
     "active": true
   },
@@ -1668,6 +1876,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "24",
+    "studentId": "14174",
     "fullName": "เด็กหญิงพัชรกันย์ พลทะสี",
     "active": true
   },
@@ -1676,6 +1885,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "25",
+    "studentId": "14175",
     "fullName": "เด็กหญิงพิชญาภา เงินเมย",
     "active": true
   },
@@ -1684,6 +1894,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "26",
+    "studentId": "14176",
     "fullName": "เด็กหญิงพิมพ์ชนก สุดแสง",
     "active": true
   },
@@ -1692,6 +1903,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "27",
+    "studentId": "14177",
     "fullName": "เด็กหญิงพิมพ์ลภัทร จันทร์เรือง",
     "active": true
   },
@@ -1700,6 +1912,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "28",
+    "studentId": "14178",
     "fullName": "เด็กหญิงภัควลัญชญ์ แลบแดง",
     "active": true
   },
@@ -1708,6 +1921,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "29",
+    "studentId": "14179",
     "fullName": "เด็กหญิงรรรญา เหมือนเพ็ชร",
     "active": true
   },
@@ -1716,6 +1930,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "30",
+    "studentId": "14180",
     "fullName": "เด็กหญิงรินรดี ผุดีสม",
     "active": true
   },
@@ -1724,6 +1939,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "31",
+    "studentId": "14181",
     "fullName": "เด็กหญิงวิน เฮง",
     "active": true
   },
@@ -1732,6 +1948,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "32",
+    "studentId": "14182",
     "fullName": "เด็กหญิงวิลาสินี จันทศร",
     "active": true
   },
@@ -1740,6 +1957,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "33",
+    "studentId": "14183",
     "fullName": "เด็กหญิงศุภากร เดือนขาว",
     "active": true
   },
@@ -1748,6 +1966,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "34",
+    "studentId": "14184",
     "fullName": "เด็กหญิงสุดารัตน์ รัตนวิจิตร",
     "active": true
   },
@@ -1756,6 +1975,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "35",
+    "studentId": "14185",
     "fullName": "เด็กหญิงอภิญญา ยิ่งเฮง",
     "active": true
   },
@@ -1764,6 +1984,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "36",
+    "studentId": "14186",
     "fullName": "เด็กหญิงอัธชาญาดา อัษฎาภากรณ์",
     "active": true
   },
@@ -1772,6 +1993,7 @@
     "level": "ม.2",
     "room": "6",
     "no": "37",
+    "studentId": "14792",
     "fullName": "เด็กหญิงศุภพิชญ์ ทองคำ",
     "active": true
   },
@@ -1780,6 +2002,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "1",
+    "studentId": "14187",
     "fullName": "เด็กชายกฤตพัฒน์ ชิดประทุม",
     "active": true
   },
@@ -1788,6 +2011,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "2",
+    "studentId": "14188",
     "fullName": "เด็กชายกิตติกันต์ ลาภดารา",
     "active": true
   },
@@ -1796,6 +2020,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "3",
+    "studentId": "14189",
     "fullName": "เด็กชายจิณณ์ ตันเจริญ",
     "active": true
   },
@@ -1804,6 +2029,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "4",
+    "studentId": "14190",
     "fullName": "เด็กชายชูศักดิ์ บุญมุข",
     "active": true
   },
@@ -1812,6 +2038,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "5",
+    "studentId": "14191",
     "fullName": "เด็กชายธนกฤติ ใหม่ก๋งลาย",
     "active": true
   },
@@ -1820,6 +2047,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "6",
+    "studentId": "14192",
     "fullName": "เด็กชายนิโคไล ไฟว์แลนด์",
     "active": true
   },
@@ -1828,6 +2056,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "7",
+    "studentId": "14194",
     "fullName": "เด็กชายพรสรวง วงษ์สาโรจน์",
     "active": true
   },
@@ -1836,6 +2065,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "8",
+    "studentId": "14195",
     "fullName": "เด็กชายภัคพงษ์ ขาวงาม",
     "active": true
   },
@@ -1844,6 +2074,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "9",
+    "studentId": "14196",
     "fullName": "เด็กชายยุทธภูมิ นิลโกศล",
     "active": true
   },
@@ -1852,6 +2083,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "10",
+    "studentId": "14197",
     "fullName": "เด็กชายรัชชานนท์ ยืนยงเจริญดี",
     "active": true
   },
@@ -1860,6 +2092,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "11",
+    "studentId": "14198",
     "fullName": "เด็กชายศุภกฤต สัพวาหะ",
     "active": true
   },
@@ -1868,6 +2101,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "12",
+    "studentId": "14199",
     "fullName": "เด็กชายศุภณัฐ พาลอุ่น",
     "active": true
   },
@@ -1876,6 +2110,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "13",
+    "studentId": "14200",
     "fullName": "เด็กชายอนิวัตติ์ เนินลภ",
     "active": true
   },
@@ -1884,6 +2119,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "14",
+    "studentId": "14201",
     "fullName": "เด็กหญิงกนกกาญจน์ เพ่งพิศ",
     "active": true
   },
@@ -1892,6 +2128,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "15",
+    "studentId": "14202",
     "fullName": "เด็กหญิงกมลทิพย์ ช้างพันธ์",
     "active": true
   },
@@ -1900,6 +2137,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "16",
+    "studentId": "14203",
     "fullName": "เด็กหญิงกัญญาภัค อินทร์รักษา",
     "active": true
   },
@@ -1908,6 +2146,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "17",
+    "studentId": "14204",
     "fullName": "เด็กหญิงเกวลิน หาชัย",
     "active": true
   },
@@ -1916,6 +2155,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "18",
+    "studentId": "14205",
     "fullName": "เด็กหญิงจันทกานต์ แก้วจันทร์",
     "active": true
   },
@@ -1924,6 +2164,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "19",
+    "studentId": "14206",
     "fullName": "เด็กหญิงชณัฐธิดา วงศ์บุปผา",
     "active": true
   },
@@ -1932,6 +2173,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "20",
+    "studentId": "14207",
     "fullName": "เด็กหญิงชุติกาญจน์ เอี่ยมพงษ์",
     "active": true
   },
@@ -1940,6 +2182,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "21",
+    "studentId": "14208",
     "fullName": "เด็กหญิงฑิฆัมพร ใหม่สี",
     "active": true
   },
@@ -1948,6 +2191,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "22",
+    "studentId": "14209",
     "fullName": "เด็กหญิงณัฏฐธิดา วงษ์ศรี",
     "active": true
   },
@@ -1956,6 +2200,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "23",
+    "studentId": "14210",
     "fullName": "เด็กหญิงดารารัตน์ พิศิษฐวานิช",
     "active": true
   },
@@ -1964,6 +2209,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "24",
+    "studentId": "14211",
     "fullName": "เด็กหญิงธนาภา ทองรุ่ง",
     "active": true
   },
@@ -1972,6 +2218,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "25",
+    "studentId": "14212",
     "fullName": "เด็กหญิงธัญพิชชา บ้านเนิน",
     "active": true
   },
@@ -1980,6 +2227,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "26",
+    "studentId": "14213",
     "fullName": "เด็กหญิงนริศรา แสงอาทิตย์",
     "active": true
   },
@@ -1988,6 +2236,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "27",
+    "studentId": "14214",
     "fullName": "เด็กหญิงเบญจรัตน์ ลิ้มเจริญ",
     "active": true
   },
@@ -1996,6 +2245,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "28",
+    "studentId": "14215",
     "fullName": "เด็กหญิงปรางค์หทัยชนก สายยศ",
     "active": true
   },
@@ -2004,6 +2254,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "29",
+    "studentId": "14216",
     "fullName": "เด็กหญิงพรรณราย ลิ่มวงค์",
     "active": true
   },
@@ -2012,6 +2263,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "30",
+    "studentId": "14217",
     "fullName": "เด็กหญิงพิมพ์พรรณ วัฒนเกษมสกุล",
     "active": true
   },
@@ -2020,6 +2272,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "31",
+    "studentId": "14218",
     "fullName": "เด็กหญิงมลพิสา ต่ายเพ็ง",
     "active": true
   },
@@ -2028,6 +2281,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "32",
+    "studentId": "14219",
     "fullName": "เด็กหญิงวรวลัญช์ แซ่ลี้",
     "active": true
   },
@@ -2036,6 +2290,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "33",
+    "studentId": "14220",
     "fullName": "เด็กหญิงวิลาศิณี กองแก้ว",
     "active": true
   },
@@ -2044,6 +2299,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "34",
+    "studentId": "14221",
     "fullName": "เด็กหญิงวีรนุช เหลืองจันทึก",
     "active": true
   },
@@ -2052,6 +2308,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "35",
+    "studentId": "14222",
     "fullName": "เด็กหญิงสิริกัญญา พลอยแหวน",
     "active": true
   },
@@ -2060,6 +2317,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "36",
+    "studentId": "14224",
     "fullName": "เด็กหญิงสุภาวดี หรั่งกรุ่น",
     "active": true
   },
@@ -2068,6 +2326,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "37",
+    "studentId": "14225",
     "fullName": "เด็กหญิงอริยา ทองบุราณ",
     "active": true
   },
@@ -2076,6 +2335,7 @@
     "level": "ม.2",
     "room": "7",
     "no": "38",
+    "studentId": "14226",
     "fullName": "เด็กหญิงอาร์ติยา วงษ์เพ็ง",
     "active": true
   },
@@ -2084,6 +2344,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "1",
+    "studentId": "14228",
     "fullName": "เด็กชายกวินทร์ ตรีวิริยธนานนท์",
     "active": true
   },
@@ -2092,6 +2353,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "2",
+    "studentId": "14229",
     "fullName": "เด็กชายกิตตินันท์ สิงห์โห",
     "active": true
   },
@@ -2100,6 +2362,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "3",
+    "studentId": "14230",
     "fullName": "เด็กชายจิตติพัฒน์ สุขเสนา",
     "active": true
   },
@@ -2108,6 +2371,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "4",
+    "studentId": "14231",
     "fullName": "เด็กชายฐนกร เริงศาสตร์",
     "active": true
   },
@@ -2116,6 +2380,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "5",
+    "studentId": "14232",
     "fullName": "เด็กชายณศักดิ์ ชมมิ",
     "active": true
   },
@@ -2124,6 +2389,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "6",
+    "studentId": "14233",
     "fullName": "เด็กชายนปก เขียวสด",
     "active": true
   },
@@ -2132,6 +2398,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "7",
+    "studentId": "14234",
     "fullName": "เด็กชายปัณณวิชญ์ จิตรังสรรค์",
     "active": true
   },
@@ -2140,6 +2407,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "8",
+    "studentId": "14235",
     "fullName": "เด็กชายพิชชากร ผุยมา",
     "active": true
   },
@@ -2148,6 +2416,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "9",
+    "studentId": "14236",
     "fullName": "เด็กชายภัทรวงศ์ ทัดเชื้อ",
     "active": true
   },
@@ -2156,6 +2425,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "10",
+    "studentId": "14237",
     "fullName": "เด็กชายศักรินทร์ หวังคุ้มกลาง",
     "active": true
   },
@@ -2164,6 +2434,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "11",
+    "studentId": "14238",
     "fullName": "เด็กชายศุภณัฐ์ คำแก้ว",
     "active": true
   },
@@ -2172,6 +2443,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "12",
+    "studentId": "14239",
     "fullName": "เด็กชายสันติ นุชรัตน์",
     "active": true
   },
@@ -2180,6 +2452,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "13",
+    "studentId": "14240",
     "fullName": "เด็กหญิงกนกอร สายสุด",
     "active": true
   },
@@ -2188,6 +2461,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "14",
+    "studentId": "14241",
     "fullName": "เด็กหญิงกัญจนพร วงศ์สมัคร",
     "active": true
   },
@@ -2196,6 +2470,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "15",
+    "studentId": "14242",
     "fullName": "เด็กหญิงกัญญาณัฐ วชีรสูตร",
     "active": true
   },
@@ -2204,6 +2479,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "16",
+    "studentId": "14243",
     "fullName": "เด็กหญิงกัลยากร บุญอ่ำ",
     "active": true
   },
@@ -2212,6 +2488,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "17",
+    "studentId": "14244",
     "fullName": "เด็กหญิงเกวลี ลิ้มพงษ์สวัสดิ์",
     "active": true
   },
@@ -2220,6 +2497,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "18",
+    "studentId": "14245",
     "fullName": "เด็กหญิงขวัญข้าว แพงไธสง",
     "active": true
   },
@@ -2228,6 +2506,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "19",
+    "studentId": "14246",
     "fullName": "เด็กหญิงจันทรัสม์ จินตนา",
     "active": true
   },
@@ -2236,6 +2515,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "20",
+    "studentId": "14247",
     "fullName": "เด็กหญิงชัชชนิตา สุขสวัสดิ์",
     "active": true
   },
@@ -2244,6 +2524,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "21",
+    "studentId": "14248",
     "fullName": "เด็กหญิงชุติมน หลงวงษ์",
     "active": true
   },
@@ -2252,6 +2533,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "22",
+    "studentId": "14249",
     "fullName": "เด็กหญิงณัชชา มูลพักตร์",
     "active": true
   },
@@ -2260,6 +2542,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "23",
+    "studentId": "14250",
     "fullName": "เด็กหญิงทิพวรรณ โคจันทร์",
     "active": true
   },
@@ -2268,6 +2551,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "24",
+    "studentId": "14251",
     "fullName": "เด็กหญิงธนารีย์ พรหมอังกูร",
     "active": true
   },
@@ -2276,6 +2560,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "25",
+    "studentId": "14252",
     "fullName": "เด็กหญิงธันยกานต์ จันทร์หอม",
     "active": true
   },
@@ -2284,6 +2569,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "26",
+    "studentId": "14253",
     "fullName": "เด็กหญิงนัทธมน ใยน้อย",
     "active": true
   },
@@ -2292,6 +2578,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "27",
+    "studentId": "14254",
     "fullName": "เด็กหญิงปภาวดี มณีรัตน์",
     "active": true
   },
@@ -2300,6 +2587,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "28",
+    "studentId": "14255",
     "fullName": "เด็กหญิงปุณยนุช โสละหาน",
     "active": true
   },
@@ -2308,6 +2596,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "29",
+    "studentId": "14256",
     "fullName": "เด็กหญิงพิมพกานต์ คำเนตร",
     "active": true
   },
@@ -2316,6 +2605,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "30",
+    "studentId": "14257",
     "fullName": "เด็กหญิงภัทรดรา ใจกล้า",
     "active": true
   },
@@ -2324,6 +2614,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "31",
+    "studentId": "14258",
     "fullName": "เด็กหญิงรุจิรา นิยมดุสดี",
     "active": true
   },
@@ -2332,6 +2623,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "32",
+    "studentId": "14259",
     "fullName": "เด็กหญิงวิลาวัลย์ ดอนคำแพง",
     "active": true
   },
@@ -2340,6 +2632,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "33",
+    "studentId": "14260",
     "fullName": "เด็กหญิงวีรดา นาคประวัติ",
     "active": true
   },
@@ -2348,6 +2641,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "34",
+    "studentId": "14261",
     "fullName": "เด็กหญิงศลิษา งามขำ",
     "active": true
   },
@@ -2356,6 +2650,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "35",
+    "studentId": "14262",
     "fullName": "เด็กหญิงสวิตตา ปันอิยะ",
     "active": true
   },
@@ -2364,6 +2659,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "36",
+    "studentId": "14263",
     "fullName": "เด็กหญิงสิรินทรา เซี่ยงโหล",
     "active": true
   },
@@ -2372,6 +2668,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "37",
+    "studentId": "14264",
     "fullName": "เด็กหญิงสุกัญญา ลครพล",
     "active": true
   },
@@ -2380,6 +2677,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "38",
+    "studentId": "14265",
     "fullName": "เด็กหญิงอรณี หอมทรัพย์",
     "active": true
   },
@@ -2388,6 +2686,7 @@
     "level": "ม.2",
     "room": "8",
     "no": "39",
+    "studentId": "14266",
     "fullName": "เด็กหญิงอาภัสรา โยธาจันทร์",
     "active": true
   },
@@ -2396,6 +2695,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "1",
+    "studentId": "14267",
     "fullName": "เด็กชายจิรกฤต แกล้วเชิงค้า",
     "active": true
   },
@@ -2404,6 +2704,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "2",
+    "studentId": "14268",
     "fullName": "เด็กชายชยพล จันทร์อิ่ม",
     "active": true
   },
@@ -2412,6 +2713,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "3",
+    "studentId": "14269",
     "fullName": "เด็กชายฐณกฤต พารา",
     "active": true
   },
@@ -2420,6 +2722,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "4",
+    "studentId": "14270",
     "fullName": "เด็กชายณัฐภัทร สุวรรณพิทักษ์",
     "active": true
   },
@@ -2428,6 +2731,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "5",
+    "studentId": "14271",
     "fullName": "เด็กชายเดชาธร สมิงรัมย์",
     "active": true
   },
@@ -2436,6 +2740,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "6",
+    "studentId": "14272",
     "fullName": "เด็กชายทวีชัย สาดกำปัง",
     "active": true
   },
@@ -2444,6 +2749,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "7",
+    "studentId": "14273",
     "fullName": "เด็กชายธนภัทร ศรีคุ้ม",
     "active": true
   },
@@ -2452,6 +2758,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "8",
+    "studentId": "14274",
     "fullName": "เด็กชายธนวิชญ์ มิตรรัก",
     "active": true
   },
@@ -2460,6 +2767,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "9",
+    "studentId": "14275",
     "fullName": "เด็กชายธีวสุ ศรีประทิน",
     "active": true
   },
@@ -2468,6 +2776,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "10",
+    "studentId": "14276",
     "fullName": "เด็กชายนนทพัทธ์ เพียรไธสง",
     "active": true
   },
@@ -2476,6 +2785,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "11",
+    "studentId": "14277",
     "fullName": "เด็กชายปิยพงษ์ หงษ์ทอง",
     "active": true
   },
@@ -2484,6 +2794,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "12",
+    "studentId": "14278",
     "fullName": "เด็กชายพีรทัต อัศวสกุลไกร",
     "active": true
   },
@@ -2492,6 +2803,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "13",
+    "studentId": "14279",
     "fullName": "เด็กชายพีรวิชญ์ ปัญหาเสนา",
     "active": true
   },
@@ -2500,6 +2812,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "14",
+    "studentId": "14280",
     "fullName": "เด็กชายภัคพงษ์ สืบศรี",
     "active": true
   },
@@ -2508,6 +2821,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "15",
+    "studentId": "14281",
     "fullName": "เด็กชายภัทรพล พกมั่น",
     "active": true
   },
@@ -2516,6 +2830,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "16",
+    "studentId": "14282",
     "fullName": "เด็กชายภูมินทร์ แสงทอง",
     "active": true
   },
@@ -2524,6 +2839,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "17",
+    "studentId": "14283",
     "fullName": "เด็กชายภูริวัฒน์ วงศ์ประเสริฐ",
     "active": true
   },
@@ -2532,6 +2848,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "18",
+    "studentId": "14284",
     "fullName": "เด็กชายภูวเดช วงศ์ผาบุตร",
     "active": true
   },
@@ -2540,6 +2857,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "19",
+    "studentId": "14285",
     "fullName": "เด็กชายวชิรวิชญ์ บุญประคอง",
     "active": true
   },
@@ -2548,6 +2866,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "20",
+    "studentId": "14286",
     "fullName": "เด็กชายวัชระพล ตอโมกข์",
     "active": true
   },
@@ -2556,6 +2875,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "21",
+    "studentId": "14287",
     "fullName": "เด็กชายศุกลภัทร คุณรุณ",
     "active": true
   },
@@ -2564,6 +2884,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "22",
+    "studentId": "14288",
     "fullName": "เด็กชายสิรภัทร สมภีร์",
     "active": true
   },
@@ -2572,6 +2893,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "23",
+    "studentId": "14289",
     "fullName": "เด็กชายสุขสัณภ์ ชูรัตน์",
     "active": true
   },
@@ -2580,6 +2902,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "24",
+    "studentId": "14290",
     "fullName": "เด็กชายเสฎฐวุฒิ บุตรงาม",
     "active": true
   },
@@ -2588,6 +2911,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "25",
+    "studentId": "14291",
     "fullName": "เด็กชายอดิศักดิ์ มารศรี",
     "active": true
   },
@@ -2596,6 +2920,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "26",
+    "studentId": "14292",
     "fullName": "เด็กหญิงกรรวี นามวี",
     "active": true
   },
@@ -2604,6 +2929,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "27",
+    "studentId": "14293",
     "fullName": "เด็กหญิงชนันนัทธ์ หมู่แช่ม",
     "active": true
   },
@@ -2612,6 +2938,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "28",
+    "studentId": "14294",
     "fullName": "เด็กหญิงณิชนันทน์ กิจธุระ",
     "active": true
   },
@@ -2620,6 +2947,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "29",
+    "studentId": "14295",
     "fullName": "เด็กหญิงธนภรณ์ จิบกระโทก",
     "active": true
   },
@@ -2628,6 +2956,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "30",
+    "studentId": "14296",
     "fullName": "เด็กหญิงธัญญามาศ ลาภมาก",
     "active": true
   },
@@ -2636,6 +2965,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "31",
+    "studentId": "14297",
     "fullName": "เด็กหญิงนภัสกร เรืองเกตุ",
     "active": true
   },
@@ -2644,6 +2974,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "32",
+    "studentId": "14298",
     "fullName": "เด็กหญิงนันท์นภัส แสนหาญ",
     "active": true
   },
@@ -2652,6 +2983,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "33",
+    "studentId": "14299",
     "fullName": "เด็กหญิงปฐมพร พูนรัมย์",
     "active": true
   },
@@ -2660,6 +2992,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "34",
+    "studentId": "14300",
     "fullName": "เด็กหญิงปิญาพร นนทภักดี",
     "active": true
   },
@@ -2668,6 +3001,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "35",
+    "studentId": "14301",
     "fullName": "เด็กหญิงพุทธกาล แมนประเสริฐ",
     "active": true
   },
@@ -2676,6 +3010,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "36",
+    "studentId": "14302",
     "fullName": "เด็กหญิงมีนานุช พยุงผล",
     "active": true
   },
@@ -2684,6 +3019,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "37",
+    "studentId": "14303",
     "fullName": "เด็กหญิงวนิดา แซ่ไหล",
     "active": true
   },
@@ -2692,6 +3028,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "38",
+    "studentId": "14304",
     "fullName": "เด็กหญิงสมิตานันท์ ช่องกลาง",
     "active": true
   },
@@ -2700,6 +3037,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "39",
+    "studentId": "14305",
     "fullName": "เด็กหญิงอมรรัตน์ จันทร์หอม",
     "active": true
   },
@@ -2708,6 +3046,7 @@
     "level": "ม.2",
     "room": "9",
     "no": "40",
+    "studentId": "14306",
     "fullName": "เด็กหญิงไอริน วิเชียรศรี",
     "active": true
   }

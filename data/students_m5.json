@@ -4,6 +4,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "1",
+    "studentId": "12763",
     "fullName": "นายณัฐภูมินทร์ โกนสันเทียะ",
     "active": true
   },
@@ -12,6 +13,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "2",
+    "studentId": "12832",
     "fullName": "นายณัฐพล จองมุ้ง",
     "active": true
   },
@@ -20,6 +22,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "3",
+    "studentId": "12871",
     "fullName": "นายนะโม ใสงาม",
     "active": true
   },
@@ -28,6 +31,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "4",
+    "studentId": "12877",
     "fullName": "นายวันชนะ แสงมณี",
     "active": true
   },
@@ -36,6 +40,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "5",
+    "studentId": "12880",
     "fullName": "นายสิรวิชญ์ ไกรรอด",
     "active": true
   },
@@ -44,6 +49,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "6",
+    "studentId": "12881",
     "fullName": "นายเสกสรรค์ คันทาสี",
     "active": true
   },
@@ -52,6 +58,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "7",
+    "studentId": "12920",
     "fullName": "นายสุริยะ เอี่ยมศรีสุข",
     "active": true
   },
@@ -60,6 +67,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "8",
+    "studentId": "12937",
     "fullName": "นายจิตติพัฒน์ ผลจันทร์",
     "active": true
   },
@@ -68,6 +76,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "9",
+    "studentId": "12945",
     "fullName": "นายธวัชชัย มะณีวัน",
     "active": true
   },
@@ -76,6 +85,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "10",
+    "studentId": "12947",
     "fullName": "นายนัทธพันธ์ ชมมิ",
     "active": true
   },
@@ -84,6 +94,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "11",
+    "studentId": "12952",
     "fullName": "นายอนาวิน สิทธิประภา",
     "active": true
   },
@@ -92,6 +103,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "12",
+    "studentId": "12968",
     "fullName": "นายกฤษกร กระสังข์",
     "active": true
   },
@@ -100,6 +112,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "13",
+    "studentId": "14307",
     "fullName": "นายณภัทร เล้าเจริญ",
     "active": true
   },
@@ -108,6 +121,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "14",
+    "studentId": "14308",
     "fullName": "นายธนทัต บุตรดี",
     "active": true
   },
@@ -116,6 +130,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "15",
+    "studentId": "14309",
     "fullName": "นายปรวัฒน์ มอมขุนทด",
     "active": true
   },
@@ -124,6 +139,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "16",
+    "studentId": "14310",
     "fullName": "นายภัทรดนัย รสหอม",
     "active": true
   },
@@ -132,6 +148,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "17",
+    "studentId": "14311",
     "fullName": "นายภาสกร บุญถนอม",
     "active": true
   },
@@ -140,6 +157,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "18",
+    "studentId": "14312",
     "fullName": "นายลัทธพล ชำนาเวช",
     "active": true
   },
@@ -148,6 +166,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "19",
+    "studentId": "14313",
     "fullName": "นายสาธิต โพธิ์เดช",
     "active": true
   },
@@ -156,6 +175,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "20",
+    "studentId": "14314",
     "fullName": "นายสุทธิภัทร อาจเลี้ยง",
     "active": true
   },
@@ -164,6 +184,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "21",
+    "studentId": "14315",
     "fullName": "นายอานนท์ ชัยคำ",
     "active": true
   },
@@ -172,6 +193,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "22",
+    "studentId": "12483",
     "fullName": "นางสาวอโรชา แซ่เหลา",
     "active": true
   },
@@ -180,6 +202,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "23",
+    "studentId": "12815",
     "fullName": "นางสาวกนกทิพย์ บุญภักดี",
     "active": true
   },
@@ -188,6 +211,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "24",
+    "studentId": "12816",
     "fullName": "นางสาวจันทิมา ลัดกรูด",
     "active": true
   },
@@ -196,6 +220,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "25",
+    "studentId": "12850",
     "fullName": "นางสาวกรรณิกาศ์ สว่างศรี",
     "active": true
   },
@@ -204,6 +229,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "26",
+    "studentId": "12851",
     "fullName": "นางสาวจิรัฏฐ์จิราภร ศรีสม",
     "active": true
   },
@@ -212,6 +238,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "27",
+    "studentId": "12857",
     "fullName": "นางสาวพิมลรัตน์ เสาวรส",
     "active": true
   },
@@ -220,6 +247,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "28",
+    "studentId": "12859",
     "fullName": "นางสาวสุกัญญา ป้อมประโค",
     "active": true
   },
@@ -228,6 +256,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "29",
+    "studentId": "12924",
     "fullName": "นางสาวเพ็ญนภา ประนม",
     "active": true
   },
@@ -236,6 +265,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "30",
+    "studentId": "12931",
     "fullName": "นางสาวสุพิชฌาย์ แก้วรอด",
     "active": true
   },
@@ -244,6 +274,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "31",
+    "studentId": "14316",
     "fullName": "นางสาวเมธาพร บุ่งทอง",
     "active": true
   },
@@ -252,6 +283,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "32",
+    "studentId": "14319",
     "fullName": "นางสาวศุภัคชญา สวัสดี",
     "active": true
   },
@@ -260,6 +292,7 @@
     "level": "ม.5",
     "room": "1",
     "no": "33",
+    "studentId": "14412",
     "fullName": "นางสาวมิ่งกมล ขันทอัต",
     "active": true
   },
@@ -268,6 +301,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "1",
+    "studentId": "12327",
     "fullName": "นายสุรชัย เจริญพร",
     "active": true
   },
@@ -276,6 +310,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "2",
+    "studentId": "12756",
     "fullName": "นายกิตติพงศ์ สุขขำ",
     "active": true
   },
@@ -284,6 +319,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "3",
+    "studentId": "12766",
     "fullName": "นายธาราธร แย้มเกษร",
     "active": true
   },
@@ -292,6 +328,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "4",
+    "studentId": "12769",
     "fullName": "นายพงศกร ศรีไทย",
     "active": true
   },
@@ -300,6 +337,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "5",
+    "studentId": "12804",
     "fullName": "นายนิรวิทย์ ผลสุข",
     "active": true
   },
@@ -308,6 +346,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "6",
+    "studentId": "12805",
     "fullName": "นายปธานิน แจ้งเจริญ",
     "active": true
   },
@@ -316,6 +355,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "7",
+    "studentId": "12837",
     "fullName": "นายธนวรรธน์ เกณฑ์กระโทก",
     "active": true
   },
@@ -324,6 +364,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "8",
+    "studentId": "12839",
     "fullName": "นายธีรภัทร สาสุนทร",
     "active": true
   },
@@ -332,6 +373,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "9",
+    "studentId": "12869",
     "fullName": "นายทีปกร สมทรัพย์",
     "active": true
   },
@@ -340,6 +382,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "10",
+    "studentId": "12875",
     "fullName": "นายภีมรพงศ์ วงศ์ศิริ",
     "active": true
   },
@@ -348,6 +391,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "11",
+    "studentId": "12975",
     "fullName": "นายยุทธนาวี กิจวิชา",
     "active": true
   },
@@ -356,6 +400,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "12",
+    "studentId": "13006",
     "fullName": "นายธีรภัทร พุทธระสุ",
     "active": true
   },
@@ -364,6 +409,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "13",
+    "studentId": "14321",
     "fullName": "นายศุภณัฐ คำมา",
     "active": true
   },
@@ -372,6 +418,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "14",
+    "studentId": "12781",
     "fullName": "นางสาวปานชนก รัตนสุวรรณ",
     "active": true
   },
@@ -380,6 +427,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "15",
+    "studentId": "12823",
     "fullName": "นางสาวฟ้าใส เฮียน",
     "active": true
   },
@@ -388,6 +436,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "16",
+    "studentId": "12825",
     "fullName": "นางสาววรัญธร สกุลมา",
     "active": true
   },
@@ -396,6 +445,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "17",
+    "studentId": "12826",
     "fullName": "นางสาวสิริกร สิทธิราช",
     "active": true
   },
@@ -404,6 +454,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "18",
+    "studentId": "12886",
     "fullName": "นางสาวกุลสิวลี ลาภหิรัญ",
     "active": true
   },
@@ -412,6 +463,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "19",
+    "studentId": "12921",
     "fullName": "นางสาวแก้วเก้า บุญอ่ำ",
     "active": true
   },
@@ -420,6 +472,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "20",
+    "studentId": "12927",
     "fullName": "นางสาววิบูนย์ลักษณ์ เซี่ยงโหล",
     "active": true
   },
@@ -428,6 +481,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "21",
+    "studentId": "12994",
     "fullName": "นางสาววรรณิดา หมายสุภาพ",
     "active": true
   },
@@ -436,6 +490,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "22",
+    "studentId": "13019",
     "fullName": "นางสาวนารีรัตน์ พลอินทร์",
     "active": true
   },
@@ -444,6 +499,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "23",
+    "studentId": "13037",
     "fullName": "นางสาวอารยา เจนดง",
     "active": true
   },
@@ -452,6 +508,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "24",
+    "studentId": "13125",
     "fullName": "นางสาวอธิศรา ฤทธิบันลือ",
     "active": true
   },
@@ -460,6 +517,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "25",
+    "studentId": "13128",
     "fullName": "นางสาวพกาวรรณ โพธิ์เดช",
     "active": true
   },
@@ -468,6 +526,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "26",
+    "studentId": "13130",
     "fullName": "นางสาวมนัสนันท์ สุขล้ำ",
     "active": true
   },
@@ -476,6 +535,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "27",
+    "studentId": "13340",
     "fullName": "นางสาวปริยฉัตร ยอดยิ่ง",
     "active": true
   },
@@ -484,6 +544,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "28",
+    "studentId": "13502",
     "fullName": "นางสาวพิรมญา สีเหลือง",
     "active": true
   },
@@ -492,6 +553,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "29",
+    "studentId": "13504",
     "fullName": "นางสาวเสาวลักษณ์ พอกพูน",
     "active": true
   },
@@ -500,6 +562,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "30",
+    "studentId": "13530",
     "fullName": "นางสาวพันธิสา เทียมคำ",
     "active": true
   },
@@ -508,6 +571,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "31",
+    "studentId": "13935",
     "fullName": "นางสาวนิศามณี พงษ์สวัสดิ์",
     "active": true
   },
@@ -516,6 +580,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "32",
+    "studentId": "14322",
     "fullName": "นางสาวกรรณิกาณ์ บุดดี",
     "active": true
   },
@@ -524,6 +589,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "33",
+    "studentId": "14323",
     "fullName": "นางสาวชุติมา สีละคุณ",
     "active": true
   },
@@ -532,6 +598,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "34",
+    "studentId": "14324",
     "fullName": "นางสาวเนตรนภา จำปาเงิน",
     "active": true
   },
@@ -540,6 +607,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "35",
+    "studentId": "14325",
     "fullName": "นางสาวเบญญาภา พินิจนัย",
     "active": true
   },
@@ -548,6 +616,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "36",
+    "studentId": "14326",
     "fullName": "นางสาวปิ่นฤทัย อิ่มใจ",
     "active": true
   },
@@ -556,6 +625,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "37",
+    "studentId": "14327",
     "fullName": "นางสาวภัคจิรา เนินทอง",
     "active": true
   },
@@ -564,6 +634,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "38",
+    "studentId": "14328",
     "fullName": "นางสาวภิญญาพัชญ์ บุตรวงษ์",
     "active": true
   },
@@ -572,6 +643,7 @@
     "level": "ม.5",
     "room": "2",
     "no": "39",
+    "studentId": "14329",
     "fullName": "นางสาวมัญชุสา อ่อนศรี",
     "active": true
   },
@@ -580,6 +652,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "1",
+    "studentId": "12758",
     "fullName": "นายขัฏติยะ ราชวงศ์",
     "active": true
   },
@@ -588,6 +661,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "2",
+    "studentId": "12760",
     "fullName": "นายฐาปณัถฐ์ สีหมอก",
     "active": true
   },
@@ -596,6 +670,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "3",
+    "studentId": "12829",
     "fullName": "นายกฤษธนกรณ์ นาคประสิทธิ์",
     "active": true
   },
@@ -604,6 +679,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "4",
+    "studentId": "12845",
     "fullName": "นายภูมิพัฒน์ ภูมิศร",
     "active": true
   },
@@ -612,6 +688,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "5",
+    "studentId": "12847",
     "fullName": "นายวรภัทร ดริเสถียร",
     "active": true
   },
@@ -620,6 +697,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "6",
+    "studentId": "12872",
     "fullName": "นายปวีณ์กร เส็งดอนไพร",
     "active": true
   },
@@ -628,6 +706,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "7",
+    "studentId": "12874",
     "fullName": "นายปุญญพัฒน์ แตงสีนวล",
     "active": true
   },
@@ -636,6 +715,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "8",
+    "studentId": "12876",
     "fullName": "นายมนุเชษฐ์ เพ็ชรประไพ",
     "active": true
   },
@@ -644,6 +724,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "9",
+    "studentId": "12909",
     "fullName": "นายธนธรรม คำเวช",
     "active": true
   },
@@ -652,6 +733,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "10",
+    "studentId": "12949",
     "fullName": "นายพลฐเสฏฐ์ บุญจันทร์",
     "active": true
   },
@@ -660,6 +742,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "11",
+    "studentId": "14330",
     "fullName": "นายฐิติพงศ์ จงจอหอ",
     "active": true
   },
@@ -668,6 +751,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "12",
+    "studentId": "14331",
     "fullName": "นายธนายุทธ แดงคุ้ม",
     "active": true
   },
@@ -676,6 +760,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "13",
+    "studentId": "14332",
     "fullName": "นายอัสนี เฟื่องรุ้ง",
     "active": true
   },
@@ -684,6 +769,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "14",
+    "studentId": "12819",
     "fullName": "นางสาวทิพวัลย์ บัวใหญ่",
     "active": true
   },
@@ -692,6 +778,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "15",
+    "studentId": "12824",
     "fullName": "นางสาววชิรญาณ์ คุณรุณ",
     "active": true
   },
@@ -700,6 +787,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "16",
+    "studentId": "12852",
     "fullName": "นางสาวชนิดาภา โพธาราม",
     "active": true
   },
@@ -708,6 +796,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "17",
+    "studentId": "12855",
     "fullName": "นางสาวเมวิกา ทำนบ",
     "active": true
   },
@@ -716,6 +805,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "18",
+    "studentId": "12861",
     "fullName": "นางสาวสุภิตตา โกยทอง",
     "active": true
   },
@@ -724,6 +814,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "19",
+    "studentId": "12888",
     "fullName": "นางสาวธิดารัตน์ พวงแก้ว",
     "active": true
   },
@@ -732,6 +823,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "20",
+    "studentId": "12926",
     "fullName": "นางสาวนิธิตรา โสภาพร",
     "active": true
   },
@@ -740,6 +832,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "21",
+    "studentId": "12962",
     "fullName": "นางสาววราพร บ่อพิมาย",
     "active": true
   },
@@ -748,6 +841,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "22",
+    "studentId": "12995",
     "fullName": "นางสาววิลาสินี เริงรัง",
     "active": true
   },
@@ -756,6 +850,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "23",
+    "studentId": "13018",
     "fullName": "นางสาวนาตาชา มอร์แกน",
     "active": true
   },
@@ -764,6 +859,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "24",
+    "studentId": "13022",
     "fullName": "นางสาวพรไพลิน เอี่ยมกลั่น",
     "active": true
   },
@@ -772,6 +868,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "25",
+    "studentId": "13129",
     "fullName": "นางสาวอัญชลี สายทอง",
     "active": true
   },
@@ -780,6 +877,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "26",
+    "studentId": "14333",
     "fullName": "นางสาวกุลธิดา คงอยู่",
     "active": true
   },
@@ -788,6 +886,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "27",
+    "studentId": "14334",
     "fullName": "นางสาวเกศรินทร์ หาชัย",
     "active": true
   },
@@ -796,6 +895,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "28",
+    "studentId": "14335",
     "fullName": "นางสาวชนิดาภา สิทธิลา",
     "active": true
   },
@@ -804,6 +904,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "29",
+    "studentId": "14336",
     "fullName": "นางสาวทิพย์พิมล มิชำนาญ",
     "active": true
   },
@@ -812,6 +913,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "30",
+    "studentId": "14337",
     "fullName": "นางสาวปทิตตา หงษ์จันทรทา",
     "active": true
   },
@@ -820,6 +922,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "31",
+    "studentId": "14338",
     "fullName": "นางสาวปัญญาทิพย์ สวัสดิ์นะที",
     "active": true
   },
@@ -828,6 +931,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "32",
+    "studentId": "14340",
     "fullName": "นางสาวภัคธีมา ดวงทรัพย์",
     "active": true
   },
@@ -836,6 +940,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "33",
+    "studentId": "14341",
     "fullName": "นางสาวมนต์นภา บุญประเสริฐ",
     "active": true
   },
@@ -844,6 +949,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "34",
+    "studentId": "14342",
     "fullName": "นางสาววรรณวิษา กล้าหาญ",
     "active": true
   },
@@ -852,6 +958,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "35",
+    "studentId": "14343",
     "fullName": "นางสาววิชญาดา อินทร์ตา",
     "active": true
   },
@@ -860,6 +967,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "36",
+    "studentId": "14344",
     "fullName": "นางสาววีรวัลย์ จันทรังษี",
     "active": true
   },
@@ -868,6 +976,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "37",
+    "studentId": "14345",
     "fullName": "นางสาวสลิลลา จารี",
     "active": true
   },
@@ -876,6 +985,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "38",
+    "studentId": "14347",
     "fullName": "นางสาวอริสา ศรีเจริญ",
     "active": true
   },
@@ -884,6 +994,7 @@
     "level": "ม.5",
     "room": "3",
     "no": "39",
+    "studentId": "14348",
     "fullName": "นางสาวอาภาภัทร ศรีชำนาญ",
     "active": true
   },
@@ -892,6 +1003,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "1",
+    "studentId": "12765",
     "fullName": "นายธัญเทพ สมบัติเจริญ",
     "active": true
   },
@@ -900,6 +1012,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "2",
+    "studentId": "12768",
     "fullName": "นายปัณณ์พิรัชย์ ผ่องราศรี",
     "active": true
   },
@@ -908,6 +1021,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "3",
+    "studentId": "12800",
     "fullName": "นายธนวรรธน์ ม่วงงาม",
     "active": true
   },
@@ -916,6 +1030,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "4",
+    "studentId": "12801",
     "fullName": "นายธนากร พะโล",
     "active": true
   },
@@ -924,6 +1039,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "5",
+    "studentId": "12813",
     "fullName": "นายวงศกร สุตะคาน",
     "active": true
   },
@@ -932,6 +1048,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "6",
+    "studentId": "12828",
     "fullName": "นายกรวีร์ เส็งดอนไพร",
     "active": true
   },
@@ -940,6 +1057,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "7",
+    "studentId": "12830",
     "fullName": "นายเตชิต เหมือนเพ็ชร",
     "active": true
   },
@@ -948,6 +1066,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "8",
+    "studentId": "12938",
     "fullName": "นายชิติพัทธ์ ภูมิทอง",
     "active": true
   },
@@ -956,6 +1075,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "9",
+    "studentId": "12940",
     "fullName": "นายณภัทรพงศ์ เครือแวงมล",
     "active": true
   },
@@ -964,6 +1084,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "10",
+    "studentId": "12971",
     "fullName": "นายจิรวัฒน์ พุ่มพวง",
     "active": true
   },
@@ -972,6 +1093,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "11",
+    "studentId": "12973",
     "fullName": "นายนิธิกร ชัยมงคล",
     "active": true
   },
@@ -980,6 +1102,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "12",
+    "studentId": "12976",
     "fullName": "นายอดิเทพ ศิริธรรม",
     "active": true
   },
@@ -988,6 +1111,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "13",
+    "studentId": "13004",
     "fullName": "นายโชติพิพัฒน์ สายธิไชย",
     "active": true
   },
@@ -996,6 +1120,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "14",
+    "studentId": "14349",
     "fullName": "นายฌานภัสร์ คำนาเวช",
     "active": true
   },
@@ -1004,6 +1129,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "15",
+    "studentId": "14350",
     "fullName": "นายณัฐณรงค์ อปายทัศน์",
     "active": true
   },
@@ -1012,6 +1138,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "16",
+    "studentId": "14351",
     "fullName": "นายณัฐวุฒิ เพชรแสง",
     "active": true
   },
@@ -1020,6 +1147,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "17",
+    "studentId": "14352",
     "fullName": "นายธนากร เรืองปริพัฒน์",
     "active": true
   },
@@ -1028,6 +1156,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "18",
+    "studentId": "14353",
     "fullName": "นายนพคุณ พันธ์แก่น",
     "active": true
   },
@@ -1036,6 +1165,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "19",
+    "studentId": "14356",
     "fullName": "นายอิสราวุธ ใจเป็นใหญ่",
     "active": true
   },
@@ -1044,6 +1174,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "20",
+    "studentId": "14357",
     "fullName": "นายเอกภพ พร้อมจักรสิงห์",
     "active": true
   },
@@ -1052,6 +1183,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "21",
+    "studentId": "14783",
     "fullName": "นายวีรภัฏ แฝงธานี",
     "active": true
   },
@@ -1060,6 +1192,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "22",
+    "studentId": "12782",
     "fullName": "นางสาวปาลิตา หนูเย็น",
     "active": true
   },
@@ -1068,6 +1201,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "23",
+    "studentId": "12862",
     "fullName": "นางสาวอรภัทร์ พวงหิรัญ",
     "active": true
   },
@@ -1076,6 +1210,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "24",
+    "studentId": "12895",
     "fullName": "นางสาวศุภาวรรณ พาลอุ่น",
     "active": true
   },
@@ -1084,6 +1219,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "25",
+    "studentId": "12956",
     "fullName": "นางสาวชิษณุชา โสรัมภา",
     "active": true
   },
@@ -1092,6 +1228,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "26",
+    "studentId": "12963",
     "fullName": "นางสาวศุภานัน สิงห์ดา",
     "active": true
   },
@@ -1100,6 +1237,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "27",
+    "studentId": "12966",
     "fullName": "นางสาวอนงค์วรรณ์ ทองมี",
     "active": true
   },
@@ -1108,6 +1246,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "28",
+    "studentId": "13020",
     "fullName": "นางสาวนิภาดา ทองทับ",
     "active": true
   },
@@ -1116,6 +1255,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "29",
+    "studentId": "13033",
     "fullName": "นางสาวสุนิษา พิมพิสาร",
     "active": true
   },
@@ -1124,6 +1264,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "30",
+    "studentId": "13034",
     "fullName": "นางสาวสุพรรษา พลพวก",
     "active": true
   },
@@ -1132,6 +1273,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "31",
+    "studentId": "14358",
     "fullName": "นางสาวแพรวา แพงพัน",
     "active": true
   },
@@ -1140,6 +1282,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "32",
+    "studentId": "14359",
     "fullName": "นางสาวจันจิรา ระยับศรี",
     "active": true
   },
@@ -1148,6 +1291,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "33",
+    "studentId": "14360",
     "fullName": "นางสาวชดาพร สิงห์ธีร์",
     "active": true
   },
@@ -1156,6 +1300,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "34",
+    "studentId": "14361",
     "fullName": "นางสาวชลการณ์ สุดตา",
     "active": true
   },
@@ -1164,6 +1309,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "35",
+    "studentId": "14362",
     "fullName": "นางสาวฐานิดา แสงเนตร",
     "active": true
   },
@@ -1172,6 +1318,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "36",
+    "studentId": "14363",
     "fullName": "นางสาวนวภรณ์ มะเดื่อ",
     "active": true
   },
@@ -1180,6 +1327,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "37",
+    "studentId": "14364",
     "fullName": "นางสาวบวรลักษณ์ เปรมประสิทธิ์",
     "active": true
   },
@@ -1188,6 +1336,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "38",
+    "studentId": "14365",
     "fullName": "นางสาวพิมพ์ลดา สมิงรัมย์",
     "active": true
   },
@@ -1196,6 +1345,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "39",
+    "studentId": "14366",
     "fullName": "นางสาวภัทรภร เจ็ดจำลอง",
     "active": true
   },
@@ -1204,6 +1354,7 @@
     "level": "ม.5",
     "room": "4",
     "no": "40",
+    "studentId": "14367",
     "fullName": "นางสาวรัตนาภรณ์ เชิญชม",
     "active": true
   },
@@ -1212,6 +1363,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "1",
+    "studentId": "12806",
     "fullName": "นายปานเทพ ปานเนียร",
     "active": true
   },
@@ -1220,6 +1372,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "2",
+    "studentId": "12812",
     "fullName": "นายรัฐภูมิ ประทุมนาค",
     "active": true
   },
@@ -1228,6 +1381,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "3",
+    "studentId": "12844",
     "fullName": "นายพรพิพัฒน์ ชัยเพชร์",
     "active": true
   },
@@ -1236,6 +1390,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "4",
+    "studentId": "12865",
     "fullName": "นายกฤษฎาพร สุดอุ่น",
     "active": true
   },
@@ -1244,6 +1399,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "5",
+    "studentId": "12904",
     "fullName": "นายซันตู ฮื้อ",
     "active": true
   },
@@ -1252,6 +1408,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "6",
+    "studentId": "12907",
     "fullName": "นายณัฐธนนท์ วิวัฒน์นนท์กร",
     "active": true
   },
@@ -1260,6 +1417,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "7",
+    "studentId": "12911",
     "fullName": "นายธิติพัทธ์ ธนวัฒน์ธนาดุล",
     "active": true
   },
@@ -1268,6 +1426,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "8",
+    "studentId": "13519",
     "fullName": "นายธนภัทร บุตรมงคล",
     "active": true
   },
@@ -1276,6 +1435,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "9",
+    "studentId": "14368",
     "fullName": "นายจักรพงษ์ โพพินิจ",
     "active": true
   },
@@ -1284,6 +1444,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "10",
+    "studentId": "14370",
     "fullName": "นายปรวิชย์ กองทอง",
     "active": true
   },
@@ -1292,6 +1453,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "11",
+    "studentId": "14371",
     "fullName": "นายปิติพงษ์ หมั่นเจริญวงษ์",
     "active": true
   },
@@ -1300,6 +1462,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "12",
+    "studentId": "14372",
     "fullName": "นายอชิรวิชญ์ พลดารา",
     "active": true
   },
@@ -1308,6 +1471,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "13",
+    "studentId": "12787",
     "fullName": "นางสาววันวิสา สว่างแสง",
     "active": true
   },
@@ -1316,6 +1480,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "14",
+    "studentId": "12928",
     "fullName": "นางสาวศุภิสรา เนตรายนต์",
     "active": true
   },
@@ -1324,6 +1489,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "15",
+    "studentId": "12959",
     "fullName": "นางสาวธมลวรรณ สุขใจยิ่ง",
     "active": true
   },
@@ -1332,6 +1498,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "16",
+    "studentId": "12965",
     "fullName": "นางสาวเหนือธาร จงสา",
     "active": true
   },
@@ -1340,6 +1507,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "17",
+    "studentId": "12982",
     "fullName": "นางสาวธวัลรัตน์ พรธรรม",
     "active": true
   },
@@ -1348,6 +1516,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "18",
+    "studentId": "12984",
     "fullName": "นางสาวธีรนันท์ ทวีผล",
     "active": true
   },
@@ -1356,6 +1525,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "19",
+    "studentId": "12987",
     "fullName": "นางสาวพัชชา รุณณี",
     "active": true
   },
@@ -1364,6 +1534,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "20",
+    "studentId": "13014",
     "fullName": "นางสาวชนาภา เจริญลอย",
     "active": true
   },
@@ -1372,6 +1543,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "21",
+    "studentId": "13021",
     "fullName": "นางสาวบุญนิศา บัวใหญ่",
     "active": true
   },
@@ -1380,6 +1552,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "22",
+    "studentId": "13503",
     "fullName": "นางสาวสิริธัญญ์ งบสูงเนิน",
     "active": true
   },
@@ -1388,6 +1561,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "23",
+    "studentId": "14373",
     "fullName": "นางสาวขวัญข้าว เอี่ยมพงษ์",
     "active": true
   },
@@ -1396,6 +1570,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "24",
+    "studentId": "14374",
     "fullName": "นางสาวจักรทิพย์ นิยมดุสดี",
     "active": true
   },
@@ -1404,6 +1579,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "25",
+    "studentId": "14375",
     "fullName": "นางสาวชลนิภา ลาดทอง",
     "active": true
   },
@@ -1412,6 +1588,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "26",
+    "studentId": "14376",
     "fullName": "นางสาวณัฐณิชา ฟองดี",
     "active": true
   },
@@ -1420,6 +1597,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "27",
+    "studentId": "14377",
     "fullName": "นางสาวณัฐณิชา แซ่จู",
     "active": true
   },
@@ -1428,6 +1606,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "28",
+    "studentId": "14378",
     "fullName": "นางสาวณัฐชยา ฟองดี",
     "active": true
   },
@@ -1436,6 +1615,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "29",
+    "studentId": "14379",
     "fullName": "นางสาวธมนวรรณ เคยพุดซา",
     "active": true
   },
@@ -1444,6 +1624,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "30",
+    "studentId": "14380",
     "fullName": "นางสาวพรสุดา ตอโมกข์",
     "active": true
   },
@@ -1452,6 +1633,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "31",
+    "studentId": "14381",
     "fullName": "นางสาวรินรดา ระวิพานิชย์",
     "active": true
   },
@@ -1460,6 +1642,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "32",
+    "studentId": "14382",
     "fullName": "นางสาวอาทิตติยา สุดใจ",
     "active": true
   },
@@ -1468,6 +1651,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "33",
+    "studentId": "14418",
     "fullName": "นางสาวจิราพัชร สีชมภู",
     "active": true
   },
@@ -1476,6 +1660,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "34",
+    "studentId": "14424",
     "fullName": "นางสาวศิริประภา จันทรทา",
     "active": true
   },
@@ -1484,6 +1669,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "35",
+    "studentId": "14784",
     "fullName": "นางสาวสุพิชญา ศรีจันทร์",
     "active": true
   },
@@ -1492,6 +1678,7 @@
     "level": "ม.5",
     "room": "5",
     "no": "36",
+    "studentId": "14785",
     "fullName": "นางสาวเมษรา นิลโพธิ์ทอง",
     "active": true
   },
@@ -1500,6 +1687,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "1",
+    "studentId": "12794",
     "fullName": "นายชนธร สุดนาวา",
     "active": true
   },
@@ -1508,6 +1696,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "2",
+    "studentId": "12848",
     "fullName": "นายอัชรพงษ์ วิหกโต",
     "active": true
   },
@@ -1516,6 +1705,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "3",
+    "studentId": "12864",
     "fullName": "นายเกียรติกมล กลั่นมั่นคง",
     "active": true
   },
@@ -1524,6 +1714,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "4",
+    "studentId": "12972",
     "fullName": "นายธนภัทร แพงศรี",
     "active": true
   },
@@ -1532,6 +1723,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "5",
+    "studentId": "13007",
     "fullName": "นายพงศธร เจริญดง",
     "active": true
   },
@@ -1540,6 +1732,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "6",
+    "studentId": "13012",
     "fullName": "นายเสฏฐวุฒิ ผิวภูเขียว",
     "active": true
   },
@@ -1548,6 +1741,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "7",
+    "studentId": "14394",
     "fullName": "นายจีรภัทร เวชสรรเสริญ",
     "active": true
   },
@@ -1556,6 +1750,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "8",
+    "studentId": "14395",
     "fullName": "นายทินภัทร ชนะบุตร",
     "active": true
   },
@@ -1564,6 +1759,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "9",
+    "studentId": "14396",
     "fullName": "นายเนาวรัตน์ เกตุสร้อย",
     "active": true
   },
@@ -1572,6 +1768,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "10",
+    "studentId": "14397",
     "fullName": "นายศุภณัฐ คำภาพิรมย์",
     "active": true
   },
@@ -1580,6 +1777,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "11",
+    "studentId": "12778",
     "fullName": "นางสาวณัฎฐา กระจ่างศรี",
     "active": true
   },
@@ -1588,6 +1786,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "12",
+    "studentId": "12783",
     "fullName": "นางสาวพิชญาภา สีคุ้ม",
     "active": true
   },
@@ -1596,6 +1795,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "13",
+    "studentId": "12856",
     "fullName": "นางสาวแพรวารี บ่อแก้ว",
     "active": true
   },
@@ -1604,6 +1804,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "14",
+    "studentId": "12932",
     "fullName": "นางสาวสุภัสสร หนิมพานิชย์",
     "active": true
   },
@@ -1612,6 +1813,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "15",
+    "studentId": "12978",
     "fullName": "นางสาวกานต์พิชชา สมนึก",
     "active": true
   },
@@ -1620,6 +1822,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "16",
+    "studentId": "12979",
     "fullName": "นางสาวชนัญชิดา เกษมทาง",
     "active": true
   },
@@ -1628,6 +1831,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "17",
+    "studentId": "12981",
     "fullName": "นางสาวฐิติกาญจน์ สายแวว",
     "active": true
   },
@@ -1636,6 +1840,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "18",
+    "studentId": "12986",
     "fullName": "นางสาวพลอยจันท์ ร่ำเรียนกิจ",
     "active": true
   },
@@ -1644,6 +1849,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "19",
+    "studentId": "12991",
     "fullName": "นางสาวภคมน คงวรไพบูลย์",
     "active": true
   },
@@ -1652,6 +1858,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "20",
+    "studentId": "12996",
     "fullName": "นางสาวศิริรัตน์ พงษ์นุกูล",
     "active": true
   },
@@ -1660,6 +1867,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "21",
+    "studentId": "12999",
     "fullName": "นางสาวหทัยกานต์ สุขทอง",
     "active": true
   },
@@ -1668,6 +1876,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "22",
+    "studentId": "13001",
     "fullName": "นางสาวอภิชญา คนสอาด",
     "active": true
   },
@@ -1676,6 +1885,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "23",
+    "studentId": "13013",
     "fullName": "นางสาวชญานิศ พุ่มทอง",
     "active": true
   },
@@ -1684,6 +1894,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "24",
+    "studentId": "13017",
     "fullName": "นางสาวนันทพร บุญญรภาภัทร์",
     "active": true
   },
@@ -1692,6 +1903,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "25",
+    "studentId": "13023",
     "fullName": "นางสาวพรธิดา ยศศิริ",
     "active": true
   },
@@ -1700,6 +1912,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "26",
+    "studentId": "13024",
     "fullName": "นางสาวพรนัชชา อินทรโชติ",
     "active": true
   },
@@ -1708,6 +1921,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "27",
+    "studentId": "13026",
     "fullName": "นางสาวยิ่งลักษณ์ ผลศิริ",
     "active": true
   },
@@ -1716,6 +1930,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "28",
+    "studentId": "13029",
     "fullName": "นางสาววรรณนิตา ยังหลัง",
     "active": true
   },
@@ -1724,6 +1939,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "29",
+    "studentId": "13036",
     "fullName": "นางสาวอภิญญา แย้มมะลิ",
     "active": true
   },
@@ -1732,6 +1948,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "30",
+    "studentId": "14383",
     "fullName": "นางสาวกนกลักษณ์ บุญดรุณ",
     "active": true
   },
@@ -1740,6 +1957,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "31",
+    "studentId": "14384",
     "fullName": "นางสาวณฐกร เดือนสว่าง",
     "active": true
   },
@@ -1748,6 +1966,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "32",
+    "studentId": "14385",
     "fullName": "นางสาวณัฐิดา ชูโพธิ์",
     "active": true
   },
@@ -1756,6 +1975,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "33",
+    "studentId": "14386",
     "fullName": "นางสาวธนภรณ์ กระต่ายทอง",
     "active": true
   },
@@ -1764,6 +1984,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "34",
+    "studentId": "14387",
     "fullName": "นางสาวประภัสสร มาเจริญ",
     "active": true
   },
@@ -1772,6 +1993,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "35",
+    "studentId": "14388",
     "fullName": "นางสาวพิมพ์ลภัส สิงขร",
     "active": true
   },
@@ -1780,6 +2002,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "36",
+    "studentId": "14389",
     "fullName": "นางสาวสุชารัตน์ หลักหาญ",
     "active": true
   },
@@ -1788,6 +2011,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "37",
+    "studentId": "14390",
     "fullName": "นางสาวสุธีธิดา แสงเนตร",
     "active": true
   },
@@ -1796,6 +2020,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "38",
+    "studentId": "14392",
     "fullName": "นางสาวสุภาวดี สวยส่ง",
     "active": true
   },
@@ -1804,6 +2029,7 @@
     "level": "ม.5",
     "room": "6",
     "no": "39",
+    "studentId": "14393",
     "fullName": "นางสาวอารียา ขาวกลาง",
     "active": true
   }
