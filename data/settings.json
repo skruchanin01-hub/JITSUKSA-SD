@@ -6,7 +6,7 @@
   "sessionId": "2569-T1-W07",
   "passScore": 70,
   "requireStudentId": true,
-  "validateStudentIdWithRoster": false,
+  "validateStudentIdWithRoster": true,
   "emojiMode": "student-select-before-chant",
   "emojiLength": 4,
   "autoScrollSpeed": 1.35,
