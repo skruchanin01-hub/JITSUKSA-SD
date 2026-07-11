@@ -1,0 +1,2490 @@
+[
+  {
+    "studentKey": "M3-01-01",
+    "level": "ม.3",
+    "room": "1",
+    "no": "1",
+    "fullName": "เด็กชายกิตติกวิน เสนกลาง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-02",
+    "level": "ม.3",
+    "room": "1",
+    "no": "2",
+    "fullName": "นายจันไท เทน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-03",
+    "level": "ม.3",
+    "room": "1",
+    "no": "3",
+    "fullName": "เด็กชายจิรณัฐ เกิดหลำ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-04",
+    "level": "ม.3",
+    "room": "1",
+    "no": "4",
+    "fullName": "เด็กชายชยพล สรวมชีพ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-05",
+    "level": "ม.3",
+    "room": "1",
+    "no": "5",
+    "fullName": "เด็กชายชยามร แก้วอุ่น",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-06",
+    "level": "ม.3",
+    "room": "1",
+    "no": "6",
+    "fullName": "เด็กชายตรัยคุณ ศรีประเทือง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-07",
+    "level": "ม.3",
+    "room": "1",
+    "no": "7",
+    "fullName": "เด็กชายธีร์วรุตม์ สำราญ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-08",
+    "level": "ม.3",
+    "room": "1",
+    "no": "8",
+    "fullName": "เด็กชายนิรวิทธ์ อินโต",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-09",
+    "level": "ม.3",
+    "room": "1",
+    "no": "9",
+    "fullName": "เด็กชายปุญญพัฒน์ วงษ์ประยูร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-10",
+    "level": "ม.3",
+    "room": "1",
+    "no": "10",
+    "fullName": "นายเปรมมานัส ถิ่นมัธยม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-11",
+    "level": "ม.3",
+    "room": "1",
+    "no": "11",
+    "fullName": "เด็กชายภัทรพล ยั่งยืน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-12",
+    "level": "ม.3",
+    "room": "1",
+    "no": "12",
+    "fullName": "เด็กชายภูชิต สนามพล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-13",
+    "level": "ม.3",
+    "room": "1",
+    "no": "13",
+    "fullName": "เด็กชายมงคล ศรีทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-14",
+    "level": "ม.3",
+    "room": "1",
+    "no": "14",
+    "fullName": "นายรัตภูมิ ศรีทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-15",
+    "level": "ม.3",
+    "room": "1",
+    "no": "15",
+    "fullName": "เด็กชายวรันธร ขาวสะอาด",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-16",
+    "level": "ม.3",
+    "room": "1",
+    "no": "16",
+    "fullName": "เด็กชายวรากร มูลพักตร์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-17",
+    "level": "ม.3",
+    "room": "1",
+    "no": "17",
+    "fullName": "เด็กชายวุฒิภัทร วงศ์สมัคร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-18",
+    "level": "ม.3",
+    "room": "1",
+    "no": "18",
+    "fullName": "เด็กชายศุภณัฐ ศรีฮาด",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-19",
+    "level": "ม.3",
+    "room": "1",
+    "no": "19",
+    "fullName": "เด็กชายสมัชญ์ สุขโขใจ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-20",
+    "level": "ม.3",
+    "room": "1",
+    "no": "20",
+    "fullName": "เด็กชายสุธินันท์ รอยระยับ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-21",
+    "level": "ม.3",
+    "room": "1",
+    "no": "21",
+    "fullName": "เด็กชายอนุรักษ์ วงค์ภักดี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-22",
+    "level": "ม.3",
+    "room": "1",
+    "no": "22",
+    "fullName": "เด็กชายอาทิวราห์ จันทรา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-23",
+    "level": "ม.3",
+    "room": "1",
+    "no": "23",
+    "fullName": "เด็กชายอาทิวราห์ อารีราษฎร์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-24",
+    "level": "ม.3",
+    "room": "1",
+    "no": "24",
+    "fullName": "นายอารักษ์ บุญหนุน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-25",
+    "level": "ม.3",
+    "room": "1",
+    "no": "25",
+    "fullName": "เด็กชายเสฎฐวุฒิ เจิมเจริญ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-26",
+    "level": "ม.3",
+    "room": "1",
+    "no": "26",
+    "fullName": "เด็กหญิงกัลย์สุดา เหนี่ยวกระโทก",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-27",
+    "level": "ม.3",
+    "room": "1",
+    "no": "27",
+    "fullName": "เด็กหญิงจิรประภา ผลสุข",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-28",
+    "level": "ม.3",
+    "room": "1",
+    "no": "28",
+    "fullName": "เด็กหญิงจิรัชยา เครือแวงมล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-29",
+    "level": "ม.3",
+    "room": "1",
+    "no": "29",
+    "fullName": "เด็กหญิงฉันทนา สีดาชาติ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-30",
+    "level": "ม.3",
+    "room": "1",
+    "no": "30",
+    "fullName": "เด็กหญิงณิชากร อินทร์แย้ม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-31",
+    "level": "ม.3",
+    "room": "1",
+    "no": "31",
+    "fullName": "เด็กหญิงธนัชชา ใจศิลป์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-32",
+    "level": "ม.3",
+    "room": "1",
+    "no": "32",
+    "fullName": "เด็กหญิงวิชิตา สุวรรณชาติ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-33",
+    "level": "ม.3",
+    "room": "1",
+    "no": "33",
+    "fullName": "เด็กหญิงศุภิสรา เคนแสง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-34",
+    "level": "ม.3",
+    "room": "1",
+    "no": "34",
+    "fullName": "เด็กหญิงสุเบญจา มอญดี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-35",
+    "level": "ม.3",
+    "room": "1",
+    "no": "35",
+    "fullName": "เด็กหญิงณัฐวดี ธรรมเสถียร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-01-36",
+    "level": "ม.3",
+    "room": "1",
+    "no": "36",
+    "fullName": "เด็กหญิงฐิฆัมพร รสหอม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-01",
+    "level": "ม.3",
+    "room": "2",
+    "no": "1",
+    "fullName": "เด็กชายกิตติศักดิ์ พรมศรี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-02",
+    "level": "ม.3",
+    "room": "2",
+    "no": "2",
+    "fullName": "เด็กชายฉัตรปวีย์ ใจช่วย",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-03",
+    "level": "ม.3",
+    "room": "2",
+    "no": "3",
+    "fullName": "เด็กชายชนากานต์ นาคเกิด",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-04",
+    "level": "ม.3",
+    "room": "2",
+    "no": "4",
+    "fullName": "เด็กชายไชยวัฒน์ มหาวงศ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-05",
+    "level": "ม.3",
+    "room": "2",
+    "no": "5",
+    "fullName": "เด็กชายณรงค์ฤทธิ์ เนียมใจวงษ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-06",
+    "level": "ม.3",
+    "room": "2",
+    "no": "6",
+    "fullName": "เด็กชายณัฐดนัย ปรีเอี่ยม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-07",
+    "level": "ม.3",
+    "room": "2",
+    "no": "7",
+    "fullName": "เด็กชายธนกฤต ลีโส",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-08",
+    "level": "ม.3",
+    "room": "2",
+    "no": "8",
+    "fullName": "เด็กชายธนธร ตรีศักดิ์เดช",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-09",
+    "level": "ม.3",
+    "room": "2",
+    "no": "9",
+    "fullName": "เด็กชายธนภัทร์ สุดห้วยแก้ว",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-10",
+    "level": "ม.3",
+    "room": "2",
+    "no": "10",
+    "fullName": "เด็กชายธีรภัทร แสงอาทิตย์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-11",
+    "level": "ม.3",
+    "room": "2",
+    "no": "11",
+    "fullName": "เด็กชายธีรวัฒน์ แป้นสุข",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-12",
+    "level": "ม.3",
+    "room": "2",
+    "no": "12",
+    "fullName": "เด็กชายปวริศว์ ผ่องโอย",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-13",
+    "level": "ม.3",
+    "room": "2",
+    "no": "13",
+    "fullName": "เด็กชายพศิษฏ์นันท์ วนิชชากร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-14",
+    "level": "ม.3",
+    "room": "2",
+    "no": "14",
+    "fullName": "เด็กชายพีรณัฐ สารุ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-15",
+    "level": "ม.3",
+    "room": "2",
+    "no": "15",
+    "fullName": "เด็กชายภคธร บัวใหญ่",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-16",
+    "level": "ม.3",
+    "room": "2",
+    "no": "16",
+    "fullName": "เด็กชายภูผา มั่นคงพูนสวัสดิ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-17",
+    "level": "ม.3",
+    "room": "2",
+    "no": "17",
+    "fullName": "เด็กชายวิพักตร์ แสงทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-18",
+    "level": "ม.3",
+    "room": "2",
+    "no": "18",
+    "fullName": "เด็กชายศศกร สายแวว",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-19",
+    "level": "ม.3",
+    "room": "2",
+    "no": "19",
+    "fullName": "เด็กชายศิริโชค ปานทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-20",
+    "level": "ม.3",
+    "room": "2",
+    "no": "20",
+    "fullName": "เด็กชายอภิวัฒน์ การประเสริฐ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-21",
+    "level": "ม.3",
+    "room": "2",
+    "no": "21",
+    "fullName": "เด็กชายศุภมิตร ชูทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-22",
+    "level": "ม.3",
+    "room": "2",
+    "no": "22",
+    "fullName": "เด็กหญิงจันทกานต์ ราชพลี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-23",
+    "level": "ม.3",
+    "room": "2",
+    "no": "23",
+    "fullName": "เด็กหญิงนาราภัทร คำอ่อน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-24",
+    "level": "ม.3",
+    "room": "2",
+    "no": "24",
+    "fullName": "เด็กหญิงปวริสา วงศ์โสภา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-25",
+    "level": "ม.3",
+    "room": "2",
+    "no": "25",
+    "fullName": "เด็กหญิงปิยธิดา ลิ้มเจริญ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-26",
+    "level": "ม.3",
+    "room": "2",
+    "no": "26",
+    "fullName": "เด็กหญิงพลอยไพลิน บริสุทธิ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-27",
+    "level": "ม.3",
+    "room": "2",
+    "no": "27",
+    "fullName": "นางสาวภารดี สาวะดี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-28",
+    "level": "ม.3",
+    "room": "2",
+    "no": "28",
+    "fullName": "เด็กหญิงวรรณษา วงษาชัย",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-29",
+    "level": "ม.3",
+    "room": "2",
+    "no": "29",
+    "fullName": "นางสาวศิริพร ไหลหลง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-30",
+    "level": "ม.3",
+    "room": "2",
+    "no": "30",
+    "fullName": "เด็กหญิงอรอุมา จันทร์พิมพ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-31",
+    "level": "ม.3",
+    "room": "2",
+    "no": "31",
+    "fullName": "เด็กหญิงชญดา สุทธิปัญโญ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-02-32",
+    "level": "ม.3",
+    "room": "2",
+    "no": "32",
+    "fullName": "นางสาวลลิดา วงศ์อยู่",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-01",
+    "level": "ม.3",
+    "room": "3",
+    "no": "1",
+    "fullName": "นายอัครเดช โสดาศรี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-02",
+    "level": "ม.3",
+    "room": "3",
+    "no": "2",
+    "fullName": "นายชยพัทธ์ สีดาเขียว",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-03",
+    "level": "ม.3",
+    "room": "3",
+    "no": "3",
+    "fullName": "เด็กชายไกรสิทธิ์ ดาวเรือง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-04",
+    "level": "ม.3",
+    "room": "3",
+    "no": "4",
+    "fullName": "เด็กชายครรชิต มันทุปา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-05",
+    "level": "ม.3",
+    "room": "3",
+    "no": "5",
+    "fullName": "นายจักรภัทร เงินวงษ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-06",
+    "level": "ม.3",
+    "room": "3",
+    "no": "6",
+    "fullName": "เด็กชายธรรมสรณ์ ไชยยะ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-07",
+    "level": "ม.3",
+    "room": "3",
+    "no": "7",
+    "fullName": "เด็กชายนพณัฐ จิตเดช",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-08",
+    "level": "ม.3",
+    "room": "3",
+    "no": "8",
+    "fullName": "เด็กชายนฤเบศร์ รักความชอบ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-09",
+    "level": "ม.3",
+    "room": "3",
+    "no": "9",
+    "fullName": "เด็กชายศุภนันท์ พันชนัง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-10",
+    "level": "ม.3",
+    "room": "3",
+    "no": "10",
+    "fullName": "นายศุภวิชญ์ พลอยนิล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-11",
+    "level": "ม.3",
+    "room": "3",
+    "no": "11",
+    "fullName": "นายจอลุย -",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-12",
+    "level": "ม.3",
+    "room": "3",
+    "no": "12",
+    "fullName": "เด็กชายสุรสีห์ ทองมาเอ็ง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-13",
+    "level": "ม.3",
+    "room": "3",
+    "no": "13",
+    "fullName": "เด็กหญิงคุณภัทร คำชาติ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-14",
+    "level": "ม.3",
+    "room": "3",
+    "no": "14",
+    "fullName": "เด็กหญิงจินดาภัทร์ สงนอก",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-15",
+    "level": "ม.3",
+    "room": "3",
+    "no": "15",
+    "fullName": "เด็กหญิงชลธิชา บ่อเงิน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-16",
+    "level": "ม.3",
+    "room": "3",
+    "no": "16",
+    "fullName": "เด็กหญิงญาณิศา วงษ์สมบูรณ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-17",
+    "level": "ม.3",
+    "room": "3",
+    "no": "17",
+    "fullName": "เด็กหญิงปรมาภรณ์ เพ็ชรตะกั่ว",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-18",
+    "level": "ม.3",
+    "room": "3",
+    "no": "18",
+    "fullName": "เด็กหญิงปวิชญาดา อังกินันทน์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-19",
+    "level": "ม.3",
+    "room": "3",
+    "no": "19",
+    "fullName": "เด็กหญิงพรนภา กระต่ายจันทร์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-20",
+    "level": "ม.3",
+    "room": "3",
+    "no": "20",
+    "fullName": "เด็กหญิงรัชดา โพธิเดช",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-21",
+    "level": "ม.3",
+    "room": "3",
+    "no": "21",
+    "fullName": "เด็กหญิงสุทธญาณ์ แย้มจำรัส",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-22",
+    "level": "ม.3",
+    "room": "3",
+    "no": "22",
+    "fullName": "เด็กหญิงจีราภา เก็บผัก",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-23",
+    "level": "ม.3",
+    "room": "3",
+    "no": "23",
+    "fullName": "เด็กหญิงพิชชา บุญเพ็ง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-24",
+    "level": "ม.3",
+    "room": "3",
+    "no": "24",
+    "fullName": "เด็กหญิงธมนวรรณ เรืองมนตรี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-25",
+    "level": "ม.3",
+    "room": "3",
+    "no": "25",
+    "fullName": "เด็กหญิงภัทรินทร์ หลงวงษ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-03-26",
+    "level": "ม.3",
+    "room": "3",
+    "no": "26",
+    "fullName": "เด็กหญิงปัณฑารีย์ สุขพงษ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-01",
+    "level": "ม.3",
+    "room": "4",
+    "no": "1",
+    "fullName": "เด็กชายกวิน สมทรัพย์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-02",
+    "level": "ม.3",
+    "room": "4",
+    "no": "2",
+    "fullName": "เด็กชายกิตติพศ หัศดี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-03",
+    "level": "ม.3",
+    "room": "4",
+    "no": "3",
+    "fullName": "เด็กชายไชยวัฒน์ บุญกัญญา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-04",
+    "level": "ม.3",
+    "room": "4",
+    "no": "4",
+    "fullName": "เด็กชายณัชพล โสภาพร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-05",
+    "level": "ม.3",
+    "room": "4",
+    "no": "5",
+    "fullName": "เด็กชายเตชินท์ จันดามี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-06",
+    "level": "ม.3",
+    "room": "4",
+    "no": "6",
+    "fullName": "เด็กชายธนกร เข็มเพชร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-07",
+    "level": "ม.3",
+    "room": "4",
+    "no": "7",
+    "fullName": "เด็กชายธนัตถ์กิตติ์ ด้วงเหม็น",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-08",
+    "level": "ม.3",
+    "room": "4",
+    "no": "8",
+    "fullName": "เด็กชายนพวิชญ์ เยาวโภชน์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-09",
+    "level": "ม.3",
+    "room": "4",
+    "no": "9",
+    "fullName": "เด็กชายนันทภพ สีนิลหรั่ง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-10",
+    "level": "ม.3",
+    "room": "4",
+    "no": "10",
+    "fullName": "เด็กชายปฏิพล หมื่นกันยา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-11",
+    "level": "ม.3",
+    "room": "4",
+    "no": "11",
+    "fullName": "เด็กชายปฏิภาณ สุวรรณสิน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-12",
+    "level": "ม.3",
+    "room": "4",
+    "no": "12",
+    "fullName": "เด็กชายพุฒิเมธ ณ นคร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-13",
+    "level": "ม.3",
+    "room": "4",
+    "no": "13",
+    "fullName": "เด็กชายภัทรภณ เกตุลืม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-14",
+    "level": "ม.3",
+    "room": "4",
+    "no": "14",
+    "fullName": "นายภานุวัฒน์ ตลับทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-15",
+    "level": "ม.3",
+    "room": "4",
+    "no": "15",
+    "fullName": "เด็กชายภูริชกานต์ ลีลาน้อย",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-16",
+    "level": "ม.3",
+    "room": "4",
+    "no": "16",
+    "fullName": "เด็กชายวันเฉลิม จุ้ยวอน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-17",
+    "level": "ม.3",
+    "room": "4",
+    "no": "17",
+    "fullName": "เด็กชายวีระ เชียร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-18",
+    "level": "ม.3",
+    "room": "4",
+    "no": "18",
+    "fullName": "เด็กชายวุฒิชัย เบ้าหล่อ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-19",
+    "level": "ม.3",
+    "room": "4",
+    "no": "19",
+    "fullName": "เด็กชายอดิเทพ ภูมิสิทธิ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-20",
+    "level": "ม.3",
+    "room": "4",
+    "no": "20",
+    "fullName": "เด็กชายอรรณพ โยธาจันทร์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-21",
+    "level": "ม.3",
+    "room": "4",
+    "no": "21",
+    "fullName": "เด็กชายอำนาจ ประชุมสาร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-22",
+    "level": "ม.3",
+    "room": "4",
+    "no": "22",
+    "fullName": "เด็กชายวันชัย นวลทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-23",
+    "level": "ม.3",
+    "room": "4",
+    "no": "23",
+    "fullName": "เด็กหญิงกมลชนก สุขเหล่า",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-24",
+    "level": "ม.3",
+    "room": "4",
+    "no": "24",
+    "fullName": "เด็กหญิงกฤตพร จรูญชีพ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-25",
+    "level": "ม.3",
+    "room": "4",
+    "no": "25",
+    "fullName": "เด็กหญิงกวินธิดา ภูคงทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-26",
+    "level": "ม.3",
+    "room": "4",
+    "no": "26",
+    "fullName": "นางสาวจิราภา อ่อนประดับกุล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-27",
+    "level": "ม.3",
+    "room": "4",
+    "no": "27",
+    "fullName": "เด็กหญิงชนิสรา ศรสำแดง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-28",
+    "level": "ม.3",
+    "room": "4",
+    "no": "28",
+    "fullName": "เด็กหญิงนราลักษมี มณียารักษ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-29",
+    "level": "ม.3",
+    "room": "4",
+    "no": "29",
+    "fullName": "เด็กหญิงพิยดา เพียโคตร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-30",
+    "level": "ม.3",
+    "room": "4",
+    "no": "30",
+    "fullName": "เด็กหญิงยิ่งลักษณ์ เฉลิมภาค",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-31",
+    "level": "ม.3",
+    "room": "4",
+    "no": "31",
+    "fullName": "เด็กหญิงรินรดา โสรัมภา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-32",
+    "level": "ม.3",
+    "room": "4",
+    "no": "32",
+    "fullName": "เด็กหญิงสุภัชชา สุวรรณดี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-33",
+    "level": "ม.3",
+    "room": "4",
+    "no": "33",
+    "fullName": "เด็กหญิงอนัตตา พุ่มแก้ว",
+    "active": true
+  },
+  {
+    "studentKey": "M3-04-34",
+    "level": "ม.3",
+    "room": "4",
+    "no": "34",
+    "fullName": "เด็กหญิงกรรญารัตน์ อินทะหอม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-01",
+    "level": "ม.3",
+    "room": "5",
+    "no": "1",
+    "fullName": "เด็กชายกิตติกวิน กาสี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-02",
+    "level": "ม.3",
+    "room": "5",
+    "no": "2",
+    "fullName": "เด็กชายคุณภัทร อ่ำกลาง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-03",
+    "level": "ม.3",
+    "room": "5",
+    "no": "3",
+    "fullName": "เด็กชายคุณานนท์ วงศ์ปรากฎ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-04",
+    "level": "ม.3",
+    "room": "5",
+    "no": "4",
+    "fullName": "เด็กชายพีรวิชญ์ สิงห์ชัยฮั่ง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-05",
+    "level": "ม.3",
+    "room": "5",
+    "no": "5",
+    "fullName": "เด็กชายรณพีร์ สุทธิพร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-06",
+    "level": "ม.3",
+    "room": "5",
+    "no": "6",
+    "fullName": "นายอิทธิกร ธรรมศร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-07",
+    "level": "ม.3",
+    "room": "5",
+    "no": "7",
+    "fullName": "เด็กชายอภิวุฒิ พิผ่วนนอก",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-08",
+    "level": "ม.3",
+    "room": "5",
+    "no": "8",
+    "fullName": "เด็กหญิงกนกพร อยู่ทับ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-09",
+    "level": "ม.3",
+    "room": "5",
+    "no": "9",
+    "fullName": "เด็กหญิงกรกมล บุญศิริ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-10",
+    "level": "ม.3",
+    "room": "5",
+    "no": "10",
+    "fullName": "เด็กหญิงกวินทิพย์ เรืองคำ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-11",
+    "level": "ม.3",
+    "room": "5",
+    "no": "11",
+    "fullName": "เด็กหญิงกัญญาณัฐ ศรีวัฒนพงศ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-12",
+    "level": "ม.3",
+    "room": "5",
+    "no": "12",
+    "fullName": "เด็กหญิงเกตน์สิรี ดาวเรือง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-13",
+    "level": "ม.3",
+    "room": "5",
+    "no": "13",
+    "fullName": "เด็กหญิงฉัตรชนก สิทธิเวช",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-14",
+    "level": "ม.3",
+    "room": "5",
+    "no": "14",
+    "fullName": "เด็กหญิงชาลิสา ศรีทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-15",
+    "level": "ม.3",
+    "room": "5",
+    "no": "15",
+    "fullName": "เด็กหญิงญาณิศา สุโภภาค",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-16",
+    "level": "ม.3",
+    "room": "5",
+    "no": "16",
+    "fullName": "นางสาวฐิตินาฏ เรือนฤทธิ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-17",
+    "level": "ม.3",
+    "room": "5",
+    "no": "17",
+    "fullName": "เด็กหญิงณัฐชยา นกกาศักดิ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-18",
+    "level": "ม.3",
+    "room": "5",
+    "no": "18",
+    "fullName": "เด็กหญิงณัฐณิชา มณีรส",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-19",
+    "level": "ม.3",
+    "room": "5",
+    "no": "19",
+    "fullName": "เด็กหญิงณัฐนันท์ พรหมศร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-20",
+    "level": "ม.3",
+    "room": "5",
+    "no": "20",
+    "fullName": "เด็กหญิงทิพย์ธารา มงคลศิลป์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-21",
+    "level": "ม.3",
+    "room": "5",
+    "no": "21",
+    "fullName": "เด็กหญิงนัฐรดา คำอ่อน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-22",
+    "level": "ม.3",
+    "room": "5",
+    "no": "22",
+    "fullName": "เด็กหญิงนิชาดา มะยมตะคุ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-23",
+    "level": "ม.3",
+    "room": "5",
+    "no": "23",
+    "fullName": "เด็กหญิงปาริชาติ เพ็ชรตะกั่ว",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-24",
+    "level": "ม.3",
+    "room": "5",
+    "no": "24",
+    "fullName": "เด็กหญิงพัชรี ขนสุวรรณ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-25",
+    "level": "ม.3",
+    "room": "5",
+    "no": "25",
+    "fullName": "เด็กหญิงพิชา จิตธนารัชต์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-26",
+    "level": "ม.3",
+    "room": "5",
+    "no": "26",
+    "fullName": "เด็กหญิงพูทอง ขุนเวียงไช",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-27",
+    "level": "ม.3",
+    "room": "5",
+    "no": "27",
+    "fullName": "เด็กหญิงภัทรดา เนาวราช",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-28",
+    "level": "ม.3",
+    "room": "5",
+    "no": "28",
+    "fullName": "เด็กหญิงมีนานุช กองมณี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-29",
+    "level": "ม.3",
+    "room": "5",
+    "no": "29",
+    "fullName": "เด็กหญิงวรัญญา ขาวผ่อง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-30",
+    "level": "ม.3",
+    "room": "5",
+    "no": "30",
+    "fullName": "เด็กหญิงศรินภัสร์ ศรายุทธพิชัย",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-31",
+    "level": "ม.3",
+    "room": "5",
+    "no": "31",
+    "fullName": "เด็กหญิงสุกัญญา บุญเรือง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-32",
+    "level": "ม.3",
+    "room": "5",
+    "no": "32",
+    "fullName": "เด็กหญิงสุพิชญา มูลสาร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-33",
+    "level": "ม.3",
+    "room": "5",
+    "no": "33",
+    "fullName": "เด็กหญิงอริสรา ภูค่อย",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-34",
+    "level": "ม.3",
+    "room": "5",
+    "no": "34",
+    "fullName": "เด็กหญิงอารดา ทรัพย์เลิศประภา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-35",
+    "level": "ม.3",
+    "room": "5",
+    "no": "35",
+    "fullName": "เด็กหญิงอารยา กะพงษ์ทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-36",
+    "level": "ม.3",
+    "room": "5",
+    "no": "36",
+    "fullName": "เด็กหญิงไอยรา ปทุมวัน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-05-37",
+    "level": "ม.3",
+    "room": "5",
+    "no": "37",
+    "fullName": "เด็กหญิงชิษณุกานต์ ผลาผล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-01",
+    "level": "ม.3",
+    "room": "6",
+    "no": "1",
+    "fullName": "เด็กชายกชศรัณป์ พรเอนก",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-02",
+    "level": "ม.3",
+    "room": "6",
+    "no": "2",
+    "fullName": "เด็กชายณพลกฤต เปียฉ่ำ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-03",
+    "level": "ม.3",
+    "room": "6",
+    "no": "3",
+    "fullName": "เด็กชายณัฐวุฒิ คชาไพร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-04",
+    "level": "ม.3",
+    "room": "6",
+    "no": "4",
+    "fullName": "เด็กชายต้นตะ ต้น",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-05",
+    "level": "ม.3",
+    "room": "6",
+    "no": "5",
+    "fullName": "เด็กชายพร้อมพงษ์ บุญธิรักษ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-06",
+    "level": "ม.3",
+    "room": "6",
+    "no": "6",
+    "fullName": "เด็กหญิงกมลพร ศึกษา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-07",
+    "level": "ม.3",
+    "room": "6",
+    "no": "7",
+    "fullName": "เด็กหญิงกัญจน์รัตน์ แซ่โง้ว",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-08",
+    "level": "ม.3",
+    "room": "6",
+    "no": "8",
+    "fullName": "เด็กหญิงกันยาพร สืบชมภู",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-09",
+    "level": "ม.3",
+    "room": "6",
+    "no": "9",
+    "fullName": "เด็กหญิงจันทร์จิลา โคมารัมย์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-10",
+    "level": "ม.3",
+    "room": "6",
+    "no": "10",
+    "fullName": "เด็กหญิงจิรภิญญา ประทุมสาร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-11",
+    "level": "ม.3",
+    "room": "6",
+    "no": "11",
+    "fullName": "นางสาวจิรัชญา จันทร์ทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-12",
+    "level": "ม.3",
+    "room": "6",
+    "no": "12",
+    "fullName": "เด็กหญิงชนินาถ ผลทับทิม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-13",
+    "level": "ม.3",
+    "room": "6",
+    "no": "13",
+    "fullName": "นางสาวชมพูนุท การวิจิตร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-14",
+    "level": "ม.3",
+    "room": "6",
+    "no": "14",
+    "fullName": "เด็กหญิงชัญญา แมนประเสริฐ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-15",
+    "level": "ม.3",
+    "room": "6",
+    "no": "15",
+    "fullName": "เด็กหญิงณัฐทิตา นิลสระคู",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-16",
+    "level": "ม.3",
+    "room": "6",
+    "no": "16",
+    "fullName": "เด็กหญิงณัฐนพิน ไชยมงคล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-17",
+    "level": "ม.3",
+    "room": "6",
+    "no": "17",
+    "fullName": "เด็กหญิงตรีชฎา กองทูล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-18",
+    "level": "ม.3",
+    "room": "6",
+    "no": "18",
+    "fullName": "เด็กหญิงธนพร ลาภหิรัญ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-19",
+    "level": "ม.3",
+    "room": "6",
+    "no": "19",
+    "fullName": "เด็กหญิงธิดารัตน์ สุพรรณนอก",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-20",
+    "level": "ม.3",
+    "room": "6",
+    "no": "20",
+    "fullName": "เด็กหญิงนภัสวรรณ เคียนตะขบ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-21",
+    "level": "ม.3",
+    "room": "6",
+    "no": "21",
+    "fullName": "เด็กหญิงนริศรา ช่างเกียน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-22",
+    "level": "ม.3",
+    "room": "6",
+    "no": "22",
+    "fullName": "เด็กหญิงปณิดา วงเพ็ชร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-23",
+    "level": "ม.3",
+    "room": "6",
+    "no": "23",
+    "fullName": "เด็กหญิงพลอยลดา จรรยาวุฒิ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-24",
+    "level": "ม.3",
+    "room": "6",
+    "no": "24",
+    "fullName": "เด็กหญิงพันธิตรา จันทะรังษี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-25",
+    "level": "ม.3",
+    "room": "6",
+    "no": "25",
+    "fullName": "เด็กหญิงภัทรธิตา พุทธระสุ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-26",
+    "level": "ม.3",
+    "room": "6",
+    "no": "26",
+    "fullName": "เด็กหญิงเมษา นาวารัตน์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-27",
+    "level": "ม.3",
+    "room": "6",
+    "no": "27",
+    "fullName": "เด็กหญิงวรรณมณีรินทร์ เพาะปลูก",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-28",
+    "level": "ม.3",
+    "room": "6",
+    "no": "28",
+    "fullName": "เด็กหญิงวริญญา วิชัยศาล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-29",
+    "level": "ม.3",
+    "room": "6",
+    "no": "29",
+    "fullName": "เด็กหญิงศศิวิมล แก้ววิเศษ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-30",
+    "level": "ม.3",
+    "room": "6",
+    "no": "30",
+    "fullName": "เด็กหญิงศิริวรรณ ขัดนาค",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-31",
+    "level": "ม.3",
+    "room": "6",
+    "no": "31",
+    "fullName": "เด็กหญิงสวรส สิงห์ดา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-32",
+    "level": "ม.3",
+    "room": "6",
+    "no": "32",
+    "fullName": "เด็กหญิงสุภมาศ ประดับผล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-33",
+    "level": "ม.3",
+    "room": "6",
+    "no": "33",
+    "fullName": "เด็กหญิงหทัยชนก แสนพันธุ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-34",
+    "level": "ม.3",
+    "room": "6",
+    "no": "34",
+    "fullName": "เด็กหญิงอมลวรรณ ก้อนทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-06-35",
+    "level": "ม.3",
+    "room": "6",
+    "no": "35",
+    "fullName": "เด็กหญิงอรณิชชา แรงเกตุกิจ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-01",
+    "level": "ม.3",
+    "room": "7",
+    "no": "1",
+    "fullName": "เด็กชายกวิน พันธ์จิตร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-02",
+    "level": "ม.3",
+    "room": "7",
+    "no": "2",
+    "fullName": "เด็กชายณรงเกียรติ นิคม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-03",
+    "level": "ม.3",
+    "room": "7",
+    "no": "3",
+    "fullName": "เด็กชายธีรเทพ ชายแดน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-04",
+    "level": "ม.3",
+    "room": "7",
+    "no": "4",
+    "fullName": "นายนพเก้า โอภาชาติ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-05",
+    "level": "ม.3",
+    "room": "7",
+    "no": "5",
+    "fullName": "เด็กชายพงศกร เจริญดง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-06",
+    "level": "ม.3",
+    "room": "7",
+    "no": "6",
+    "fullName": "เด็กชายพีรพัฒน์ พันธ์กสิกรรม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-07",
+    "level": "ม.3",
+    "room": "7",
+    "no": "7",
+    "fullName": "เด็กชายยอดธง ประดิษฐ์ธรรม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-08",
+    "level": "ม.3",
+    "room": "7",
+    "no": "8",
+    "fullName": "เด็กชายวุฒิภัทร กาสี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-09",
+    "level": "ม.3",
+    "room": "7",
+    "no": "9",
+    "fullName": "เด็กชายศุภกร วรนุช",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-10",
+    "level": "ม.3",
+    "room": "7",
+    "no": "10",
+    "fullName": "เด็กชายสัตยา มูละสาร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-11",
+    "level": "ม.3",
+    "room": "7",
+    "no": "11",
+    "fullName": "เด็กชายสิรวีร์ เรือนฤทธิ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-12",
+    "level": "ม.3",
+    "room": "7",
+    "no": "12",
+    "fullName": "เด็กชายอัครวินท์ แสนชม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-13",
+    "level": "ม.3",
+    "room": "7",
+    "no": "13",
+    "fullName": "เด็กหญิงกฤชอร จักษุลิก",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-14",
+    "level": "ม.3",
+    "room": "7",
+    "no": "14",
+    "fullName": "เด็กหญิงกฤติกานต์ สายมา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-15",
+    "level": "ม.3",
+    "room": "7",
+    "no": "15",
+    "fullName": "นางสาวชื่นกมล ขุนโขลน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-16",
+    "level": "ม.3",
+    "room": "7",
+    "no": "16",
+    "fullName": "เด็กหญิงณัฐชยา อ่อนสอาด",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-17",
+    "level": "ม.3",
+    "room": "7",
+    "no": "17",
+    "fullName": "เด็กหญิงณัฐวรรณ ทองคำ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-18",
+    "level": "ม.3",
+    "room": "7",
+    "no": "18",
+    "fullName": "เด็กหญิงธนภรณ์ เจริญสุข",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-19",
+    "level": "ม.3",
+    "room": "7",
+    "no": "19",
+    "fullName": "เด็กหญิงธวัลรัตน์ หาทรัพย์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-20",
+    "level": "ม.3",
+    "room": "7",
+    "no": "20",
+    "fullName": "เด็กหญิงธัญญารัตน์ ทิอุทิศ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-21",
+    "level": "ม.3",
+    "room": "7",
+    "no": "21",
+    "fullName": "เด็กหญิงธัญสินี เที่ยงดี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-22",
+    "level": "ม.3",
+    "room": "7",
+    "no": "22",
+    "fullName": "เด็กหญิงนัสริยา ราแดง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-23",
+    "level": "ม.3",
+    "room": "7",
+    "no": "23",
+    "fullName": "เด็กหญิงนิดากร เด่นดวง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-24",
+    "level": "ม.3",
+    "room": "7",
+    "no": "24",
+    "fullName": "เด็กหญิงปุญญาภรณ์ กลิ่นพิกุล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-25",
+    "level": "ม.3",
+    "room": "7",
+    "no": "25",
+    "fullName": "เด็กหญิงพรรนิษา จันภูงา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-26",
+    "level": "ม.3",
+    "room": "7",
+    "no": "26",
+    "fullName": "นางสาวพรศิรินทร์ ทองแสงประเสริฐ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-27",
+    "level": "ม.3",
+    "room": "7",
+    "no": "27",
+    "fullName": "เด็กหญิงพัทธ์ธีรา สังข์ทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-28",
+    "level": "ม.3",
+    "room": "7",
+    "no": "28",
+    "fullName": "เด็กหญิงแพรพันพลอย สุทธิโยชน์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-29",
+    "level": "ม.3",
+    "room": "7",
+    "no": "29",
+    "fullName": "เด็กหญิงมนัญชยา ตาประศรี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-30",
+    "level": "ม.3",
+    "room": "7",
+    "no": "30",
+    "fullName": "เด็กหญิงรัตนา พานทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-31",
+    "level": "ม.3",
+    "room": "7",
+    "no": "31",
+    "fullName": "เด็กหญิงวรวลัญช์ ธนสารกุล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-32",
+    "level": "ม.3",
+    "room": "7",
+    "no": "32",
+    "fullName": "เด็กหญิงสุพิชญา อุดม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-33",
+    "level": "ม.3",
+    "room": "7",
+    "no": "33",
+    "fullName": "เด็กหญิงสุภาวดี สีนิลหรั่ง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-34",
+    "level": "ม.3",
+    "room": "7",
+    "no": "34",
+    "fullName": "เด็กหญิงอภิชญา อุปถัมภ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-35",
+    "level": "ม.3",
+    "room": "7",
+    "no": "35",
+    "fullName": "เด็กหญิงอลิศรา คุ้มเผ่า",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-36",
+    "level": "ม.3",
+    "room": "7",
+    "no": "36",
+    "fullName": "เด็กหญิงเอมิกา สุพงษ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-07-37",
+    "level": "ม.3",
+    "room": "7",
+    "no": "37",
+    "fullName": "เด็กหญิงกิตติวรา วงศ์พุทธะ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-01",
+    "level": "ม.3",
+    "room": "8",
+    "no": "1",
+    "fullName": "เด็กชายชญานนท์ แก้ววิจิตร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-02",
+    "level": "ม.3",
+    "room": "8",
+    "no": "2",
+    "fullName": "เด็กชายธนคุณ โกนสันเทียะ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-03",
+    "level": "ม.3",
+    "room": "8",
+    "no": "3",
+    "fullName": "เด็กชายธนพร ทองสายใหญ่",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-04",
+    "level": "ม.3",
+    "room": "8",
+    "no": "4",
+    "fullName": "เด็กชายธนภัทร์ พรมราย",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-05",
+    "level": "ม.3",
+    "room": "8",
+    "no": "5",
+    "fullName": "เด็กชายธีรภัทร ชายแดน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-06",
+    "level": "ม.3",
+    "room": "8",
+    "no": "6",
+    "fullName": "เด็กชายพลวายุ สนามพล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-07",
+    "level": "ม.3",
+    "room": "8",
+    "no": "7",
+    "fullName": "เด็กชายภูภูมิ สมสมัย",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-08",
+    "level": "ม.3",
+    "room": "8",
+    "no": "8",
+    "fullName": "เด็กชายวัณณุวรรธน์ อุปวงษา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-09",
+    "level": "ม.3",
+    "room": "8",
+    "no": "9",
+    "fullName": "เด็กชายสิทธิกรณ์ สำเภาเงิน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-10",
+    "level": "ม.3",
+    "room": "8",
+    "no": "10",
+    "fullName": "เด็กชายอัครวัฒน์ นพพรพิทักษ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-11",
+    "level": "ม.3",
+    "room": "8",
+    "no": "11",
+    "fullName": "เด็กหญิงกชกร บุญญา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-12",
+    "level": "ม.3",
+    "room": "8",
+    "no": "12",
+    "fullName": "เด็กหญิงกณิการ์ พิจารณ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-13",
+    "level": "ม.3",
+    "room": "8",
+    "no": "13",
+    "fullName": "เด็กหญิงกมลชนก ผลสุข",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-14",
+    "level": "ม.3",
+    "room": "8",
+    "no": "14",
+    "fullName": "เด็กหญิงกมลลักษณ์ สุขสำราญ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-15",
+    "level": "ม.3",
+    "room": "8",
+    "no": "15",
+    "fullName": "เด็กหญิงกวินธิดา มูคำ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-16",
+    "level": "ม.3",
+    "room": "8",
+    "no": "16",
+    "fullName": "เด็กหญิงชนิตา จันทร์หอม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-17",
+    "level": "ม.3",
+    "room": "8",
+    "no": "17",
+    "fullName": "เด็กหญิงชลดา วงค์เสาร์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-18",
+    "level": "ม.3",
+    "room": "8",
+    "no": "18",
+    "fullName": "เด็กหญิงณัฐภัสสร บริบูรณ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-19",
+    "level": "ม.3",
+    "room": "8",
+    "no": "19",
+    "fullName": "เด็กหญิงณัฐวิภา สุดสายกรวด",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-20",
+    "level": "ม.3",
+    "room": "8",
+    "no": "20",
+    "fullName": "เด็กหญิงณิชานันท์ สุขโสภณ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-21",
+    "level": "ม.3",
+    "room": "8",
+    "no": "21",
+    "fullName": "นางสาวณิชารัศม์ ศิระวิเชษฐ์กุล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-22",
+    "level": "ม.3",
+    "room": "8",
+    "no": "22",
+    "fullName": "นางสาวดาริน หมื่นราชา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-23",
+    "level": "ม.3",
+    "room": "8",
+    "no": "23",
+    "fullName": "เด็กหญิงนริศรา วงษ์รัตนานุกูล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-24",
+    "level": "ม.3",
+    "room": "8",
+    "no": "24",
+    "fullName": "นางสาวปนัดดา พิริ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-25",
+    "level": "ม.3",
+    "room": "8",
+    "no": "25",
+    "fullName": "เด็กหญิงปัญจรัตน์ ฤกษ์ดี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-26",
+    "level": "ม.3",
+    "room": "8",
+    "no": "26",
+    "fullName": "เด็กหญิงปัญญธิดา เทียมจันทร์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-27",
+    "level": "ม.3",
+    "room": "8",
+    "no": "27",
+    "fullName": "เด็กหญิงปัณณรัศม์ รุณวงศ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-28",
+    "level": "ม.3",
+    "room": "8",
+    "no": "28",
+    "fullName": "เด็กหญิงปาณิศา แซ่จิว",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-29",
+    "level": "ม.3",
+    "room": "8",
+    "no": "29",
+    "fullName": "เด็กหญิงพอเพียง มีโชค",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-30",
+    "level": "ม.3",
+    "room": "8",
+    "no": "30",
+    "fullName": "เด็กหญิงพัชราภา นาจำปา",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-31",
+    "level": "ม.3",
+    "room": "8",
+    "no": "31",
+    "fullName": "นางสาวภัทรมน วัลลานนท์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-32",
+    "level": "ม.3",
+    "room": "8",
+    "no": "32",
+    "fullName": "เด็กหญิงเมนกา สีทองเหลือง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-33",
+    "level": "ม.3",
+    "room": "8",
+    "no": "33",
+    "fullName": "เด็กหญิงโศภิตา เอี่ยมสำอางค์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-34",
+    "level": "ม.3",
+    "room": "8",
+    "no": "34",
+    "fullName": "เด็กหญิงสิรินทรา มั่นคง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-35",
+    "level": "ม.3",
+    "room": "8",
+    "no": "35",
+    "fullName": "เด็กหญิงสุประวีณ์ ทรัพย์ชูงาม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-36",
+    "level": "ม.3",
+    "room": "8",
+    "no": "36",
+    "fullName": "นางสาวเสาวลี นวน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-08-37",
+    "level": "ม.3",
+    "room": "8",
+    "no": "37",
+    "fullName": "นางสาวอัญชิษฐา คำแพง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-01",
+    "level": "ม.3",
+    "room": "9",
+    "no": "1",
+    "fullName": "เด็กชายกิตติศักดิ์ สมเสนาะ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-02",
+    "level": "ม.3",
+    "room": "9",
+    "no": "2",
+    "fullName": "เด็กชายจอนห์สัน วิชัยวงษ์",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-03",
+    "level": "ม.3",
+    "room": "9",
+    "no": "3",
+    "fullName": "เด็กชายชนะ นิยมบุญ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-04",
+    "level": "ม.3",
+    "room": "9",
+    "no": "4",
+    "fullName": "เด็กชายธนเดช บุณโยประการ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-05",
+    "level": "ม.3",
+    "room": "9",
+    "no": "5",
+    "fullName": "เด็กชายธนวัฒน์ พละสุข",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-06",
+    "level": "ม.3",
+    "room": "9",
+    "no": "6",
+    "fullName": "เด็กชายพิเชฐ ตาสันเที๊ยะ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-07",
+    "level": "ม.3",
+    "room": "9",
+    "no": "7",
+    "fullName": "เด็กชายพีรพล สนศิริ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-08",
+    "level": "ม.3",
+    "room": "9",
+    "no": "8",
+    "fullName": "เด็กชายภาณรินทร์ คำภิราช",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-09",
+    "level": "ม.3",
+    "room": "9",
+    "no": "9",
+    "fullName": "เด็กชายภานุวัฒน์ อาจวิชัย",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-10",
+    "level": "ม.3",
+    "room": "9",
+    "no": "10",
+    "fullName": "เด็กชายภูตะวัน ศรีเพชร",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-11",
+    "level": "ม.3",
+    "room": "9",
+    "no": "11",
+    "fullName": "เด็กชายรัฐภูมิ กองขุนทศ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-12",
+    "level": "ม.3",
+    "room": "9",
+    "no": "12",
+    "fullName": "เด็กชายวัชรพล ถ้อยคำ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-13",
+    "level": "ม.3",
+    "room": "9",
+    "no": "13",
+    "fullName": "เด็กชายไววิทย์ ขำดวง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-14",
+    "level": "ม.3",
+    "room": "9",
+    "no": "14",
+    "fullName": "นายศิริชัย สาหร่าย",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-15",
+    "level": "ม.3",
+    "room": "9",
+    "no": "15",
+    "fullName": "เด็กชายสุภกฤษฎิ์ แก่งขนุน",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-16",
+    "level": "ม.3",
+    "room": "9",
+    "no": "16",
+    "fullName": "นายฮง กิมเฮง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-17",
+    "level": "ม.3",
+    "room": "9",
+    "no": "17",
+    "fullName": "เด็กชายณัชฐปกรณ์ แซ่จู",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-18",
+    "level": "ม.3",
+    "room": "9",
+    "no": "18",
+    "fullName": "เด็กชายวรชิต แสงคำ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-19",
+    "level": "ม.3",
+    "room": "9",
+    "no": "19",
+    "fullName": "เด็กหญิงวิภวานี ดีใจงาม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-20",
+    "level": "ม.3",
+    "room": "9",
+    "no": "20",
+    "fullName": "เด็กหญิงกัญญาณัฐ ดาวเรือง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-21",
+    "level": "ม.3",
+    "room": "9",
+    "no": "21",
+    "fullName": "นางสาวกัญญาภัค บัวใหญ่",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-22",
+    "level": "ม.3",
+    "room": "9",
+    "no": "22",
+    "fullName": "เด็กหญิงกัญญาวีร์ สุระทศ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-23",
+    "level": "ม.3",
+    "room": "9",
+    "no": "23",
+    "fullName": "เด็กหญิงกุลจิรา บุญถนอม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-24",
+    "level": "ม.3",
+    "room": "9",
+    "no": "24",
+    "fullName": "เด็กหญิงณัฐชยา คำตาล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-25",
+    "level": "ม.3",
+    "room": "9",
+    "no": "25",
+    "fullName": "เด็กหญิงณัฐณิชา มีมาก",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-26",
+    "level": "ม.3",
+    "room": "9",
+    "no": "26",
+    "fullName": "เด็กหญิงธนัญชญา ในเมือง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-27",
+    "level": "ม.3",
+    "room": "9",
+    "no": "27",
+    "fullName": "นางสาวประภัสสร ไสล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-28",
+    "level": "ม.3",
+    "room": "9",
+    "no": "28",
+    "fullName": "นางสาวปิยนุช ปั้มทิม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-29",
+    "level": "ม.3",
+    "room": "9",
+    "no": "29",
+    "fullName": "เด็กหญิงพิชยภา มากทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-30",
+    "level": "ม.3",
+    "room": "9",
+    "no": "30",
+    "fullName": "เด็กหญิงเพชรรุ้ง สอาด",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-31",
+    "level": "ม.3",
+    "room": "9",
+    "no": "31",
+    "fullName": "เด็กหญิงภัทรธิดา สุระทศ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-32",
+    "level": "ม.3",
+    "room": "9",
+    "no": "32",
+    "fullName": "เด็กหญิงวิมลณัฐ กระจ่างศรี",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-33",
+    "level": "ม.3",
+    "room": "9",
+    "no": "33",
+    "fullName": "เด็กหญิงอชิรญาณ์ เตล็ดทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-34",
+    "level": "ม.3",
+    "room": "9",
+    "no": "34",
+    "fullName": "เด็กหญิงอภิชญา บัวนิล",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-35",
+    "level": "ม.3",
+    "room": "9",
+    "no": "35",
+    "fullName": "เด็กหญิงอรวรา ฐานะ",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-36",
+    "level": "ม.3",
+    "room": "9",
+    "no": "36",
+    "fullName": "เด็กหญิงสมิดา เมืองเอี่ยม",
+    "active": true
+  },
+  {
+    "studentKey": "M3-09-37",
+    "level": "ม.3",
+    "room": "9",
+    "no": "37",
+    "fullName": "เด็กหญิงอรจิรา ปรีดา",
+    "active": true
+  }
+]

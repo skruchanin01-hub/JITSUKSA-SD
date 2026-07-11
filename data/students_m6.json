@@ -1,0 +1,1634 @@
+[
+  {
+    "studentKey": "M6-01-01",
+    "level": "ม.6",
+    "room": "1",
+    "no": "1",
+    "fullName": "นายกัณฑ์เอนก รักสาด",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-02",
+    "level": "ม.6",
+    "room": "1",
+    "no": "2",
+    "fullName": "นายกิตติภณ ไทรย้อย",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-03",
+    "level": "ม.6",
+    "room": "1",
+    "no": "3",
+    "fullName": "นายชนินทร์ ดีต่าย",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-04",
+    "level": "ม.6",
+    "room": "1",
+    "no": "4",
+    "fullName": "นายสุวิจักขณ์ ไชยสีมา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-05",
+    "level": "ม.6",
+    "room": "1",
+    "no": "5",
+    "fullName": "นายชนินทร ทิพย์คูนอก",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-06",
+    "level": "ม.6",
+    "room": "1",
+    "no": "6",
+    "fullName": "นายชัยวัฒน์ ครองบ้าน",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-07",
+    "level": "ม.6",
+    "room": "1",
+    "no": "7",
+    "fullName": "นายมรรษกร ยังอยู่",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-08",
+    "level": "ม.6",
+    "room": "1",
+    "no": "8",
+    "fullName": "นายสราวุฒิ มะยมตะคุ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-09",
+    "level": "ม.6",
+    "room": "1",
+    "no": "9",
+    "fullName": "นายพีรภัทร สลุงอยู่",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-10",
+    "level": "ม.6",
+    "room": "1",
+    "no": "10",
+    "fullName": "นายกรวัฒน์ เย็นทะชิด",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-11",
+    "level": "ม.6",
+    "room": "1",
+    "no": "11",
+    "fullName": "นายจรณ์ หิรัญศรี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-12",
+    "level": "ม.6",
+    "room": "1",
+    "no": "12",
+    "fullName": "นายตรัยคุณ เสือชื้น",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-13",
+    "level": "ม.6",
+    "room": "1",
+    "no": "13",
+    "fullName": "นายพงศ์เทพ การะเกตุ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-14",
+    "level": "ม.6",
+    "room": "1",
+    "no": "14",
+    "fullName": "นายพชร นรดี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-15",
+    "level": "ม.6",
+    "room": "1",
+    "no": "15",
+    "fullName": "นายภาณุพงศ์ บุญมิ่ง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-16",
+    "level": "ม.6",
+    "room": "1",
+    "no": "16",
+    "fullName": "นายจักรภัทร สุดดี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-17",
+    "level": "ม.6",
+    "room": "1",
+    "no": "17",
+    "fullName": "นายวัชรากร ขำทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-18",
+    "level": "ม.6",
+    "room": "1",
+    "no": "18",
+    "fullName": "นางสาวคุนัญญา จำนงวารี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-19",
+    "level": "ม.6",
+    "room": "1",
+    "no": "19",
+    "fullName": "นางสาวสตรีรัตน์ ทองคำ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-20",
+    "level": "ม.6",
+    "room": "1",
+    "no": "20",
+    "fullName": "นางสาวอริสญา ทองพา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-21",
+    "level": "ม.6",
+    "room": "1",
+    "no": "21",
+    "fullName": "นางสาวปิยาภรณ์ สุขใส",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-22",
+    "level": "ม.6",
+    "room": "1",
+    "no": "22",
+    "fullName": "นางสาวศิริภัสสร แผนสันเทียะ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-23",
+    "level": "ม.6",
+    "room": "1",
+    "no": "23",
+    "fullName": "นางสาวจิราพร ภู่นาค",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-24",
+    "level": "ม.6",
+    "room": "1",
+    "no": "24",
+    "fullName": "นางสาวชลธิชา มั่นจิต",
+    "active": true
+  },
+  {
+    "studentKey": "M6-01-25",
+    "level": "ม.6",
+    "room": "1",
+    "no": "25",
+    "fullName": "นางสาวอภิษฎา อาจเลี้ยง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-01",
+    "level": "ม.6",
+    "room": "2",
+    "no": "1",
+    "fullName": "นายนิพิฐพนธ์ แผ่นทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-02",
+    "level": "ม.6",
+    "room": "2",
+    "no": "2",
+    "fullName": "นายวีระวัฒน์ สะวันนา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-03",
+    "level": "ม.6",
+    "room": "2",
+    "no": "3",
+    "fullName": "นายธีระพงค์ ขำดวง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-04",
+    "level": "ม.6",
+    "room": "2",
+    "no": "4",
+    "fullName": "นายธนัท สีหนาท",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-05",
+    "level": "ม.6",
+    "room": "2",
+    "no": "5",
+    "fullName": "นายวรัชญ์ ยนจอหอ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-06",
+    "level": "ม.6",
+    "room": "2",
+    "no": "6",
+    "fullName": "นายธีรไนย บุญโกย",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-07",
+    "level": "ม.6",
+    "room": "2",
+    "no": "7",
+    "fullName": "นายมนัสวิน เกตุกัลยา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-08",
+    "level": "ม.6",
+    "room": "2",
+    "no": "8",
+    "fullName": "นายรัชชานนท์ คุ้มสมบัติ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-09",
+    "level": "ม.6",
+    "room": "2",
+    "no": "9",
+    "fullName": "นางสาวจิณห์นิภา แก้ววรรณา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-10",
+    "level": "ม.6",
+    "room": "2",
+    "no": "10",
+    "fullName": "นางสาวญาณิศา บุญพรหม",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-11",
+    "level": "ม.6",
+    "room": "2",
+    "no": "11",
+    "fullName": "นางสาวณัฏฐรียา แก้วสว่าง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-12",
+    "level": "ม.6",
+    "room": "2",
+    "no": "12",
+    "fullName": "นางสาวศศิวิมล เจริญสาคร",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-13",
+    "level": "ม.6",
+    "room": "2",
+    "no": "13",
+    "fullName": "นางสาวพณิดา ปลอดเปลื่อง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-14",
+    "level": "ม.6",
+    "room": "2",
+    "no": "14",
+    "fullName": "นางสาวฤทัย เวชสรรเสริญ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-15",
+    "level": "ม.6",
+    "room": "2",
+    "no": "15",
+    "fullName": "นางสาวศศิธร เชตพันธุ์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-16",
+    "level": "ม.6",
+    "room": "2",
+    "no": "16",
+    "fullName": "นางสาวธมลวรรณ มีทรัพย์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-17",
+    "level": "ม.6",
+    "room": "2",
+    "no": "17",
+    "fullName": "นางสาวลลิตา อาษา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-18",
+    "level": "ม.6",
+    "room": "2",
+    "no": "18",
+    "fullName": "นางสาวศศิรดา นนท์ชนะ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-19",
+    "level": "ม.6",
+    "room": "2",
+    "no": "19",
+    "fullName": "นางสาววรัญญา ดีใจงาม",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-20",
+    "level": "ม.6",
+    "room": "2",
+    "no": "20",
+    "fullName": "นางสาวสุพรรษา สัจจาระมลทิน",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-21",
+    "level": "ม.6",
+    "room": "2",
+    "no": "21",
+    "fullName": "นางสาวมัลลิกา ถากลาง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-22",
+    "level": "ม.6",
+    "room": "2",
+    "no": "22",
+    "fullName": "นางสาวมาลี ปาง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-23",
+    "level": "ม.6",
+    "room": "2",
+    "no": "23",
+    "fullName": "นางสาวชัญญานุช สีสมุทร์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-24",
+    "level": "ม.6",
+    "room": "2",
+    "no": "24",
+    "fullName": "นางสาวฐิติยา โภคสมบัติ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-25",
+    "level": "ม.6",
+    "room": "2",
+    "no": "25",
+    "fullName": "นางสาวธัญญาณี กล่อมมณี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-26",
+    "level": "ม.6",
+    "room": "2",
+    "no": "26",
+    "fullName": "นางสาววนิดา อุ่นอก",
+    "active": true
+  },
+  {
+    "studentKey": "M6-02-27",
+    "level": "ม.6",
+    "room": "2",
+    "no": "27",
+    "fullName": "นางสาวศศธร ชังคมานนท์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-01",
+    "level": "ม.6",
+    "room": "3",
+    "no": "1",
+    "fullName": "นายชลนพัฒน์ สังข์ทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-02",
+    "level": "ม.6",
+    "room": "3",
+    "no": "2",
+    "fullName": "นายนิวัฒน์ รัตนา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-03",
+    "level": "ม.6",
+    "room": "3",
+    "no": "3",
+    "fullName": "นายณัฐกร มิ้นคง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-04",
+    "level": "ม.6",
+    "room": "3",
+    "no": "4",
+    "fullName": "นายเต็มสิทธิ์ ละลี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-05",
+    "level": "ม.6",
+    "room": "3",
+    "no": "5",
+    "fullName": "นายโมลี ปอล",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-06",
+    "level": "ม.6",
+    "room": "3",
+    "no": "6",
+    "fullName": "นายเหม่ง มัด",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-07",
+    "level": "ม.6",
+    "room": "3",
+    "no": "7",
+    "fullName": "นายณัฐเศรษฐ์ บุญสูง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-08",
+    "level": "ม.6",
+    "room": "3",
+    "no": "8",
+    "fullName": "นายนพณัฐ สีนิลหรั่ง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-09",
+    "level": "ม.6",
+    "room": "3",
+    "no": "9",
+    "fullName": "นายพีรดนย์ ประทุม",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-10",
+    "level": "ม.6",
+    "room": "3",
+    "no": "10",
+    "fullName": "นายธานัท ไชยโพธิ์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-11",
+    "level": "ม.6",
+    "room": "3",
+    "no": "11",
+    "fullName": "นายปวีร์ สรรพา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-12",
+    "level": "ม.6",
+    "room": "3",
+    "no": "12",
+    "fullName": "นายพีรพัฒน์ แก้วขอนแก่น",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-13",
+    "level": "ม.6",
+    "room": "3",
+    "no": "13",
+    "fullName": "นายภาสกรณ์ ปรีพันธุ์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-14",
+    "level": "ม.6",
+    "room": "3",
+    "no": "14",
+    "fullName": "นางสาวนันทิพร จันทร",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-15",
+    "level": "ม.6",
+    "room": "3",
+    "no": "15",
+    "fullName": "นางสาวธิดารัตน์ ตุ้มพ่วง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-16",
+    "level": "ม.6",
+    "room": "3",
+    "no": "16",
+    "fullName": "นางสาวพรรณนารา สุภารัตน์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-17",
+    "level": "ม.6",
+    "room": "3",
+    "no": "17",
+    "fullName": "นางสาวกัณณวี เกษร",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-18",
+    "level": "ม.6",
+    "room": "3",
+    "no": "18",
+    "fullName": "นางสาวแพรวา วงอุทร",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-19",
+    "level": "ม.6",
+    "room": "3",
+    "no": "19",
+    "fullName": "นางสาวฉัตรพิชญา หนูรอด",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-20",
+    "level": "ม.6",
+    "room": "3",
+    "no": "20",
+    "fullName": "นางสาวนพินธร ไชยมงคล",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-21",
+    "level": "ม.6",
+    "room": "3",
+    "no": "21",
+    "fullName": "นางสาวบัณฑิตา โตคร้าม",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-22",
+    "level": "ม.6",
+    "room": "3",
+    "no": "22",
+    "fullName": "นางสาวปิยาพัชร อาจมุณี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-23",
+    "level": "ม.6",
+    "room": "3",
+    "no": "23",
+    "fullName": "นางสาวกรวิภา พุทธศรี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-24",
+    "level": "ม.6",
+    "room": "3",
+    "no": "24",
+    "fullName": "นางสาวจุฑารัตน์ สมคณะ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-25",
+    "level": "ม.6",
+    "room": "3",
+    "no": "25",
+    "fullName": "นางสาวชุติกา จันทะศิลา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-26",
+    "level": "ม.6",
+    "room": "3",
+    "no": "26",
+    "fullName": "นางสาวปวันรัตน์ จินตนา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-27",
+    "level": "ม.6",
+    "room": "3",
+    "no": "27",
+    "fullName": "นางสาวพนิดา เทพรินทร์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-28",
+    "level": "ม.6",
+    "room": "3",
+    "no": "28",
+    "fullName": "นางสาวสุดารัตน์ วงษ์หงษ์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-29",
+    "level": "ม.6",
+    "room": "3",
+    "no": "29",
+    "fullName": "นางสาวอริสา สาผุยธรรม",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-30",
+    "level": "ม.6",
+    "room": "3",
+    "no": "30",
+    "fullName": "นางสาวกฤติยา ลึกนาดี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-31",
+    "level": "ม.6",
+    "room": "3",
+    "no": "31",
+    "fullName": "นางสาวขวัญหทัย ฤทธิ์ฉ่ำ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-32",
+    "level": "ม.6",
+    "room": "3",
+    "no": "32",
+    "fullName": "นางสาวชลกร เจริญดี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-33",
+    "level": "ม.6",
+    "room": "3",
+    "no": "33",
+    "fullName": "นางสาวณัฐภัสสร ภูมิขุนทด",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-34",
+    "level": "ม.6",
+    "room": "3",
+    "no": "34",
+    "fullName": "นางสาวดิษย์ฤดี วิมานนท์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-35",
+    "level": "ม.6",
+    "room": "3",
+    "no": "35",
+    "fullName": "นางสาวธนพร มีชูนึก",
+    "active": true
+  },
+  {
+    "studentKey": "M6-03-36",
+    "level": "ม.6",
+    "room": "3",
+    "no": "36",
+    "fullName": "นางสาวประภาพร พันธ์แก่น",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-01",
+    "level": "ม.6",
+    "room": "4",
+    "no": "1",
+    "fullName": "นายธิติพงษ์ บุญทะการ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-02",
+    "level": "ม.6",
+    "room": "4",
+    "no": "2",
+    "fullName": "นายกรวิชญ์ ชัยโย",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-03",
+    "level": "ม.6",
+    "room": "4",
+    "no": "3",
+    "fullName": "นายชุติพนธ์ พิจารณ์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-04",
+    "level": "ม.6",
+    "room": "4",
+    "no": "4",
+    "fullName": "นายกฤติเดช เชตพันธุ์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-05",
+    "level": "ม.6",
+    "room": "4",
+    "no": "5",
+    "fullName": "นายจารุพัฒน์ นาดี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-06",
+    "level": "ม.6",
+    "room": "4",
+    "no": "6",
+    "fullName": "นายปิยวัฒน์ วิเชียรพจน์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-07",
+    "level": "ม.6",
+    "room": "4",
+    "no": "7",
+    "fullName": "นายพรพิพัฒน์ สังข์ทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-08",
+    "level": "ม.6",
+    "room": "4",
+    "no": "8",
+    "fullName": "นายคริษฐ์ ยั่งยืน",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-09",
+    "level": "ม.6",
+    "room": "4",
+    "no": "9",
+    "fullName": "นายธนวันต์ ภูจันทึก",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-10",
+    "level": "ม.6",
+    "room": "4",
+    "no": "10",
+    "fullName": "นายปัญญา แก้วโสตร์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-11",
+    "level": "ม.6",
+    "room": "4",
+    "no": "11",
+    "fullName": "นายพิทวัส ปาลวัฒน์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-12",
+    "level": "ม.6",
+    "room": "4",
+    "no": "12",
+    "fullName": "นายปุญญพัฒน์ เจ็ดจำลอง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-13",
+    "level": "ม.6",
+    "room": "4",
+    "no": "13",
+    "fullName": "นายพบธรรม จักรสมรชัย",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-14",
+    "level": "ม.6",
+    "room": "4",
+    "no": "14",
+    "fullName": "นายภูริวัจน์ ศิระวิเชษฐ์กุล",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-15",
+    "level": "ม.6",
+    "room": "4",
+    "no": "15",
+    "fullName": "นายจักรภัทร ประทุม",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-16",
+    "level": "ม.6",
+    "room": "4",
+    "no": "16",
+    "fullName": "นายฐิตินันท์ เชิดบารมี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-17",
+    "level": "ม.6",
+    "room": "4",
+    "no": "17",
+    "fullName": "นายศุภณัฐ เนตรายนต์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-18",
+    "level": "ม.6",
+    "room": "4",
+    "no": "18",
+    "fullName": "นายจิรสิน วรรณวิจิตร",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-19",
+    "level": "ม.6",
+    "room": "4",
+    "no": "19",
+    "fullName": "นายภูริวัฒน์ สีสด",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-20",
+    "level": "ม.6",
+    "room": "4",
+    "no": "20",
+    "fullName": "นายสุระสิน ศรีภิรมย์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-21",
+    "level": "ม.6",
+    "room": "4",
+    "no": "21",
+    "fullName": "นายณัฐดนัย นิลสระคู",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-22",
+    "level": "ม.6",
+    "room": "4",
+    "no": "22",
+    "fullName": "นางสาวภัทรนันท์ ม่วงมั่งมี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-23",
+    "level": "ม.6",
+    "room": "4",
+    "no": "23",
+    "fullName": "นางสาวมนัสวี จำปาทิพย์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-24",
+    "level": "ม.6",
+    "room": "4",
+    "no": "24",
+    "fullName": "นางสาวจิราพัชร เครื่องเทศ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-25",
+    "level": "ม.6",
+    "room": "4",
+    "no": "25",
+    "fullName": "นางสาวธัญลักษณ์ นาดี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-26",
+    "level": "ม.6",
+    "room": "4",
+    "no": "26",
+    "fullName": "นางสาวพลอยณภัทร ฉิมพาลี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-27",
+    "level": "ม.6",
+    "room": "4",
+    "no": "27",
+    "fullName": "นางสาวมาริสา เชิดฉาย",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-28",
+    "level": "ม.6",
+    "room": "4",
+    "no": "28",
+    "fullName": "นางสาวพีรยา นนทภักดี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-29",
+    "level": "ม.6",
+    "room": "4",
+    "no": "29",
+    "fullName": "นางสาวบุณยาพร วงค์ยา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-30",
+    "level": "ม.6",
+    "room": "4",
+    "no": "30",
+    "fullName": "นางสาวอมรรัตน์ วงษ์สาโรจน์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-31",
+    "level": "ม.6",
+    "room": "4",
+    "no": "31",
+    "fullName": "นางสาวเพียงขวัญ เวชสุทัด",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-32",
+    "level": "ม.6",
+    "room": "4",
+    "no": "32",
+    "fullName": "นางสาวธนพร ค้ำจุล",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-33",
+    "level": "ม.6",
+    "room": "4",
+    "no": "33",
+    "fullName": "นางสาวประทุมทิพย์ หลไทยสงค์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-34",
+    "level": "ม.6",
+    "room": "4",
+    "no": "34",
+    "fullName": "นางสาวปาริฉัตร โตสารเดช",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-35",
+    "level": "ม.6",
+    "room": "4",
+    "no": "35",
+    "fullName": "นางสาวพรพนา สายชะนะ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-36",
+    "level": "ม.6",
+    "room": "4",
+    "no": "36",
+    "fullName": "นางสาวพัชรินทร์ ทรัพย์เจริญรุ่ง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-37",
+    "level": "ม.6",
+    "room": "4",
+    "no": "37",
+    "fullName": "นางสาวศิรมณี ทองแลบ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-04-38",
+    "level": "ม.6",
+    "room": "4",
+    "no": "38",
+    "fullName": "นางสาวอุ้มขวัญ สุคำชา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-01",
+    "level": "ม.6",
+    "room": "5",
+    "no": "1",
+    "fullName": "นายภูมิพัฒน์ เฮ้งสวัสดิ์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-02",
+    "level": "ม.6",
+    "room": "5",
+    "no": "2",
+    "fullName": "นายอดิวิศว์ โพธิ์ศรีสูง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-03",
+    "level": "ม.6",
+    "room": "5",
+    "no": "3",
+    "fullName": "นายแทนไทย สุกทน",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-04",
+    "level": "ม.6",
+    "room": "5",
+    "no": "4",
+    "fullName": "นายรณกร บุญญรภาภัทร์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-05",
+    "level": "ม.6",
+    "room": "5",
+    "no": "5",
+    "fullName": "นายอภิวรรธณ์ อัดแป",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-06",
+    "level": "ม.6",
+    "room": "5",
+    "no": "6",
+    "fullName": "นายรัชตะ สุขเอม",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-07",
+    "level": "ม.6",
+    "room": "5",
+    "no": "7",
+    "fullName": "นายจิรกร สีคุ้ม",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-08",
+    "level": "ม.6",
+    "room": "5",
+    "no": "8",
+    "fullName": "นายนนท์นริฐ ดำรงเลิศพิริยกุล",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-09",
+    "level": "ม.6",
+    "room": "5",
+    "no": "9",
+    "fullName": "นายวรเศรษฐ์ จิราอภิภัทร์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-10",
+    "level": "ม.6",
+    "room": "5",
+    "no": "10",
+    "fullName": "นายณัฐพล ศรีมงคล",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-11",
+    "level": "ม.6",
+    "room": "5",
+    "no": "11",
+    "fullName": "นางสาวราชนก สรหงษ์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-12",
+    "level": "ม.6",
+    "room": "5",
+    "no": "12",
+    "fullName": "นางสาวพรทิพย์ ทองแดง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-13",
+    "level": "ม.6",
+    "room": "5",
+    "no": "13",
+    "fullName": "นางสาวอริษา ไวสุวรรณ์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-14",
+    "level": "ม.6",
+    "room": "5",
+    "no": "14",
+    "fullName": "นางสาวกาลัญญุตา จงกลณีย์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-15",
+    "level": "ม.6",
+    "room": "5",
+    "no": "15",
+    "fullName": "นางสาวรัฐพร เหลืองประเสริฐ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-16",
+    "level": "ม.6",
+    "room": "5",
+    "no": "16",
+    "fullName": "นางสาวชนิสรา มะรัตน์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-17",
+    "level": "ม.6",
+    "room": "5",
+    "no": "17",
+    "fullName": "นางสาวปัญฑารีย์ ธรรมเสถียร",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-18",
+    "level": "ม.6",
+    "room": "5",
+    "no": "18",
+    "fullName": "นางสาวปาจรีย์ ทองจันทร์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-19",
+    "level": "ม.6",
+    "room": "5",
+    "no": "19",
+    "fullName": "นางสาวฝน กัมพูชา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-20",
+    "level": "ม.6",
+    "room": "5",
+    "no": "20",
+    "fullName": "นางสาวพิรยา ภักดีนอก",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-21",
+    "level": "ม.6",
+    "room": "5",
+    "no": "21",
+    "fullName": "นางสาวชนิดาพร แก้วทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-22",
+    "level": "ม.6",
+    "room": "5",
+    "no": "22",
+    "fullName": "นางสาวเบญริน คำภิราช",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-23",
+    "level": "ม.6",
+    "room": "5",
+    "no": "23",
+    "fullName": "นางสาวขวัญฤทัย บัวมี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-24",
+    "level": "ม.6",
+    "room": "5",
+    "no": "24",
+    "fullName": "นางสาวเพชรลดา มะณีวัน",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-25",
+    "level": "ม.6",
+    "room": "5",
+    "no": "25",
+    "fullName": "นางสาววันทกาญจน์ เล็กยา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-26",
+    "level": "ม.6",
+    "room": "5",
+    "no": "26",
+    "fullName": "นางสาวสายสวรรค์ ทองถวิล",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-27",
+    "level": "ม.6",
+    "room": "5",
+    "no": "27",
+    "fullName": "นางสาววรันญา สุขจันทึก",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-28",
+    "level": "ม.6",
+    "room": "5",
+    "no": "28",
+    "fullName": "นางสาวสุภัสรา เรืองปัญญา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-29",
+    "level": "ม.6",
+    "room": "5",
+    "no": "29",
+    "fullName": "นางสาวพรชิตา ผุยมา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-30",
+    "level": "ม.6",
+    "room": "5",
+    "no": "30",
+    "fullName": "นางสาวณฐวรรณ นิ่มชม",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-31",
+    "level": "ม.6",
+    "room": "5",
+    "no": "31",
+    "fullName": "นางสาวปวันพัสตร์ หล่วนพานิช",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-32",
+    "level": "ม.6",
+    "room": "5",
+    "no": "32",
+    "fullName": "นางสาววรัญยา พันมาลา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-33",
+    "level": "ม.6",
+    "room": "5",
+    "no": "33",
+    "fullName": "นางสาววีร์สุดา บริบูรณ์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-34",
+    "level": "ม.6",
+    "room": "5",
+    "no": "34",
+    "fullName": "นางสาวศศิพร วงราช",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-35",
+    "level": "ม.6",
+    "room": "5",
+    "no": "35",
+    "fullName": "นางสาวจรรยพร อิ่มบุญ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-36",
+    "level": "ม.6",
+    "room": "5",
+    "no": "36",
+    "fullName": "นางสาวพิยดา เอบประโคน",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-37",
+    "level": "ม.6",
+    "room": "5",
+    "no": "37",
+    "fullName": "นางสาวศศินิภา ฝาระมี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-38",
+    "level": "ม.6",
+    "room": "5",
+    "no": "38",
+    "fullName": "นางสาวสุนิสา สาหร่าย",
+    "active": true
+  },
+  {
+    "studentKey": "M6-05-39",
+    "level": "ม.6",
+    "room": "5",
+    "no": "39",
+    "fullName": "นางสาวศุภรัตน์ สุวรรณสุข",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-01",
+    "level": "ม.6",
+    "room": "6",
+    "no": "1",
+    "fullName": "นายพันกร บวมขุนทด",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-02",
+    "level": "ม.6",
+    "room": "6",
+    "no": "2",
+    "fullName": "นายธรรมนูญ เขียวอ่อน",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-03",
+    "level": "ม.6",
+    "room": "6",
+    "no": "3",
+    "fullName": "นายนนทกร ลาภเกิน",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-04",
+    "level": "ม.6",
+    "room": "6",
+    "no": "4",
+    "fullName": "นายณัฐกรณ์ มีวงษ์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-05",
+    "level": "ม.6",
+    "room": "6",
+    "no": "5",
+    "fullName": "นายปวรัตน์ โพธิ์ทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-06",
+    "level": "ม.6",
+    "room": "6",
+    "no": "6",
+    "fullName": "นายวิชญะภูมิ ชัยศรี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-07",
+    "level": "ม.6",
+    "room": "6",
+    "no": "7",
+    "fullName": "นายสุรสิทธิ์ สุกทน",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-08",
+    "level": "ม.6",
+    "room": "6",
+    "no": "8",
+    "fullName": "นายเดชาพล ชัยสงค์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-09",
+    "level": "ม.6",
+    "room": "6",
+    "no": "9",
+    "fullName": "นายพิชญะ นรดี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-10",
+    "level": "ม.6",
+    "room": "6",
+    "no": "10",
+    "fullName": "นางสาวภานรินทร์ สมคิด",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-11",
+    "level": "ม.6",
+    "room": "6",
+    "no": "11",
+    "fullName": "นางสาวรุจิรา อรจันทร์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-12",
+    "level": "ม.6",
+    "room": "6",
+    "no": "12",
+    "fullName": "นางสาวจรรยพร พานทอง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-13",
+    "level": "ม.6",
+    "room": "6",
+    "no": "13",
+    "fullName": "นางสาวอรวรรยา ศรีเดช",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-14",
+    "level": "ม.6",
+    "room": "6",
+    "no": "14",
+    "fullName": "นางสาวสิรินทรา ตราสูงเนิน",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-15",
+    "level": "ม.6",
+    "room": "6",
+    "no": "15",
+    "fullName": "นางสาวเปรมสุข ดาวเรือง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-16",
+    "level": "ม.6",
+    "room": "6",
+    "no": "16",
+    "fullName": "นางสาวอัญชิษฐา พุ่มรัตน์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-17",
+    "level": "ม.6",
+    "room": "6",
+    "no": "17",
+    "fullName": "นางสาวกิ่งกาญจนา ช่องงูเหลือม",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-18",
+    "level": "ม.6",
+    "room": "6",
+    "no": "18",
+    "fullName": "นางสาวนรีกานต์ เทพเสนา",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-19",
+    "level": "ม.6",
+    "room": "6",
+    "no": "19",
+    "fullName": "นางสาวปทิตตา ลายประโคน",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-20",
+    "level": "ม.6",
+    "room": "6",
+    "no": "20",
+    "fullName": "นางสาวอารีรัตน์ ทวีผล",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-21",
+    "level": "ม.6",
+    "room": "6",
+    "no": "21",
+    "fullName": "นางสาวชัญญา เอมโอษฐ์",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-22",
+    "level": "ม.6",
+    "room": "6",
+    "no": "22",
+    "fullName": "นางสาวนลินี หาญชัย",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-23",
+    "level": "ม.6",
+    "room": "6",
+    "no": "23",
+    "fullName": "นางสาวนีน่า เตรียมดี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-24",
+    "level": "ม.6",
+    "room": "6",
+    "no": "24",
+    "fullName": "นางสาวปภาวี ศรีบุญเรือง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-25",
+    "level": "ม.6",
+    "room": "6",
+    "no": "25",
+    "fullName": "นางสาวปี สะอาด",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-26",
+    "level": "ม.6",
+    "room": "6",
+    "no": "26",
+    "fullName": "นางสาวภัทร์ธีรา อินทร์บำรุง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-27",
+    "level": "ม.6",
+    "room": "6",
+    "no": "27",
+    "fullName": "นางสาววรินรำไพ ศิริธรรม",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-28",
+    "level": "ม.6",
+    "room": "6",
+    "no": "28",
+    "fullName": "นางสาวศศิพิมล สุดแดน",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-29",
+    "level": "ม.6",
+    "room": "6",
+    "no": "29",
+    "fullName": "นางสาวศิริรัตน์ เค้ามูล",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-30",
+    "level": "ม.6",
+    "room": "6",
+    "no": "30",
+    "fullName": "นางสาวศุภรัตน์ คินันติ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-31",
+    "level": "ม.6",
+    "room": "6",
+    "no": "31",
+    "fullName": "นางสาวสรัลรัตน์ จันทฑีโร",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-32",
+    "level": "ม.6",
+    "room": "6",
+    "no": "32",
+    "fullName": "นางสาวสุพิชชา เชิดชู",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-33",
+    "level": "ม.6",
+    "room": "6",
+    "no": "33",
+    "fullName": "นางสาวสุพิชชา วันดี",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-34",
+    "level": "ม.6",
+    "room": "6",
+    "no": "34",
+    "fullName": "นางสาวอัจจิมาพร สรรพกิจ",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-35",
+    "level": "ม.6",
+    "room": "6",
+    "no": "35",
+    "fullName": "นางสาวทองศิริ ลครพล",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-36",
+    "level": "ม.6",
+    "room": "6",
+    "no": "36",
+    "fullName": "นางสาวจันทมณี เมืองเอี่ยม",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-37",
+    "level": "ม.6",
+    "room": "6",
+    "no": "37",
+    "fullName": "นางสาวญาณิศา ราชบุตร",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-38",
+    "level": "ม.6",
+    "room": "6",
+    "no": "38",
+    "fullName": "นางสาวศกลวรรณ พันชนัง",
+    "active": true
+  },
+  {
+    "studentKey": "M6-06-39",
+    "level": "ม.6",
+    "room": "6",
+    "no": "39",
+    "fullName": "นางสาวศรัณรัชย์ นาคเถื่อน",
+    "active": true
+  }
+]

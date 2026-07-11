@@ -1,0 +1,9 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // ใช้เฉพาะตอนทดสอบ 5 นาทีแรกเท่านั้น ห้ามใช้ Launch จริง
+    match /{document=**} {
+      allow read, write: if request.auth != null;
+    }
+  }
+}

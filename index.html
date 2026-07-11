@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ระบบสวดมนต์สรภัญญะ V3 Firebase</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <div class="school" id="schoolName">โรงเรียน</div>
+      <h1 id="systemName">ระบบสวดมนต์สรภัญญะ</h1>
+      <p id="homeStatus">กำลังโหลดระบบ...</p>
+    </div>
+    <div class="top-actions">
+      <button class="btn ghost" data-nav="home">หน้าแรก</button>
+      <button class="btn ghost" id="btnAdminOpen">Admin</button>
+    </div>
+  </header>
+
+  <main class="app-shell">
+    <section id="viewHome" class="view active">
+      <div class="hero card">
+        <div class="hero-copy">
+          <span class="badge">V3 Firebase Zero-Budget</span>
+          <h2>สวดมนต์ ส่งคะแนนเร็วขึ้น ไม่ใช้ GAS</h2>
+          <p>คะแนนคำนวณในเครื่องนักเรียน และส่งเข้า Firestore หลังสวดจบ 1 ครั้ง</p>
+          <div class="home-actions">
+            <button class="btn primary big" id="btnStartGate">เริ่มสวดมนต์</button>
+            <button class="btn secondary" id="btnCheckSystem">ตรวจสถานะระบบ</button>
+          </div>
+          <div id="browserGate" class="notice hidden">
+            <strong>ควรเปิดด้วย Chrome / Safari</strong>
+            <p id="browserGateText"></p>
+            <ol id="browserSteps"></ol>
+            <button class="btn secondary" id="btnOpenBrowser">เปิดด้วย Browser เครื่อง</button>
+            <button class="btn ghost" id="btnCopyLink">คัดลอกลิงก์</button>
+          </div>
+        </div>
+        <div class="hero-panel">
+          <div class="stat"><span>สถานะ</span><strong id="systemOpenText">-</strong></div>
+          <div class="stat"><span>สัปดาห์</span><strong id="weekText">-</strong></div>
+          <div class="stat"><span>Firebase</span><strong id="firebaseText">-</strong></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="viewSelect" class="view">
+      <div class="card narrow">
+        <span class="badge">ขั้นที่ 1</span>
+        <h2>เลือกข้อมูลนักเรียน</h2>
+        <div class="form-grid">
+          <label>ระดับชั้น
+            <select id="levelSelect"><option value="">เลือกระดับชั้น</option></select>
+          </label>
+          <label>ห้อง
+            <select id="roomSelect"><option value="">เลือกห้อง</option></select>
+          </label>
+          <label class="full">ชื่อ-นามสกุล
+            <select id="studentSelect"><option value="">เลือกชื่อ-นามสกุล</option></select>
+          </label>
+          <label class="full">เลขประจำตัวนักเรียน 5 หลัก
+            <input id="studentIdInput" inputmode="numeric" maxlength="5" placeholder="เช่น 12345" />
+          </label>
+        </div>
+        <div id="studentConfirmBox" class="confirm-box hidden"></div>
+        <div class="row-actions">
+          <button class="btn ghost" data-nav="home">ย้อนกลับ</button>
+          <button class="btn primary" id="btnGoEmoji">ต่อไป: เลือกอีโมจิ</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="viewEmoji" class="view">
+      <div class="card narrow">
+        <span class="badge">ขั้นที่ 2</span>
+        <h2>เลือกอีโมจิประจำตัว 4 ตัว</h2>
+        <p class="muted">อีโมจินี้จะแสดงระหว่างส่งคะแนน และใช้ประกอบหลักฐานหลังบันทึกสำเร็จ</p>
+        <div id="emojiSlots" class="emoji-slots"></div>
+        <div id="emojiPool" class="emoji-pool"></div>
+        <div class="row-actions">
+          <button class="btn ghost" id="btnRandomEmoji">สุ่มให้ฉัน</button>
+          <button class="btn primary" id="btnConfirmEmoji">เริ่มสวดมนต์</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="viewChant" class="view">
+      <div class="chant-layout">
+        <div class="chant-header card">
+          <div>
+            <span class="badge" id="chantMeta">บทสวด</span>
+            <h2 id="chantTitle">-</h2>
+            <p id="chantStudentLine">-</p>
+          </div>
+          <div class="score-box"><span>คะแนนรวม</span><strong id="liveTotalScore">0</strong></div>
+        </div>
+        <div class="chant-stage card" id="chantStage">
+          <div class="reading-guide">เริ่มอ่านจากตรงนี้</div>
+          <div id="chantText" class="chant-text"></div>
+        </div>
+        <div id="rgbFrame" class="chant-controls card">
+          <button class="btn secondary" id="btnMic">ไมค์: เปิด</button>
+          <div><strong id="timerText">00:00</strong><p id="micStateText">กำลังเตรียมไมค์</p></div>
+          <div><strong id="comboText">คอมโบ x0</strong><p>ระบบวัดเสียงจากเครื่องนักเรียน</p></div>
+          <button class="btn primary" id="btnNextChapter">กดค้าง 2 วิ: บทถัดไป</button>
+          <button class="btn ghost" id="btnBackHomeFromChant">ออก</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="viewResult" class="view">
+      <div class="card narrow result-card">
+        <span class="badge">ผลการสวด</span>
+        <h2 id="resultStudentLine">-</h2>
+        <div class="result-score"><span>คะแนนรวม</span><strong id="resultTotalScore">0</strong></div>
+        <h3 id="resultStatus">-</h3>
+        <div id="chapterResultList" class="chapter-list"></div>
+        <div class="emoji-proof">รหัสอีโมจิของฉัน <strong id="resultEmojiCode">-</strong></div>
+        <p id="submitHint" class="muted">กดส่งคะแนนหลังสวดจบ</p>
+        <button class="btn primary big" id="btnSubmitScore">ส่งคะแนนเข้า Firebase</button>
+        <p id="submitStatus" class="submit-status"></p>
+        <div id="receiptBox" class="receipt hidden">
+          <h3>✅ บันทึกคะแนนสำเร็จแล้ว</h3>
+          <p>กรุณาแคปหน้าจอนี้ไว้เป็นหลักฐาน</p>
+          <div id="receiptCode" class="receipt-code">-</div>
+        </div>
+        <button class="btn ghost" id="btnReturnHome">กลับหน้าแรก</button>
+      </div>
+    </section>
+
+    <section id="viewAdmin" class="view">
+      <div class="admin-grid">
+        <div class="card">
+          <span class="badge">Admin</span>
+          <h2>เข้าสู่ระบบหลังบ้าน</h2>
+          <div id="adminLoginBox" class="form-grid">
+            <label class="full">Email Admin
+              <input id="adminEmail" type="email" placeholder="admin@school.ac.th" />
+            </label>
+            <label class="full">Password
+              <input id="adminPassword" type="password" placeholder="รหัสผ่าน Firebase Auth" />
+            </label>
+            <button class="btn primary full" id="btnAdminLogin">เข้าสู่ระบบ</button>
+          </div>
+          <div id="adminPanel" class="hidden">
+            <p>เข้าสู่ระบบแล้ว: <strong id="adminUserText">-</strong></p>
+            <button class="btn ghost" id="btnAdminLogout">ออกจากระบบ</button>
+          </div>
+        </div>
+
+        <div id="controlPanel" class="card hidden">
+          <span class="badge">Control</span>
+          <h2>เปิด-ปิดระบบ</h2>
+          <div class="form-grid">
+            <label>ภาคเรียน
+              <input id="adminTermKey" placeholder="2569-T1" />
+            </label>
+            <label>สัปดาห์
+              <input id="adminWeekKey" placeholder="W07" />
+            </label>
+            <label class="full">Session ID
+              <input id="adminSessionId" placeholder="2569-T1-W07" />
+            </label>
+            <label>เปิดตั้งแต่
+              <input id="adminOpenAt" type="datetime-local" />
+            </label>
+            <label>ปิดเวลา
+              <input id="adminCloseAt" type="datetime-local" />
+            </label>
+            <label class="full">ข้อความตอนปิดระบบ
+              <input id="adminClosedMessage" placeholder="ระบบปิดรับคะแนนประจำสัปดาห์นี้แล้ว" />
+            </label>
+          </div>
+          <div class="row-actions">
+            <button class="btn primary" id="btnOpenSystem">เปิดระบบ</button>
+            <button class="btn danger" id="btnCloseSystem">ปิดระบบ</button>
+            <button class="btn secondary" id="btnSaveControl">บันทึกค่า</button>
+          </div>
+          <p id="adminControlStatus" class="muted"></p>
+        </div>
+
+        <div id="dashboardPanel" class="card hidden wide">
+          <span class="badge">Dashboard</span>
+          <h2>สรุปคะแนน</h2>
+          <div class="row-actions">
+            <button class="btn primary" id="btnRefreshDashboard">Refresh Dashboard</button>
+            <button class="btn secondary" id="btnToggleAutoRefresh">Auto refresh: ปิด</button>
+            <button class="btn ghost" id="btnExportCsv">Export CSV</button>
+          </div>
+          <p id="dashboardStatus" class="muted">ยังไม่ได้โหลดข้อมูล</p>
+          <div id="dashboardSummary" class="dashboard-summary"></div>
+          <div id="dashboardTables" class="dashboard-tables"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="assets/app.js"></script>
+</body>
+</html>

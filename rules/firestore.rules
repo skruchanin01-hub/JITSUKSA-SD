@@ -1,0 +1,66 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    function isAdmin() {
+      return signedIn()
+        && exists(/databases/$(database)/documents/admins/$(request.auth.uid))
+        && get(/databases/$(database)/documents/admins/$(request.auth.uid)).data.active == true;
+    }
+
+    function controlDoc() {
+      return get(/databases/$(database)/documents/control/current).data;
+    }
+
+    function systemOpenFor(sessionId) {
+      return exists(/databases/$(database)/documents/control/current)
+        && controlDoc().systemOpen == true
+        && controlDoc().sessionId == sessionId
+        && request.time >= controlDoc().openAt
+        && request.time <= controlDoc().closeAt;
+    }
+
+    match /control/{docId} {
+      allow read: if signedIn();
+      allow create, update, delete: if isAdmin();
+    }
+
+    match /admins/{uid} {
+      allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
+      allow create, update, delete: if isAdmin();
+    }
+
+    match /sessions/{sessionId}/submissions/{studentKey} {
+      allow read: if isAdmin();
+
+      allow create: if signedIn()
+        && systemOpenFor(sessionId)
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.sessionId == sessionId
+        && request.resource.data.studentKey == studentKey
+        && request.resource.data.totalScore is int
+        && request.resource.data.totalScore >= 0
+        && request.resource.data.totalScore <= 1000
+        && request.resource.data.submittedAt == request.time
+        && request.resource.data.keys().hasOnly([
+          'uid', 'sessionId', 'termKey', 'weekKey', 'studentKey', 'studentId',
+          'level', 'room', 'no', 'fullName', 'totalScore', 'result', 'emojiCode',
+          'chapterCount', 'chapters', 'submittedAt', 'clientTime', 'source'
+        ]);
+
+      allow update, delete: if false;
+    }
+
+    match /sessions/{sessionId}/summary/{summaryDoc} {
+      allow read: if signedIn();
+      allow create, update, delete: if isAdmin();
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
