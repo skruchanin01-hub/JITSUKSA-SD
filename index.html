@@ -3,8 +3,8 @@
 
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ระบบสวดมนต์สรภัญญะ V3 Firebase</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>ระบบสวดมนต์สรภัญญะ V3.2 Firebase</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700;800&display=swap"
@@ -50,31 +50,87 @@
           <div class="stat"><span>Firebase</span><strong id="firebaseText">-</strong></div>
         </div>
       </div>
+
+      <div id="publicDashboardCard" class="card public-dashboard hidden">
+        <div class="public-dashboard-head">
+          <div>
+            <span class="badge">ผลรอบล่าสุด</span>
+            <h2 id="publicDashboardTitle">Dashboard หลังปิดรอบ</h2>
+            <p id="publicDashboardMeta" class="muted">ยังไม่มีผลประกาศ</p>
+          </div>
+          <button class="btn secondary" id="btnRefreshPublicDashboard">อัปเดตผลล่าสุด</button>
+        </div>
+        <div class="public-winners">
+          <article class="winner-card">
+            <span>🔥 ระดับที่โหดสุด</span>
+            <strong id="publicTopLevel">-</strong>
+            <small id="publicTopLevelScore">-</small>
+          </article>
+          <article class="winner-card">
+            <span>⚡ ห้องที่โหดสุด</span>
+            <strong id="publicTopRoom">-</strong>
+            <small id="publicTopRoomScore">-</small>
+          </article>
+          <article class="winner-card">
+            <span>ผู้ส่งทั้งหมด</span>
+            <strong id="publicTotalSubmitted">0</strong>
+            <small id="publicAverageScore">เฉลี่ย 0</small>
+          </article>
+        </div>
+        <h3>🏆 TOP 10 นักเรียน</h3>
+        <div id="publicTop10" class="public-top10"></div>
+        <p class="public-note">แสดงเฉพาะผลที่ Admin กด “ปิดรอบและประกาศผล” แล้ว ไม่มีการ Auto refresh ฝั่งนักเรียน</p>
+      </div>
     </section>
 
     <section id="viewSelect" class="view">
       <div class="card narrow">
         <span class="badge">ขั้นที่ 1</span>
-        <h2>เลือกข้อมูลนักเรียน</h2>
+        <h2>เลือกข้อมูลผู้สวด</h2>
         <div class="form-grid">
-          <label>ระดับชั้น
-            <select id="levelSelect">
-              <option value="">เลือกระดับชั้น</option>
+          <label class="full">ประเภทผู้สวด
+            <select id="participantTypeSelect">
+              <option value="student">นักเรียน</option>
+              <option value="teacher">ครูและบุคลากร</option>
             </select>
           </label>
-          <label>ห้อง
-            <select id="roomSelect">
-              <option value="">เลือกห้อง</option>
-            </select>
-          </label>
-          <label class="full">ชื่อ-นามสกุล
-            <select id="studentSelect">
-              <option value="">เลือกชื่อ-นามสกุล</option>
-            </select>
-          </label>
-          <label class="full">เลขประจำตัวนักเรียน 5 หลัก
-            <input id="studentIdInput" inputmode="numeric" maxlength="5" placeholder="เช่น 12345" />
-          </label>
+
+          <div id="studentFields" class="form-grid-sub full">
+            <label>ระดับชั้น
+              <select id="levelSelect">
+                <option value="">เลือกระดับชั้น</option>
+              </select>
+            </label>
+            <label>ห้อง
+              <select id="roomSelect">
+                <option value="">เลือกห้อง</option>
+              </select>
+            </label>
+            <label class="full">ชื่อ-นามสกุล
+              <select id="studentSelect">
+                <option value="">เลือกชื่อ-นามสกุล</option>
+              </select>
+            </label>
+            <label class="full">เลขประจำตัวนักเรียน 5 หลัก
+              <input id="studentIdInput" inputmode="numeric" maxlength="5" placeholder="เช่น 12345" />
+            </label>
+          </div>
+
+          <div id="teacherFields" class="form-grid-sub full hidden">
+            <label>ฝ่าย / กลุ่มสาระ
+              <select id="teacherDepartmentSelect">
+                <option value="">เลือกฝ่าย / กลุ่มสาระ</option>
+              </select>
+            </label>
+            <label>ชื่อครูหรือบุคลากร
+              <select id="teacherSelect">
+                <option value="">เลือกชื่อ</option>
+              </select>
+            </label>
+            <label id="teacherCodeLabel" class="full hidden">รหัสยืนยันครู
+              <input id="teacherCodeInput" maxlength="10" placeholder="กรอกรหัสตามที่กำหนด" />
+            </label>
+          </div>
         </div>
         <div id="studentConfirmBox" class="confirm-box hidden"></div>
         <div class="row-actions">
@@ -225,10 +281,13 @@
           </div>
           <div class="row-actions">
             <button class="btn primary" id="btnOpenSystem">เปิดระบบ</button>
-            <button class="btn danger" id="btnCloseSystem">ปิดระบบ</button>
+            <button class="btn danger" id="btnCloseSystem">ปิดระบบอย่างเดียว</button>
+            <button class="btn publish" id="btnCloseAndPublish">ปิดรอบและประกาศผล</button>
             <button class="btn secondary" id="btnSaveControl">บันทึกค่า</button>
           </div>
           <p id="adminControlStatus" class="muted"></p>
+          <p class="admin-warning">ปุ่ม “ปิดรอบและประกาศผล” จะอ่านคะแนนทั้งรอบ 1 ครั้ง คำนวณ TOP 10/ระดับ/ห้อง
+            และบันทึกผลสาธารณะลง control/current เพียง 1 ครั้ง</p>
         </div>
 
         <div id="dashboardPanel" class="card hidden wide">
