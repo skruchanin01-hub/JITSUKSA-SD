@@ -1,0 +1,16 @@
+[
+  {
+    "teacherKey": "T001",
+    "fullName": "นายตัวอย่าง ครูผู้สอน",
+    "department": "กลุ่มสาระการเรียนรู้ตัวอย่าง",
+    "verifyCode": "",
+    "active": true
+  },
+  {
+    "teacherKey": "T002",
+    "fullName": "นางสาวตัวอย่าง บุคลากร",
+    "department": "งานสนับสนุนการศึกษา",
+    "verifyCode": "",
+    "active": true
+  }
+]
