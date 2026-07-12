@@ -20,8 +20,14 @@
   "minRmsThreshold": 10,
   "noiseMargin": 8,
   "activeHoldFrames": 4,
-  "dashboardAutoRefreshSec": 60,
+  "dashboardAutoRefreshSec": 300,
   "dashboardSlowRefreshSec": 300,
   "theme": "soft-yellow-minimal",
-  "firebaseConfigFile": "firebase_config.json"
+  "firebaseConfigFile": "firebase_config.json",
+  "enableTeachers": true,
+  "requireTeacherCode": false,
+  "includeTeachersInPublicRanking": false,
+  "publicDashboardOnlyWhenClosed": true,
+  "publicDashboardRefreshCooldownSec": 60,
+  "rankingMinSubmissionRate": 0.3
 }
